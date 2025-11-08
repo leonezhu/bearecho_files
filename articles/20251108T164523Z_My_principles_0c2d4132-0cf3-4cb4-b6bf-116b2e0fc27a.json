@@ -1,0 +1,376 @@
+{
+  "id": "0c2d4132-0cf3-4cb4-b6bf-116b2e0fc27a",
+  "title": "My principles",
+  "content_type": "paragraph",
+  "content_text": "My principles\n[我的原则]\nI'm going to follow the 1,000-hour skill-learning method recommended by Li Xiaolai to study English.\n[接下来我将参考李笑来推荐的 1000 小时学习技能的方法来学习英语。]\nThe first part is about principles. Here are my current principles:\n[第一篇的内容是关于原则，我现在的原则：]\nI'm a long-term thinker who focuses on lasting value.\n[我是一个长期主义者，我关注长期价值；]\nI work hard before allowing myself to enjoy.\n[我先努力再享乐；]\nI take good care of my body.\n[我关爱自己的身体；]\nI embrace reality and face it positively.\n[我拥抱现实，积极面对现实；]\nI'm a lifelong learner who improves a little every day.\n[我是个终生学习者，每天都会进步一点点；]\nI confront pain and difficulties head-on.\n[我直面痛苦与困难；]\nI search actively instead of relying on algorithmic recommendations.\n[我主动搜索而不是依赖算法推荐；]\nI spend rationally.\n[我理性消费；]\nI treat desires properly.\n[我正确对待欲望；]\nI never get addicted to videos.\n[我从不沉迷于视频；]\nI never binge eat or drink.\n[我从不暴饮暴食；]\nI never get addicted to games.\n[我从不沉迷游戏；]",
+  "created_at": "2025-11-08T16:45:23.651084Z",
+  "language_versions": {
+    "en": {
+      "tts_engine": "edge-tts",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "audio_rel_path": "/audio/20251108T164523Z_My_principles_0c2d4132-0cf3-4cb4-b6bf-116b2e0fc27a_en.wav",
+      "sentences": [
+        {
+          "text": "My principles",
+          "start_time": 0.0,
+          "end_time": 1.344,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 44.68800000000001,
+          "end_time": 44.68800000000001,
+          "language": "en"
+        },
+        {
+          "text": "我的原则",
+          "start_time": 0.0,
+          "end_time": 1.344,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 44.68800000000001,
+          "end_time": 44.68800000000001,
+          "language": "en"
+        },
+        {
+          "text": "I'm going to follow the 1,000-hour skill-learning method recommended by Li Xiaolai to study English.",
+          "start_time": 1.344,
+          "end_time": 7.6080000000000005,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 44.68800000000001,
+          "end_time": 44.68800000000001,
+          "language": "en"
+        },
+        {
+          "text": "接下来我将参考李笑来推荐的 1000 小时学习技能的方法来学习英语。",
+          "start_time": 1.344,
+          "end_time": 7.6080000000000005,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 44.68800000000001,
+          "end_time": 44.68800000000001,
+          "language": "en"
+        },
+        {
+          "text": "The first part is about principles. Here are my current principles:",
+          "start_time": 7.6080000000000005,
+          "end_time": 11.616,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 44.68800000000001,
+          "end_time": 44.68800000000001,
+          "language": "en"
+        },
+        {
+          "text": "第一篇的内容是关于原则，我现在的原则：",
+          "start_time": 7.6080000000000005,
+          "end_time": 11.616,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 44.68800000000001,
+          "end_time": 44.68800000000001,
+          "language": "en"
+        },
+        {
+          "text": "I'm a long-term thinker who focuses on lasting value.",
+          "start_time": 11.616,
+          "end_time": 15.456,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 44.68800000000001,
+          "end_time": 44.68800000000001,
+          "language": "en"
+        },
+        {
+          "text": "我是一个长期主义者，我关注长期价值；",
+          "start_time": 11.616,
+          "end_time": 15.456,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 44.68800000000001,
+          "end_time": 44.68800000000001,
+          "language": "en"
+        },
+        {
+          "text": "I work hard before allowing myself to enjoy.",
+          "start_time": 15.456,
+          "end_time": 18.288,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 44.68800000000001,
+          "end_time": 44.68800000000001,
+          "language": "en"
+        },
+        {
+          "text": "我先努力再享乐；",
+          "start_time": 15.456,
+          "end_time": 18.288,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 44.68800000000001,
+          "end_time": 44.68800000000001,
+          "language": "en"
+        },
+        {
+          "text": "I take good care of my body.",
+          "start_time": 18.288,
+          "end_time": 19.848,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 44.68800000000001,
+          "end_time": 44.68800000000001,
+          "language": "en"
+        },
+        {
+          "text": "我关爱自己的身体；",
+          "start_time": 18.288,
+          "end_time": 19.848,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 44.68800000000001,
+          "end_time": 44.68800000000001,
+          "language": "en"
+        },
+        {
+          "text": "I embrace reality and face it positively.",
+          "start_time": 19.848,
+          "end_time": 23.112,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 44.68800000000001,
+          "end_time": 44.68800000000001,
+          "language": "en"
+        },
+        {
+          "text": "我拥抱现实，积极面对现实；",
+          "start_time": 19.848,
+          "end_time": 23.112,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 44.68800000000001,
+          "end_time": 44.68800000000001,
+          "language": "en"
+        },
+        {
+          "text": "I'm a lifelong learner who improves a little every day.",
+          "start_time": 23.112,
+          "end_time": 26.808,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 44.68800000000001,
+          "end_time": 44.68800000000001,
+          "language": "en"
+        },
+        {
+          "text": "我是个终生学习者，每天都会进步一点点；",
+          "start_time": 23.112,
+          "end_time": 26.808,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 44.68800000000001,
+          "end_time": 44.68800000000001,
+          "language": "en"
+        },
+        {
+          "text": "I confront pain and difficulties head-on.",
+          "start_time": 26.808,
+          "end_time": 29.592,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 44.68800000000001,
+          "end_time": 44.68800000000001,
+          "language": "en"
+        },
+        {
+          "text": "我直面痛苦与困难；",
+          "start_time": 26.808,
+          "end_time": 29.592,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 44.68800000000001,
+          "end_time": 44.68800000000001,
+          "language": "en"
+        },
+        {
+          "text": "I search actively instead of relying on algorithmic recommendations.",
+          "start_time": 29.592,
+          "end_time": 34.583999999999996,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 44.68800000000001,
+          "end_time": 44.68800000000001,
+          "language": "en"
+        },
+        {
+          "text": "我主动搜索而不是依赖算法推荐；",
+          "start_time": 29.592,
+          "end_time": 34.583999999999996,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 44.68800000000001,
+          "end_time": 44.68800000000001,
+          "language": "en"
+        },
+        {
+          "text": "I spend rationally.",
+          "start_time": 34.583999999999996,
+          "end_time": 36.336,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 44.68800000000001,
+          "end_time": 44.68800000000001,
+          "language": "en"
+        },
+        {
+          "text": "我理性消费；",
+          "start_time": 34.583999999999996,
+          "end_time": 36.336,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 44.68800000000001,
+          "end_time": 44.68800000000001,
+          "language": "en"
+        },
+        {
+          "text": "I treat desires properly.",
+          "start_time": 36.336,
+          "end_time": 38.472,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 44.68800000000001,
+          "end_time": 44.68800000000001,
+          "language": "en"
+        },
+        {
+          "text": "我正确对待欲望；",
+          "start_time": 36.336,
+          "end_time": 38.472,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 44.68800000000001,
+          "end_time": 44.68800000000001,
+          "language": "en"
+        },
+        {
+          "text": "I never get addicted to videos.",
+          "start_time": 38.472,
+          "end_time": 40.416000000000004,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 44.68800000000001,
+          "end_time": 44.68800000000001,
+          "language": "en"
+        },
+        {
+          "text": "我从不沉迷于视频；",
+          "start_time": 38.472,
+          "end_time": 40.416000000000004,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 44.68800000000001,
+          "end_time": 44.68800000000001,
+          "language": "en"
+        },
+        {
+          "text": "I never binge eat or drink.",
+          "start_time": 40.416000000000004,
+          "end_time": 42.74400000000001,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 44.68800000000001,
+          "end_time": 44.68800000000001,
+          "language": "en"
+        },
+        {
+          "text": "我从不暴饮暴食；",
+          "start_time": 40.416000000000004,
+          "end_time": 42.74400000000001,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 44.68800000000001,
+          "end_time": 44.68800000000001,
+          "language": "en"
+        },
+        {
+          "text": "I never get addicted to games.",
+          "start_time": 42.74400000000001,
+          "end_time": 44.68800000000001,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 44.68800000000001,
+          "end_time": 44.68800000000001,
+          "language": "en"
+        },
+        {
+          "text": "我从不沉迷游戏；",
+          "start_time": 42.74400000000001,
+          "end_time": 44.68800000000001,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 44.68800000000001,
+          "end_time": 44.68800000000001,
+          "language": "en"
+        }
+      ]
+    }
+  }
+}
