@@ -1,0 +1,161 @@
+{
+  "id": "70e88195-5db1-4c53-9bd1-dbe86f12f985",
+  "title": "Chengdu doesn’t have an...",
+  "content_type": "paragraph",
+  "content_text": "Chengdu doesn’t have an autumn.\n[成都没有秋天]\nIncluding this year, this is the second winter spent in Chengdu.\n[算上今年，这是在成都度过的第二个冬季。]\nIt seems like Chengdu doesn’t really have an autumn—temperatures drop straight into winter, and even the leaves on the roadside don’t have time to turn yellow.\n[成都好像真的没有秋天，温度一下子就降下来进入冬季，连路边的树叶子都来不及变黄。]\nMy most vivid memory of autumn still dates back to my senior year in high school, when the weather was neither too cold nor too hot—just perfect. The gentle breeze felt incredibly soothing on my skin, though it also had a sneaky way of making me drowsy. So, during class, I’d often find myself dozing off at the back desks, hiding behind stacks of textbooks piled like little hills.\n[记忆里对秋天最深刻的记忆还是在高三的课堂上，那时的天气不冷不热，风吹在肌肤上格外舒服，就是容易犯困，一上课趴在教室后排的课桌上，躲在垒成小山的课本后面。]\nThe sun streamed in through the window, warming my back as I squinted out at the swaying, rustling sycamore trees, their leaves falling gently in a mesmerizing rhythm. At that moment, I found myself lost in daydreams—imagining a future where I’d be behind the wheel of a Jeep, with the person I loved by my side in the passenger seat, driving off into the vast grasslands, across the desolate Gobi Desert, and toward uncharted horizons yet to be explored.\n[太阳从窗外照射进来晒在背上，眯着眼望着窗外悉悉索索落叶的梧桐树阵阵出神。那时候幻想着以后开着吉普车，副驾坐着自己喜欢的人，去大草原、去戈壁滩，去没有去过的远方。]\nActually, last year before heading out on my motorcycle trip, I was still considering waiting a bit longer. But then I realized that if I kept delaying, I’d never end up setting off at all—so I decided to go solo on a long-distance journey instead, calling it, rather romantically, \"a one-person elopement.\"\n[其实去年摩旅前还想着再等等，后来感觉再等自己也没法出发了，就一人出发进行了一场长途旅行，美其名曰一个人的私奔。]",
+  "created_at": "2025-11-08T18:48:00.336902Z",
+  "language_versions": {
+    "en": {
+      "tts_engine": "edge-tts",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "audio_url": "https://pub-c03f3674ad6c4b8ea960ee176f0d19dc.r2.dev/audio/fdc1a99c-7446-4e94-bc76-3bfceb212a99/70e88195-5db1-4c53-9bd1-dbe86f12f985/70e88195-5db1-4c53-9bd1-dbe86f12f985_en.wav",
+      "audio_rel_path": "/audio/20251108T184800Z_Chengdu_doesn_t_have_an__70e88195-5db1-4c53-9bd1-dbe86f12f985_en.wav",
+      "sentences": [
+        {
+          "text": "Chengdu doesn’t have an autumn.",
+          "start_time": 0.0,
+          "end_time": 2.04,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 89.63999999999999,
+          "end_time": 89.63999999999999,
+          "language": "en"
+        },
+        {
+          "text": "成都没有秋天",
+          "start_time": 0.0,
+          "end_time": 2.04,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 89.63999999999999,
+          "end_time": 89.63999999999999,
+          "language": "en"
+        },
+        {
+          "text": "Including this year, this is the second winter spent in Chengdu.",
+          "start_time": 2.04,
+          "end_time": 6.312,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 89.63999999999999,
+          "end_time": 89.63999999999999,
+          "language": "en"
+        },
+        {
+          "text": "算上今年，这是在成都度过的第二个冬季。",
+          "start_time": 2.04,
+          "end_time": 6.312,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 89.63999999999999,
+          "end_time": 89.63999999999999,
+          "language": "en"
+        },
+        {
+          "text": "It seems like Chengdu doesn’t really have an autumn—temperatures drop straight into winter, and even the leaves on the roadside don’t have time to turn yellow.",
+          "start_time": 6.312,
+          "end_time": 15.48,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 89.63999999999999,
+          "end_time": 89.63999999999999,
+          "language": "en"
+        },
+        {
+          "text": "成都好像真的没有秋天，温度一下子就降下来进入冬季，连路边的树叶子都来不及变黄。",
+          "start_time": 6.312,
+          "end_time": 15.48,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 89.63999999999999,
+          "end_time": 89.63999999999999,
+          "language": "en"
+        },
+        {
+          "text": "My most vivid memory of autumn still dates back to my senior year in high school, when the weather was neither too cold nor too hot—just perfect. The gentle breeze felt incredibly soothing on my skin, though it also had a sneaky way of making me drowsy. So, during class, I’d often find myself dozing off at the back desks, hiding behind stacks of textbooks piled like little hills.",
+          "start_time": 15.48,
+          "end_time": 40.775999999999996,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 89.63999999999999,
+          "end_time": 89.63999999999999,
+          "language": "en"
+        },
+        {
+          "text": "记忆里对秋天最深刻的记忆还是在高三的课堂上，那时的天气不冷不热，风吹在肌肤上格外舒服，就是容易犯困，一上课趴在教室后排的课桌上，躲在垒成小山的课本后面。",
+          "start_time": 15.48,
+          "end_time": 40.775999999999996,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 89.63999999999999,
+          "end_time": 89.63999999999999,
+          "language": "en"
+        },
+        {
+          "text": "The sun streamed in through the window, warming my back as I squinted out at the swaying, rustling sycamore trees, their leaves falling gently in a mesmerizing rhythm. At that moment, I found myself lost in daydreams—imagining a future where I’d be behind the wheel of a Jeep, with the person I loved by my side in the passenger seat, driving off into the vast grasslands, across the desolate Gobi Desert, and toward uncharted horizons yet to be explored.",
+          "start_time": 40.775999999999996,
+          "end_time": 71.03999999999999,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 89.63999999999999,
+          "end_time": 89.63999999999999,
+          "language": "en"
+        },
+        {
+          "text": "太阳从窗外照射进来晒在背上，眯着眼望着窗外悉悉索索落叶的梧桐树阵阵出神。那时候幻想着以后开着吉普车，副驾坐着自己喜欢的人，去大草原、去戈壁滩，去没有去过的远方。",
+          "start_time": 40.775999999999996,
+          "end_time": 71.03999999999999,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 89.63999999999999,
+          "end_time": 89.63999999999999,
+          "language": "en"
+        },
+        {
+          "text": "Actually, last year before heading out on my motorcycle trip, I was still considering waiting a bit longer. But then I realized that if I kept delaying, I’d never end up setting off at all—so I decided to go solo on a long-distance journey instead, calling it, rather romantically, \"a one-person elopement.\"",
+          "start_time": 71.03999999999999,
+          "end_time": 89.63999999999999,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 89.63999999999999,
+          "end_time": 89.63999999999999,
+          "language": "en"
+        },
+        {
+          "text": "其实去年摩旅前还想着再等等，后来感觉再等自己也没法出发了，就一人出发进行了一场长途旅行，美其名曰一个人的私奔。",
+          "start_time": 71.03999999999999,
+          "end_time": 89.63999999999999,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 89.63999999999999,
+          "end_time": 89.63999999999999,
+          "language": "en"
+        }
+      ]
+    }
+  }
+}
