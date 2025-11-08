@@ -1,0 +1,533 @@
+{
+  "id": "60050b5c-c63b-45fd-8ae5-a6cda8b3d0a3",
+  "title": "The relationship between...",
+  "content_type": "paragraph",
+  "content_text": "The relationship between values and concentration\n[价值观与专注的关系]\nYour values determine what you focus on—values are what you believe matters most, while focus is where you place your attention.\n[价值观决定你专注的方向，价值观是你认为什么最重要，专注是你把注意力投注在哪里。]\nIf you value growth over pleasure, you're more likely to focus on learning, exercise, and self-improvement.\n[如果你的价值观是成长优先于享乐，你更容易专注在学习、锻炼、自我提升上。]\nIf you prioritize short-term emotional gratification, your focus will drift toward short videos, gaming, and impulsive spending.\n[如果你的价值观是短期情绪快感优先，你更容易专注在短视频、游戏、冲动消费上。]\nWe can’t focus on everything, so we must choose—and that choice is a reflection of our “invisible values.”\n[我们无法对所有事情都保持专注，因此必须有所选择，而选择专注的对象，本质上就是“隐形价值观”的投射。]\nThe clearer your values, the more stable your behavior, and the easier it is to focus.\n[价值观越明确，行为越不摇摆，专注力也就越容易聚焦。]\nFor example:\n[比如说：]\nIf you know you care about freelancing and skill-building, it’s easier to focus on improving your English or writing skills.\n[如果你清楚自己重视自由职业和技能积累，那么在提升英语或写作能力时更容易专注。]\nIf you value living healthily and with clarity, you’ll have more willpower when working out or quitting addictive behaviors.\n[如果你知道自己想要健康清醒地活着，那么在健身和戒除上瘾行为时会更有意志力支撑。]\nOn the other hand, vague values lead to fractured focus, which causes:\n[而相反，如果价值观模糊，会导致专注力被撕裂，表现为：]\nScattered energy;\n[精力分散；]\nFrequent cycles of “start–interrupt–self-blame”;\n[经常陷入“开始—中断—自责”的循环；]\nAnd the inability to build positive long-term momentum.\n[难以形成长期专注的正反馈。]\nFocus isn’t about forcing yourself—it’s maintained through value clarity and smart context design.\n[专注不是靠强迫意志力，而是依靠“价值排序 + 情境设计”来维持。]\nWe often think focus requires endurance, but that’s a misunderstanding.\n[我们常以为专注靠强忍，其实并非如此。]\nReal focus comes from:\n[真正的专注源于：]\n1. A value-driven long-term vision (Why am I doing this?)\n→ This gives you internal support when faced with temptation.\n[1. 价值观驱动的长期愿景（我为什么要做这件事）→ 这能在诱惑来临时提供内在支撑。]\n2. Breaking down short-term goals (How do I move forward?)\n→ This helps you enter “action mode” instead of getting stuck in delay.\n[2. 对短期目标的拆解（我该怎么推进）→ 这能让你进入“行动状态”，避免陷入拖延。]\n3. Designing your environment and tools (How do I avoid distractions?)\n→ Focus isn’t about resisting temptation, but removing it.\n[3. 环境和工具的设计（如何避免干扰）→ 专注不是忍住诱惑，而是排除诱惑。]\nAnd all of this starts with knowing what truly matters to you.\n[而这一切的前提是，你清楚自己真正重视的是什么。]",
+  "created_at": "2025-11-08T18:45:22.756420Z",
+  "language_versions": {
+    "en": {
+      "tts_engine": "edge-tts",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "audio_url": "https://pub-c03f3674ad6c4b8ea960ee176f0d19dc.r2.dev/audio/fdc1a99c-7446-4e94-bc76-3bfceb212a99/60050b5c-c63b-45fd-8ae5-a6cda8b3d0a3/60050b5c-c63b-45fd-8ae5-a6cda8b3d0a3_en.wav",
+      "audio_rel_path": "/audio/20251108T184522Z_The_relationship_between__60050b5c-c63b-45fd-8ae5-a6cda8b3d0a3_en.wav",
+      "sentences": [
+        {
+          "text": "The relationship between values and concentration",
+          "start_time": 0.0,
+          "end_time": 3.456,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 114.33600000000003,
+          "end_time": 114.33600000000003,
+          "language": "en"
+        },
+        {
+          "text": "价值观与专注的关系",
+          "start_time": 0.0,
+          "end_time": 3.456,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 114.33600000000003,
+          "end_time": 114.33600000000003,
+          "language": "en"
+        },
+        {
+          "text": "Your values determine what you focus on—values are what you believe matters most, while focus is where you place your attention.",
+          "start_time": 3.456,
+          "end_time": 11.975999999999999,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 114.33600000000003,
+          "end_time": 114.33600000000003,
+          "language": "en"
+        },
+        {
+          "text": "价值观决定你专注的方向，价值观是你认为什么最重要，专注是你把注意力投注在哪里。",
+          "start_time": 3.456,
+          "end_time": 11.975999999999999,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 114.33600000000003,
+          "end_time": 114.33600000000003,
+          "language": "en"
+        },
+        {
+          "text": "If you value growth over pleasure, you're more likely to focus on learning, exercise, and self-improvement.",
+          "start_time": 11.975999999999999,
+          "end_time": 19.055999999999997,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 114.33600000000003,
+          "end_time": 114.33600000000003,
+          "language": "en"
+        },
+        {
+          "text": "如果你的价值观是成长优先于享乐，你更容易专注在学习、锻炼、自我提升上。",
+          "start_time": 11.975999999999999,
+          "end_time": 19.055999999999997,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 114.33600000000003,
+          "end_time": 114.33600000000003,
+          "language": "en"
+        },
+        {
+          "text": "If you prioritize short-term emotional gratification, your focus will drift toward short videos, gaming, and impulsive spending.",
+          "start_time": 19.055999999999997,
+          "end_time": 27.767999999999997,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 114.33600000000003,
+          "end_time": 114.33600000000003,
+          "language": "en"
+        },
+        {
+          "text": "如果你的价值观是短期情绪快感优先，你更容易专注在短视频、游戏、冲动消费上。",
+          "start_time": 19.055999999999997,
+          "end_time": 27.767999999999997,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 114.33600000000003,
+          "end_time": 114.33600000000003,
+          "language": "en"
+        },
+        {
+          "text": "We can’t focus on everything, so we must choose—and that choice is a reflection of our “invisible values.”",
+          "start_time": 27.767999999999997,
+          "end_time": 35.495999999999995,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 114.33600000000003,
+          "end_time": 114.33600000000003,
+          "language": "en"
+        },
+        {
+          "text": "我们无法对所有事情都保持专注，因此必须有所选择，而选择专注的对象，本质上就是“隐形价值观”的投射。",
+          "start_time": 27.767999999999997,
+          "end_time": 35.495999999999995,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 114.33600000000003,
+          "end_time": 114.33600000000003,
+          "language": "en"
+        },
+        {
+          "text": "The clearer your values, the more stable your behavior, and the easier it is to focus.",
+          "start_time": 35.495999999999995,
+          "end_time": 41.135999999999996,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 114.33600000000003,
+          "end_time": 114.33600000000003,
+          "language": "en"
+        },
+        {
+          "text": "价值观越明确，行为越不摇摆，专注力也就越容易聚焦。",
+          "start_time": 35.495999999999995,
+          "end_time": 41.135999999999996,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 114.33600000000003,
+          "end_time": 114.33600000000003,
+          "language": "en"
+        },
+        {
+          "text": "For example:",
+          "start_time": 41.135999999999996,
+          "end_time": 42.263999999999996,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 114.33600000000003,
+          "end_time": 114.33600000000003,
+          "language": "en"
+        },
+        {
+          "text": "比如说：",
+          "start_time": 41.135999999999996,
+          "end_time": 42.263999999999996,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 114.33600000000003,
+          "end_time": 114.33600000000003,
+          "language": "en"
+        },
+        {
+          "text": "If you know you care about freelancing and skill-building, it’s easier to focus on improving your English or writing skills.",
+          "start_time": 42.263999999999996,
+          "end_time": 48.839999999999996,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 114.33600000000003,
+          "end_time": 114.33600000000003,
+          "language": "en"
+        },
+        {
+          "text": "如果你清楚自己重视自由职业和技能积累，那么在提升英语或写作能力时更容易专注。",
+          "start_time": 42.263999999999996,
+          "end_time": 48.839999999999996,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 114.33600000000003,
+          "end_time": 114.33600000000003,
+          "language": "en"
+        },
+        {
+          "text": "If you value living healthily and with clarity, you’ll have more willpower when working out or quitting addictive behaviors.",
+          "start_time": 48.839999999999996,
+          "end_time": 56.903999999999996,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 114.33600000000003,
+          "end_time": 114.33600000000003,
+          "language": "en"
+        },
+        {
+          "text": "如果你知道自己想要健康清醒地活着，那么在健身和戒除上瘾行为时会更有意志力支撑。",
+          "start_time": 48.839999999999996,
+          "end_time": 56.903999999999996,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 114.33600000000003,
+          "end_time": 114.33600000000003,
+          "language": "en"
+        },
+        {
+          "text": "On the other hand, vague values lead to fractured focus, which causes:",
+          "start_time": 56.903999999999996,
+          "end_time": 62.42399999999999,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 114.33600000000003,
+          "end_time": 114.33600000000003,
+          "language": "en"
+        },
+        {
+          "text": "而相反，如果价值观模糊，会导致专注力被撕裂，表现为：",
+          "start_time": 56.903999999999996,
+          "end_time": 62.42399999999999,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 114.33600000000003,
+          "end_time": 114.33600000000003,
+          "language": "en"
+        },
+        {
+          "text": "Scattered energy;",
+          "start_time": 62.42399999999999,
+          "end_time": 64.032,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 114.33600000000003,
+          "end_time": 114.33600000000003,
+          "language": "en"
+        },
+        {
+          "text": "精力分散；",
+          "start_time": 62.42399999999999,
+          "end_time": 64.032,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 114.33600000000003,
+          "end_time": 114.33600000000003,
+          "language": "en"
+        },
+        {
+          "text": "Frequent cycles of “start–interrupt–self-blame”;",
+          "start_time": 64.032,
+          "end_time": 68.16,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 114.33600000000003,
+          "end_time": 114.33600000000003,
+          "language": "en"
+        },
+        {
+          "text": "经常陷入“开始—中断—自责”的循环；",
+          "start_time": 64.032,
+          "end_time": 68.16,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 114.33600000000003,
+          "end_time": 114.33600000000003,
+          "language": "en"
+        },
+        {
+          "text": "And the inability to build positive long-term momentum.",
+          "start_time": 68.16,
+          "end_time": 72.11999999999999,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 114.33600000000003,
+          "end_time": 114.33600000000003,
+          "language": "en"
+        },
+        {
+          "text": "难以形成长期专注的正反馈。",
+          "start_time": 68.16,
+          "end_time": 72.11999999999999,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 114.33600000000003,
+          "end_time": 114.33600000000003,
+          "language": "en"
+        },
+        {
+          "text": "Focus isn’t about forcing yourself—it’s maintained through value clarity and smart context design.",
+          "start_time": 72.11999999999999,
+          "end_time": 78.648,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 114.33600000000003,
+          "end_time": 114.33600000000003,
+          "language": "en"
+        },
+        {
+          "text": "专注不是靠强迫意志力，而是依靠“价值排序 + 情境设计”来维持。",
+          "start_time": 72.11999999999999,
+          "end_time": 78.648,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 114.33600000000003,
+          "end_time": 114.33600000000003,
+          "language": "en"
+        },
+        {
+          "text": "We often think focus requires endurance, but that’s a misunderstanding.",
+          "start_time": 78.648,
+          "end_time": 83.256,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 114.33600000000003,
+          "end_time": 114.33600000000003,
+          "language": "en"
+        },
+        {
+          "text": "我们常以为专注靠强忍，其实并非如此。",
+          "start_time": 78.648,
+          "end_time": 83.256,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 114.33600000000003,
+          "end_time": 114.33600000000003,
+          "language": "en"
+        },
+        {
+          "text": "Real focus comes from:",
+          "start_time": 83.256,
+          "end_time": 84.864,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 114.33600000000003,
+          "end_time": 114.33600000000003,
+          "language": "en"
+        },
+        {
+          "text": "真正的专注源于：",
+          "start_time": 83.256,
+          "end_time": 84.864,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 114.33600000000003,
+          "end_time": 114.33600000000003,
+          "language": "en"
+        },
+        {
+          "text": "1. A value-driven long-term vision (Why am I doing this?)",
+          "start_time": 84.864,
+          "end_time": 89.54400000000001,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 114.33600000000003,
+          "end_time": 114.33600000000003,
+          "language": "en"
+        },
+        {
+          "text": "→ This gives you internal support when faced with temptation.",
+          "start_time": 89.54400000000001,
+          "end_time": 93.38400000000001,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 114.33600000000003,
+          "end_time": 114.33600000000003,
+          "language": "en"
+        },
+        {
+          "text": "1. 价值观驱动的长期愿景（我为什么要做这件事）→ 这能在诱惑来临时提供内在支撑。",
+          "start_time": 89.54400000000001,
+          "end_time": 93.38400000000001,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 114.33600000000003,
+          "end_time": 114.33600000000003,
+          "language": "en"
+        },
+        {
+          "text": "2. Breaking down short-term goals (How do I move forward?)",
+          "start_time": 93.38400000000001,
+          "end_time": 97.53600000000002,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 114.33600000000003,
+          "end_time": 114.33600000000003,
+          "language": "en"
+        },
+        {
+          "text": "→ This helps you enter “action mode” instead of getting stuck in delay.",
+          "start_time": 97.53600000000002,
+          "end_time": 101.80800000000002,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 114.33600000000003,
+          "end_time": 114.33600000000003,
+          "language": "en"
+        },
+        {
+          "text": "2. 对短期目标的拆解（我该怎么推进）→ 这能让你进入“行动状态”，避免陷入拖延。",
+          "start_time": 97.53600000000002,
+          "end_time": 101.80800000000002,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 114.33600000000003,
+          "end_time": 114.33600000000003,
+          "language": "en"
+        },
+        {
+          "text": "3. Designing your environment and tools (How do I avoid distractions?)",
+          "start_time": 101.80800000000002,
+          "end_time": 106.87200000000001,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 114.33600000000003,
+          "end_time": 114.33600000000003,
+          "language": "en"
+        },
+        {
+          "text": "→ Focus isn’t about resisting temptation, but removing it.",
+          "start_time": 106.87200000000001,
+          "end_time": 110.80800000000002,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 114.33600000000003,
+          "end_time": 114.33600000000003,
+          "language": "en"
+        },
+        {
+          "text": "3. 环境和工具的设计（如何避免干扰）→ 专注不是忍住诱惑，而是排除诱惑。",
+          "start_time": 106.87200000000001,
+          "end_time": 110.80800000000002,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 114.33600000000003,
+          "end_time": 114.33600000000003,
+          "language": "en"
+        },
+        {
+          "text": "And all of this starts with knowing what truly matters to you.",
+          "start_time": 110.80800000000002,
+          "end_time": 114.33600000000003,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 114.33600000000003,
+          "end_time": 114.33600000000003,
+          "language": "en"
+        },
+        {
+          "text": "而这一切的前提是，你清楚自己真正重视的是什么。",
+          "start_time": 110.80800000000002,
+          "end_time": 114.33600000000003,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 114.33600000000003,
+          "end_time": 114.33600000000003,
+          "language": "en"
+        }
+      ]
+    }
+  }
+}
