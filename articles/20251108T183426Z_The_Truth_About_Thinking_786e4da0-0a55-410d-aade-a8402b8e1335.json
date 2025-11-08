@@ -1,0 +1,425 @@
+{
+  "id": "786e4da0-0a55-410d-aade-a8402b8e1335",
+  "title": "The Truth About Thinking",
+  "content_type": "paragraph",
+  "content_text": "The Truth About Thinking\n[思考的真相]\nToday I tried to summarize some ideas from Li Xiaolai’s book The Truth About Thinking.\n[今天我尝试复述下李笑来的书《思考的真相》里的内容；]\nFirst, it introduces some fundamental thinking concepts: definition, classification, comparison, causality, and decision-making.\n[首先是关于思考的一些基本概念，主要包括有定义、分类、比较、因果、决策。]\nA definition is an unambiguous description of an essential concept.\n[定义就是将必要的概念做无歧义的描述；]\nClassification is about grouping concepts or things by the same category or attribute to make comparisons.\n[然后分类就是将这些概念/事物放在同一范畴同一属性下比较。]\nCausality refers to analyzing the relationship between A and B.\n[因果就是分析A、B 之间的关系；]\nThis can be linked to second-order thinking models. In daily life, we can analyze causality by asking:\n[这里可以联系到第二序思维模型，即日常生活中可以进一步思考这样分析因果：]\n1. Is A the cause of B?\n[1. A 是 B的原因吗？]\n2. If A is the cause of B, is it the only cause?\n[2. 如果A是B的原因，那么，A是B的唯一原因吗?]\n3. If A isn’t the only cause, what are the other causes?\n[3. 如果A不是B的唯一原因，那么还有哪些原因?]\n4. If A isn’t the most important cause, what is?\n[4. 如果A不是B的最重要原因，那么最重要的原因到底是什么?]\nDecision-making comes from combining and analyzing the above methods.\n[决策就是通过上面的方法组合分析得出自己的决策。]\nMore advanced ideas include analogy and the concept of an operating system.\n[更进阶一些的概念有：类比、操作系统。]\nThe “operating system” refers to our brain, which contains a concept list, a relationship list, and a process list.\n[操作系统就是我们的大脑，系统里包含概念表、关系表、流程表。]\nThe concept list corresponds to cognition, the relationship list to judgment, and the process list to action.\n[其中概念表对应的是认知、关系表对应着判断，流程表对应着行动。]\nIf we have enough essential and clear concepts and understand their relationships, we can make judgments and act accordingly.\n[有足够多必要清晰的概念，然后弄清楚它们之间的关系，就能做出判断，按既定的流程去行动。]\nThat’s a brief recap of The Truth About Thinking.\n[以上就是关于思考的真相的一些简单的复述。]",
+  "created_at": "2025-11-08T18:34:26.471017Z",
+  "language_versions": {
+    "en": {
+      "tts_engine": "edge-tts",
+      "voice": "en-US-ChristopherNeural",
+      "audio_url": "https://pub-c03f3674ad6c4b8ea960ee176f0d19dc.r2.dev/audio/fdc1a99c-7446-4e94-bc76-3bfceb212a99/786e4da0-0a55-410d-aade-a8402b8e1335/786e4da0-0a55-410d-aade-a8402b8e1335_en.wav",
+      "audio_rel_path": "/audio/20251108T183426Z_The_Truth_About_Thinking_786e4da0-0a55-410d-aade-a8402b8e1335_en.wav",
+      "sentences": [
+        {
+          "text": "The Truth About Thinking",
+          "start_time": 0.0,
+          "end_time": 2.304,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 94.36800000000001,
+          "end_time": 94.36800000000001,
+          "language": "en"
+        },
+        {
+          "text": "思考的真相",
+          "start_time": 0.0,
+          "end_time": 2.304,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 94.36800000000001,
+          "end_time": 94.36800000000001,
+          "language": "en"
+        },
+        {
+          "text": "Today I tried to summarize some ideas from Li Xiaolai’s book The Truth About Thinking.",
+          "start_time": 2.304,
+          "end_time": 7.895999999999999,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 94.36800000000001,
+          "end_time": 94.36800000000001,
+          "language": "en"
+        },
+        {
+          "text": "今天我尝试复述下李笑来的书《思考的真相》里的内容；",
+          "start_time": 2.304,
+          "end_time": 7.895999999999999,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 94.36800000000001,
+          "end_time": 94.36800000000001,
+          "language": "en"
+        },
+        {
+          "text": "First, it introduces some fundamental thinking concepts: definition, classification, comparison, causality, and decision-making.",
+          "start_time": 7.895999999999999,
+          "end_time": 17.375999999999998,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 94.36800000000001,
+          "end_time": 94.36800000000001,
+          "language": "en"
+        },
+        {
+          "text": "首先是关于思考的一些基本概念，主要包括有定义、分类、比较、因果、决策。",
+          "start_time": 7.895999999999999,
+          "end_time": 17.375999999999998,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 94.36800000000001,
+          "end_time": 94.36800000000001,
+          "language": "en"
+        },
+        {
+          "text": "A definition is an unambiguous description of an essential concept.",
+          "start_time": 17.375999999999998,
+          "end_time": 22.223999999999997,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 94.36800000000001,
+          "end_time": 94.36800000000001,
+          "language": "en"
+        },
+        {
+          "text": "定义就是将必要的概念做无歧义的描述；",
+          "start_time": 17.375999999999998,
+          "end_time": 22.223999999999997,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 94.36800000000001,
+          "end_time": 94.36800000000001,
+          "language": "en"
+        },
+        {
+          "text": "Classification is about grouping concepts or things by the same category or attribute to make comparisons.",
+          "start_time": 22.223999999999997,
+          "end_time": 29.208,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 94.36800000000001,
+          "end_time": 94.36800000000001,
+          "language": "en"
+        },
+        {
+          "text": "然后分类就是将这些概念/事物放在同一范畴同一属性下比较。",
+          "start_time": 22.223999999999997,
+          "end_time": 29.208,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 94.36800000000001,
+          "end_time": 94.36800000000001,
+          "language": "en"
+        },
+        {
+          "text": "Causality refers to analyzing the relationship between A and B.",
+          "start_time": 29.208,
+          "end_time": 33.96,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 94.36800000000001,
+          "end_time": 94.36800000000001,
+          "language": "en"
+        },
+        {
+          "text": "因果就是分析A、B 之间的关系；",
+          "start_time": 29.208,
+          "end_time": 33.96,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 94.36800000000001,
+          "end_time": 94.36800000000001,
+          "language": "en"
+        },
+        {
+          "text": "This can be linked to second-order thinking models. In daily life, we can analyze causality by asking:",
+          "start_time": 33.96,
+          "end_time": 41.688,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 94.36800000000001,
+          "end_time": 94.36800000000001,
+          "language": "en"
+        },
+        {
+          "text": "这里可以联系到第二序思维模型，即日常生活中可以进一步思考这样分析因果：",
+          "start_time": 33.96,
+          "end_time": 41.688,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 94.36800000000001,
+          "end_time": 94.36800000000001,
+          "language": "en"
+        },
+        {
+          "text": "1. Is A the cause of B?",
+          "start_time": 41.688,
+          "end_time": 44.496,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 94.36800000000001,
+          "end_time": 94.36800000000001,
+          "language": "en"
+        },
+        {
+          "text": "1. A 是 B的原因吗？",
+          "start_time": 41.688,
+          "end_time": 44.496,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 94.36800000000001,
+          "end_time": 94.36800000000001,
+          "language": "en"
+        },
+        {
+          "text": "2. If A is the cause of B, is it the only cause?",
+          "start_time": 44.496,
+          "end_time": 49.08,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 94.36800000000001,
+          "end_time": 94.36800000000001,
+          "language": "en"
+        },
+        {
+          "text": "2. 如果A是B的原因，那么，A是B的唯一原因吗?",
+          "start_time": 44.496,
+          "end_time": 49.08,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 94.36800000000001,
+          "end_time": 94.36800000000001,
+          "language": "en"
+        },
+        {
+          "text": "3. If A isn’t the only cause, what are the other causes?",
+          "start_time": 49.08,
+          "end_time": 53.808,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 94.36800000000001,
+          "end_time": 94.36800000000001,
+          "language": "en"
+        },
+        {
+          "text": "3. 如果A不是B的唯一原因，那么还有哪些原因?",
+          "start_time": 49.08,
+          "end_time": 53.808,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 94.36800000000001,
+          "end_time": 94.36800000000001,
+          "language": "en"
+        },
+        {
+          "text": "4. If A isn’t the most important cause, what is?",
+          "start_time": 53.808,
+          "end_time": 58.128,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 94.36800000000001,
+          "end_time": 94.36800000000001,
+          "language": "en"
+        },
+        {
+          "text": "4. 如果A不是B的最重要原因，那么最重要的原因到底是什么?",
+          "start_time": 53.808,
+          "end_time": 58.128,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 94.36800000000001,
+          "end_time": 94.36800000000001,
+          "language": "en"
+        },
+        {
+          "text": "Decision-making comes from combining and analyzing the above methods.",
+          "start_time": 58.128,
+          "end_time": 62.856,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 94.36800000000001,
+          "end_time": 94.36800000000001,
+          "language": "en"
+        },
+        {
+          "text": "决策就是通过上面的方法组合分析得出自己的决策。",
+          "start_time": 58.128,
+          "end_time": 62.856,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 94.36800000000001,
+          "end_time": 94.36800000000001,
+          "language": "en"
+        },
+        {
+          "text": "More advanced ideas include analogy and the concept of an operating system.",
+          "start_time": 62.856,
+          "end_time": 68.136,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 94.36800000000001,
+          "end_time": 94.36800000000001,
+          "language": "en"
+        },
+        {
+          "text": "更进阶一些的概念有：类比、操作系统。",
+          "start_time": 62.856,
+          "end_time": 68.136,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 94.36800000000001,
+          "end_time": 94.36800000000001,
+          "language": "en"
+        },
+        {
+          "text": "The “operating system” refers to our brain, which contains a concept list, a relationship list, and a process list.",
+          "start_time": 68.136,
+          "end_time": 76.392,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 94.36800000000001,
+          "end_time": 94.36800000000001,
+          "language": "en"
+        },
+        {
+          "text": "操作系统就是我们的大脑，系统里包含概念表、关系表、流程表。",
+          "start_time": 68.136,
+          "end_time": 76.392,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 94.36800000000001,
+          "end_time": 94.36800000000001,
+          "language": "en"
+        },
+        {
+          "text": "The concept list corresponds to cognition, the relationship list to judgment, and the process list to action.",
+          "start_time": 76.392,
+          "end_time": 83.568,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 94.36800000000001,
+          "end_time": 94.36800000000001,
+          "language": "en"
+        },
+        {
+          "text": "其中概念表对应的是认知、关系表对应着判断，流程表对应着行动。",
+          "start_time": 76.392,
+          "end_time": 83.568,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 94.36800000000001,
+          "end_time": 94.36800000000001,
+          "language": "en"
+        },
+        {
+          "text": "If we have enough essential and clear concepts and understand their relationships, we can make judgments and act accordingly.",
+          "start_time": 83.568,
+          "end_time": 90.888,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 94.36800000000001,
+          "end_time": 94.36800000000001,
+          "language": "en"
+        },
+        {
+          "text": "有足够多必要清晰的概念，然后弄清楚它们之间的关系，就能做出判断，按既定的流程去行动。",
+          "start_time": 83.568,
+          "end_time": 90.888,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 94.36800000000001,
+          "end_time": 94.36800000000001,
+          "language": "en"
+        },
+        {
+          "text": "That’s a brief recap of The Truth About Thinking.",
+          "start_time": 90.888,
+          "end_time": 94.36800000000001,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 94.36800000000001,
+          "end_time": 94.36800000000001,
+          "language": "en"
+        },
+        {
+          "text": "以上就是关于思考的真相的一些简单的复述。",
+          "start_time": 90.888,
+          "end_time": 94.36800000000001,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 94.36800000000001,
+          "end_time": 94.36800000000001,
+          "language": "en"
+        }
+      ]
+    }
+  }
+}
