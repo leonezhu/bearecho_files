@@ -1,0 +1,124 @@
+{
+  "id": "7db56e0d-ea77-43f0-83bc-2b7cb3307a16",
+  "title": "Bug Review",
+  "content_type": "paragraph",
+  "content_text": "Bug Review\nWe released our project on November 2nd.\n[11 月 2 日，我们发布了我们项目。]\nBut we didn’t do a proper post-check, so the issue wasn’t found until the 4th, when the user reported an incident.\n[但是由于没有做好 post check ，导致直到 4 号被 user 发现并发出了 incident]\nDuring the root cause analysis, we also made some mistakes due to several reasons, and we missed the time window to fix it.\n[在分析 route couse 的时候也因为各种原因导致分析错误，以至于错过了再次上线修复的时间窗口。]\nIn the end, we had to take a not-so-compliant way to make up for the whole issue.\n[最后只能采取一种不太合规的方式弥补这一系列的事故。]",
+  "created_at": "2025-11-08T16:39:51.190053Z",
+  "language_versions": {
+    "en": {
+      "tts_engine": "edge-tts",
+      "voice": "en-US-AvaMultilingualNeural",
+      "audio_rel_path": "/audio/20251108T163951Z_Bug_Review_7db56e0d-ea77-43f0-83bc-2b7cb3307a16_en.wav",
+      "sentences": [
+        {
+          "text": "Bug Review",
+          "start_time": 0.0,
+          "end_time": 1.224,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 22.416,
+          "end_time": 22.416,
+          "language": "en"
+        },
+        {
+          "text": "We released our project on November 2nd.",
+          "start_time": 1.224,
+          "end_time": 4.008,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 22.416,
+          "end_time": 22.416,
+          "language": "en"
+        },
+        {
+          "text": "11 月 2 日，我们发布了我们项目。",
+          "start_time": 1.224,
+          "end_time": 4.008,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 22.416,
+          "end_time": 22.416,
+          "language": "en"
+        },
+        {
+          "text": "But we didn’t do a proper post-check, so the issue wasn’t found until the 4th, when the user reported an incident.",
+          "start_time": 4.008,
+          "end_time": 10.704,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 22.416,
+          "end_time": 22.416,
+          "language": "en"
+        },
+        {
+          "text": "但是由于没有做好 post check ，导致直到 4 号被 user 发现并发出了 incident",
+          "start_time": 4.008,
+          "end_time": 10.704,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 22.416,
+          "end_time": 22.416,
+          "language": "en"
+        },
+        {
+          "text": "During the root cause analysis, we also made some mistakes due to several reasons, and we missed the time window to fix it.",
+          "start_time": 10.704,
+          "end_time": 17.376,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 22.416,
+          "end_time": 22.416,
+          "language": "en"
+        },
+        {
+          "text": "在分析 route couse 的时候也因为各种原因导致分析错误，以至于错过了再次上线修复的时间窗口。",
+          "start_time": 10.704,
+          "end_time": 17.376,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 22.416,
+          "end_time": 22.416,
+          "language": "en"
+        },
+        {
+          "text": "In the end, we had to take a not-so-compliant way to make up for the whole issue.",
+          "start_time": 17.376,
+          "end_time": 22.416,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 22.416,
+          "end_time": 22.416,
+          "language": "en"
+        },
+        {
+          "text": "最后只能采取一种不太合规的方式弥补这一系列的事故。",
+          "start_time": 17.376,
+          "end_time": 22.416,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 22.416,
+          "end_time": 22.416,
+          "language": "en"
+        }
+      ]
+    }
+  }
+}
