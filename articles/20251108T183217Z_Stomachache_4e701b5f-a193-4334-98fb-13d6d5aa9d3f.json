@@ -1,0 +1,185 @@
+{
+  "id": "4e701b5f-a193-4334-98fb-13d6d5aa9d3f",
+  "title": "Stomachache",
+  "content_type": "paragraph",
+  "content_text": "Stomachache\n[肚子疼]\nOn Sunday, I got up around noon again, just like yesterday.\n[周日，像昨天一样睡到大中午才起来。]\nWhile washing up, I felt a dull pain in my stomach and immediately thought of the culprit—the ginger duck I had last night.\n[洗漱的时候就感觉肚子隐隐作痛，一下子就联想到了罪魁祸首——昨晚吃的仔姜鸭。]\nGinger duck has been my favorite dish since I came to Chengdu, but it’s still too spicy for my stomach.\n[仔姜鸭是我来到成都后最喜欢的一道菜，但是它对于我的肠胃来说还是太辣了。]\nSometimes I’m fine after eating it, but other times—like today—it messes up my stomach.\n[有时吃没啥事，有时却会像今天一样闹肚子。]\nEvery time this happens, I swear I won’t eat it again, but I always give in to temptation.\n[每次闹肚子时候都会决心说下次不吃了，但是还是嘴馋。]\nThis time, I need to set a reasonable rule: no more than once a week, and preferably on a non-working day.\n[这次需要设定一个合理的要求，即一周最多吃一次，最好是非工作日吃。]",
+  "created_at": "2025-11-08T18:32:17.787046Z",
+  "language_versions": {
+    "en": {
+      "tts_engine": "edge-tts",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "audio_url": "https://pub-c03f3674ad6c4b8ea960ee176f0d19dc.r2.dev/audio/fdc1a99c-7446-4e94-bc76-3bfceb212a99/4e701b5f-a193-4334-98fb-13d6d5aa9d3f/4e701b5f-a193-4334-98fb-13d6d5aa9d3f_en.wav",
+      "audio_rel_path": "/audio/20251108T183217Z_Stomachache_4e701b5f-a193-4334-98fb-13d6d5aa9d3f_en.wav",
+      "sentences": [
+        {
+          "text": "Stomachache",
+          "start_time": 0.0,
+          "end_time": 1.08,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 36.144,
+          "end_time": 36.144,
+          "language": "en"
+        },
+        {
+          "text": "肚子疼",
+          "start_time": 0.0,
+          "end_time": 1.08,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 36.144,
+          "end_time": 36.144,
+          "language": "en"
+        },
+        {
+          "text": "On Sunday, I got up around noon again, just like yesterday.",
+          "start_time": 1.08,
+          "end_time": 4.800000000000001,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 36.144,
+          "end_time": 36.144,
+          "language": "en"
+        },
+        {
+          "text": "周日，像昨天一样睡到大中午才起来。",
+          "start_time": 1.08,
+          "end_time": 4.800000000000001,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 36.144,
+          "end_time": 36.144,
+          "language": "en"
+        },
+        {
+          "text": "While washing up, I felt a dull pain in my stomach and immediately thought of the culprit—the ginger duck I had last night.",
+          "start_time": 4.800000000000001,
+          "end_time": 12.096,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 36.144,
+          "end_time": 36.144,
+          "language": "en"
+        },
+        {
+          "text": "洗漱的时候就感觉肚子隐隐作痛，一下子就联想到了罪魁祸首——昨晚吃的仔姜鸭。",
+          "start_time": 4.800000000000001,
+          "end_time": 12.096,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 36.144,
+          "end_time": 36.144,
+          "language": "en"
+        },
+        {
+          "text": "Ginger duck has been my favorite dish since I came to Chengdu, but it’s still too spicy for my stomach.",
+          "start_time": 12.096,
+          "end_time": 18.072,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 36.144,
+          "end_time": 36.144,
+          "language": "en"
+        },
+        {
+          "text": "仔姜鸭是我来到成都后最喜欢的一道菜，但是它对于我的肠胃来说还是太辣了。",
+          "start_time": 12.096,
+          "end_time": 18.072,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 36.144,
+          "end_time": 36.144,
+          "language": "en"
+        },
+        {
+          "text": "Sometimes I’m fine after eating it, but other times—like today—it messes up my stomach.",
+          "start_time": 18.072,
+          "end_time": 23.88,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 36.144,
+          "end_time": 36.144,
+          "language": "en"
+        },
+        {
+          "text": "有时吃没啥事，有时却会像今天一样闹肚子。",
+          "start_time": 18.072,
+          "end_time": 23.88,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 36.144,
+          "end_time": 36.144,
+          "language": "en"
+        },
+        {
+          "text": "Every time this happens, I swear I won’t eat it again, but I always give in to temptation.",
+          "start_time": 23.88,
+          "end_time": 29.28,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 36.144,
+          "end_time": 36.144,
+          "language": "en"
+        },
+        {
+          "text": "每次闹肚子时候都会决心说下次不吃了，但是还是嘴馋。",
+          "start_time": 23.88,
+          "end_time": 29.28,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 36.144,
+          "end_time": 36.144,
+          "language": "en"
+        },
+        {
+          "text": "This time, I need to set a reasonable rule: no more than once a week, and preferably on a non-working day.",
+          "start_time": 29.28,
+          "end_time": 36.144,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 36.144,
+          "end_time": 36.144,
+          "language": "en"
+        },
+        {
+          "text": "这次需要设定一个合理的要求，即一周最多吃一次，最好是非工作日吃。",
+          "start_time": 29.28,
+          "end_time": 36.144,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 36.144,
+          "end_time": 36.144,
+          "language": "en"
+        }
+      ]
+    }
+  }
+}
