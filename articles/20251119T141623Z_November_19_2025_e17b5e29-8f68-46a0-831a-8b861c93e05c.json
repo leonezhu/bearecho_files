@@ -1,0 +1,77 @@
+{
+  "id": "e17b5e29-8f68-46a0-831a-8b861c93e05c",
+  "title": "November 19,2025",
+  "content_type": "paragraph",
+  "content_text": "November 19,2025\nAfter the National Day holiday I was fully focused on preparing for the November 2 release. Once the release was done, I spent my time fixing bugs and implementing new features. \nToday is November 19, and the intense work period is drawing to a close — my personal time and energy are returning, and I need to launch a sprint toward my personal goals. \nBased on yesterday’s analysis, my two main priorities right now are: improving my English, and exploring and putting into practice a side hustle. \nNext, I need to think carefully and break these priorities down into concrete action steps.",
+  "created_at": "2025-11-19T14:16:23.500403Z",
+  "language_versions": {
+    "en": {
+      "tts_engine": "kokoro",
+      "voice": "af_heart",
+      "audio_url": "https://pub-c03f3674ad6c4b8ea960ee176f0d19dc.r2.dev/audio/747bfbdb-09f1-48bd-8580-6ed9dc891a21/e17b5e29-8f68-46a0-831a-8b861c93e05c/e17b5e29-8f68-46a0-831a-8b861c93e05c_en.wav",
+      "audio_rel_path": "/audio/20251119T141623Z_November_19_2025_e17b5e29-8f68-46a0-831a-8b861c93e05c_en.wav",
+      "sentences": [
+        {
+          "text": "November 19,2025",
+          "start_time": 0.0,
+          "end_time": 3.6,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 41.825,
+          "end_time": 41.825,
+          "language": "en"
+        },
+        {
+          "text": "After the National Day holiday I was fully focused on preparing for the November 2 release. Once the release was done, I spent my time fixing bugs and implementing new features.",
+          "start_time": 3.6,
+          "end_time": 15.125,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 41.825,
+          "end_time": 41.825,
+          "language": "en"
+        },
+        {
+          "text": "Today is November 19, and the intense work period is drawing to a close — my personal time and energy are returning, and I need to launch a sprint toward my personal goals.",
+          "start_time": 15.125,
+          "end_time": 26.425,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 41.825,
+          "end_time": 41.825,
+          "language": "en"
+        },
+        {
+          "text": "Based on yesterday’s analysis, my two main priorities right now are: improving my English, and exploring and putting into practice a side hustle.",
+          "start_time": 26.425,
+          "end_time": 35.725,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 41.825,
+          "end_time": 41.825,
+          "language": "en"
+        },
+        {
+          "text": "Next, I need to think carefully and break these priorities down into concrete action steps.",
+          "start_time": 35.725,
+          "end_time": 41.825,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 41.825,
+          "end_time": 41.825,
+          "language": "en"
+        }
+      ]
+    }
+  }
+}
