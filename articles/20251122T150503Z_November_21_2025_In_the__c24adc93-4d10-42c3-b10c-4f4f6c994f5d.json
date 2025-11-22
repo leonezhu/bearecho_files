@@ -1,0 +1,77 @@
+{
+  "id": "c24adc93-4d10-42c3-b10c-4f4f6c994f5d",
+  "title": "November 21 , 2025 In the...",
+  "content_type": "paragraph",
+  "content_text": "November 21 , 2025\nIn the middle of the week, I somehow decided to buy a ticket for a Friday night stand-up comedy show. Before this, the only full stand-up performance I had ever watched was a video by Luo Yonghao. I didn’t expect much—my goal was simply to try something new—but I still ended up leaving early.\n\nIt’s just like watching movies: if a film doesn’t appeal to you, the fact that it’s showing in a cinema doesn’t mean you have to sit through it there. Rewatching a classic at home can be just as enjoyable. I shouldn’t pick a random activity just because I haven’t gone out for a while.\n\nAnyway, the weekend has begun. Wishing everyone a pleasant one.\nThe photo above is a sunset I captured on my way home from work.",
+  "created_at": "2025-11-22T15:05:03.810081Z",
+  "language_versions": {
+    "en": {
+      "tts_engine": "kokoro",
+      "voice": "af_heart",
+      "audio_url": "https://pub-c03f3674ad6c4b8ea960ee176f0d19dc.r2.dev/audio/747bfbdb-09f1-48bd-8580-6ed9dc891a21/c24adc93-4d10-42c3-b10c-4f4f6c994f5d/c24adc93-4d10-42c3-b10c-4f4f6c994f5d_en.wav",
+      "audio_rel_path": "/audio/20251122T150503Z_November_21_2025_In_the__c24adc93-4d10-42c3-b10c-4f4f6c994f5d_en.wav",
+      "sentences": [
+        {
+          "text": "November 21 , 2025",
+          "start_time": 0.0,
+          "end_time": 3.025,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 46.349999999999994,
+          "end_time": 46.349999999999994,
+          "language": "en"
+        },
+        {
+          "text": "In the middle of the week, I somehow decided to buy a ticket for a Friday night stand-up comedy show. Before this, the only full stand-up performance I had ever watched was a video by Luo Yonghao. I didn’t expect much—my goal was simply to try something new—but I still ended up leaving early.",
+          "start_time": 3.025,
+          "end_time": 21.299999999999997,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 46.349999999999994,
+          "end_time": 46.349999999999994,
+          "language": "en"
+        },
+        {
+          "text": "It’s just like watching movies: if a film doesn’t appeal to you, the fact that it’s showing in a cinema doesn’t mean you have to sit through it there. Rewatching a classic at home can be just as enjoyable. I shouldn’t pick a random activity just because I haven’t gone out for a while.",
+          "start_time": 21.299999999999997,
+          "end_time": 37.724999999999994,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 46.349999999999994,
+          "end_time": 46.349999999999994,
+          "language": "en"
+        },
+        {
+          "text": "Anyway, the weekend has begun. Wishing everyone a pleasant one.",
+          "start_time": 37.724999999999994,
+          "end_time": 41.949999999999996,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 46.349999999999994,
+          "end_time": 46.349999999999994,
+          "language": "en"
+        },
+        {
+          "text": "The photo above is a sunset I captured on my way home from work.",
+          "start_time": 41.949999999999996,
+          "end_time": 46.349999999999994,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 46.349999999999994,
+          "end_time": 46.349999999999994,
+          "language": "en"
+        }
+      ]
+    }
+  }
+}
