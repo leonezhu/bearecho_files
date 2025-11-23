@@ -1,0 +1,65 @@
+{
+  "id": "0c474857-3088-448c-bd28-5dc4941ee118",
+  "title": "November 22 , 2025 Call with...",
+  "content_type": "paragraph",
+  "content_text": "November 22 , 2025  Call with mom\nLast night my mom sent me a message on WeChat, reminding me to take care of myself now that the weather is getting colder. I realized it had been a long time since I last called her, so I immediately dialed a voice call.\n\nShe told me that the past two months since her retirement have been difficult for her. Staying at home most of the time makes her feel bored and unsettled. Hearing that made me feel both sad and guilty, because I had already anticipated this might happen but hadn’t taken any action.\n\nAfter the call, I set up a task to phone home every Friday. I’ll also think about what else I can do for her moving forward.",
+  "created_at": "2025-11-23T08:07:00.341853Z",
+  "language_versions": {
+    "en": {
+      "tts_engine": "kokoro",
+      "voice": "af_heart",
+      "audio_url": "https://pub-c03f3674ad6c4b8ea960ee176f0d19dc.r2.dev/audio/747bfbdb-09f1-48bd-8580-6ed9dc891a21/0c474857-3088-448c-bd28-5dc4941ee118/0c474857-3088-448c-bd28-5dc4941ee118_en.wav",
+      "audio_rel_path": "/audio/20251123T080700Z_November_22_2025_Call_with__0c474857-3088-448c-bd28-5dc4941ee118_en.wav",
+      "sentences": [
+        {
+          "text": "November 22 , 2025  Call with mom",
+          "start_time": 0.0,
+          "end_time": 3.775,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 42.275,
+          "end_time": 42.275,
+          "language": "en"
+        },
+        {
+          "text": "Last night my mom sent me a message on WeChat, reminding me to take care of myself now that the weather is getting colder. I realized it had been a long time since I last called her, so I immediately dialed a voice call.",
+          "start_time": 3.775,
+          "end_time": 17.5,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 42.275,
+          "end_time": 42.275,
+          "language": "en"
+        },
+        {
+          "text": "She told me that the past two months since her retirement have been difficult for her. Staying at home most of the time makes her feel bored and unsettled. Hearing that made me feel both sad and guilty, because I had already anticipated this might happen but hadn’t taken any action.",
+          "start_time": 17.5,
+          "end_time": 34.425,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 42.275,
+          "end_time": 42.275,
+          "language": "en"
+        },
+        {
+          "text": "After the call, I set up a task to phone home every Friday. I’ll also think about what else I can do for her moving forward.",
+          "start_time": 34.425,
+          "end_time": 42.275,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 42.275,
+          "end_time": 42.275,
+          "language": "en"
+        }
+      ]
+    }
+  }
+}
