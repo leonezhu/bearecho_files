@@ -1,0 +1,77 @@
+{
+  "id": "52dd554d-82f0-41d5-b451-499351d67598",
+  "title": "November 27 , 2025 Hong Kong...",
+  "content_type": "paragraph",
+  "content_text": "November 27  , 2025  Hong Kong Fire.\nAs someone from Guangdong who spent many years studying and working in the Greater Bay Area, I still feel a strong connection even though I’m now based in Chengdu. Many of my online colleagues are from Hong Kong as well, so seeing the news about the Hong Kong fire was really upsetting.\n[作为一个广东人，又在大湾区读书和工作了许多年，即使现在人在成都，身边很多线上同事仍然是香港人。看到香港火灾的新闻还是让人很难受，唉。]\n\nI started going back to the gym this week. The workouts aren’t intense, but my body is still being dramatic — everything aches. Still, there’s something strangely interesting about feeling the body come back to life in such a detailed, physical way.\n[这周重新开始去健身房训练，虽然训练强度不高，但这副身体依旧矫情得很，到处酸痛。不过这种细致感受到“肉体正在被重新唤醒”的感觉倒也挺奇妙的。]",
+  "created_at": "2025-11-27T13:28:33.506408Z",
+  "language_versions": {
+    "en": {
+      "tts_engine": "kokoro",
+      "voice": "af_heart",
+      "audio_url": "https://pub-c03f3674ad6c4b8ea960ee176f0d19dc.r2.dev/audio/747bfbdb-09f1-48bd-8580-6ed9dc891a21/52dd554d-82f0-41d5-b451-499351d67598/52dd554d-82f0-41d5-b451-499351d67598_en.wav",
+      "audio_rel_path": "/audio/20251127T132833Z_November_27_2025_Hong_Kong__52dd554d-82f0-41d5-b451-499351d67598_en.wav",
+      "sentences": [
+        {
+          "text": "November 27  , 2025  Hong Kong Fire.",
+          "start_time": 0.0,
+          "end_time": 4.125,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 36.75,
+          "end_time": 36.75,
+          "language": "en"
+        },
+        {
+          "text": "As someone from Guangdong who spent many years studying and working in the Greater Bay Area, I still feel a strong connection even though I’m now based in Chengdu. Many of my online colleagues are from Hong Kong as well, so seeing the news about the Hong Kong fire was really upsetting.",
+          "start_time": 4.125,
+          "end_time": 21.275,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 36.75,
+          "end_time": 36.75,
+          "language": "en"
+        },
+        {
+          "text": "作为一个广东人，又在大湾区读书和工作了许多年，即使现在人在成都，身边很多线上同事仍然是香港人。看到香港火灾的新闻还是让人很难受，唉。",
+          "start_time": 4.125,
+          "end_time": 21.275,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 36.75,
+          "end_time": 36.75,
+          "language": "en"
+        },
+        {
+          "text": "I started going back to the gym this week. The workouts aren’t intense, but my body is still being dramatic — everything aches. Still, there’s something strangely interesting about feeling the body come back to life in such a detailed, physical way.",
+          "start_time": 21.275,
+          "end_time": 36.75,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 36.75,
+          "end_time": 36.75,
+          "language": "en"
+        },
+        {
+          "text": "这周重新开始去健身房训练，虽然训练强度不高，但这副身体依旧矫情得很，到处酸痛。不过这种细致感受到“肉体正在被重新唤醒”的感觉倒也挺奇妙的。",
+          "start_time": 21.275,
+          "end_time": 36.75,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 36.75,
+          "end_time": 36.75,
+          "language": "en"
+        }
+      ]
+    }
+  }
+}
