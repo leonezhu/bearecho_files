@@ -1,0 +1,557 @@
+{
+  "id": "65d02019-046a-47fc-8dc8-5cdbd4c67ce8",
+  "title": "Issues on Teams call",
+  "content_type": "paragraph",
+  "content_text": "Issues on Teams call\n\nThe connection is a bit unstable.  \n[网络有点不稳定。]\n\nYour voice is cutting in and out.  \n[你的声音断断续续。]\n\nThere’s a delay on your end.  \n[你那边有延迟。]\n\nI think we’re experiencing some lag.  \n[我们好像有点卡顿。]\n\nSorry, you’re breaking up.  \n[不好意思，你的声音断了。]\n\nCould you repeat that? The audio dropped.  \n[你能重复一下吗？刚才没听清，声音断了。]\n\n\nI think your mic is muted.  \n[你麦可能静音了。]\n\nYour mic doesn’t seem to be working.  \n[你的麦克风似乎没工作。]\n\nI’m getting some background noise from your side.  \n[我这边听到你那边有背景噪音。]\n\nYour volume is a bit low.  \n[你的声音有点小。]\n\nThere’s an echo on your side.  \n[你那边有回声。]\n\nLet me switch my headset real quick.  \n[我换一下耳机。]\n\n\nMy screen isn’t sharing for some reason.  \n[不知道为什么我无法共享屏幕。]\n\nLet me try restarting the app.  \n[我重启一下软件。]\n\nGive me a second, my laptop is lagging.  \n[等我一下，我电脑有点卡。]\n\nI think Zoom/Teams just froze.  \n[Zoom/Teams 卡住了。]\n\n\nI think we’re talking over each other.  \n[我们好像说到彼此头上了。]\n\nLet’s wait for a second; there's a bit of delay.  \n[等一下，有点延迟。]\n\nCould you speak a bit slower? The connection is choppy.  \n[你能说慢一点吗？网络不太稳定。]\n\n\nSorry, I got disconnected just now.  \n[不好意思，我刚才掉线了。]\n\nI’m reconnecting. Give me a moment.  \n[我正在重连，稍等一下。]\n\nLooks like the call crashed on my side.  \n[好像我这边通话崩了。]",
+  "created_at": "2025-12-01T15:43:56.781904Z",
+  "language_versions": {
+    "en": {
+      "tts_engine": "kokoro",
+      "voice": "af_heart",
+      "audio_url": "https://pub-c03f3674ad6c4b8ea960ee176f0d19dc.r2.dev/audio/dev-user-001/65d02019-046a-47fc-8dc8-5cdbd4c67ce8/65d02019-046a-47fc-8dc8-5cdbd4c67ce8_en.wav",
+      "audio_rel_path": "/audio/20251201T154356Z_Issues_on_Teams_call_65d02019-046a-47fc-8dc8-5cdbd4c67ce8_en.wav",
+      "sentences": [
+        {
+          "text": "Issues on Teams call",
+          "start_time": 0.0,
+          "end_time": 1.925,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 57.074999999999996,
+          "end_time": 57.074999999999996,
+          "language": "en"
+        },
+        {
+          "text": "The connection is a bit unstable.",
+          "start_time": 1.925,
+          "end_time": 4.525,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 57.074999999999996,
+          "end_time": 57.074999999999996,
+          "language": "en"
+        },
+        {
+          "text": "网络有点不稳定。",
+          "start_time": 1.925,
+          "end_time": 4.525,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 57.074999999999996,
+          "end_time": 57.074999999999996,
+          "language": "en"
+        },
+        {
+          "text": "Your voice is cutting in and out.",
+          "start_time": 4.525,
+          "end_time": 6.75,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 57.074999999999996,
+          "end_time": 57.074999999999996,
+          "language": "en"
+        },
+        {
+          "text": "你的声音断断续续。",
+          "start_time": 4.525,
+          "end_time": 6.75,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 57.074999999999996,
+          "end_time": 57.074999999999996,
+          "language": "en"
+        },
+        {
+          "text": "There’s a delay on your end.",
+          "start_time": 6.75,
+          "end_time": 8.725,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 57.074999999999996,
+          "end_time": 57.074999999999996,
+          "language": "en"
+        },
+        {
+          "text": "你那边有延迟。",
+          "start_time": 6.75,
+          "end_time": 8.725,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 57.074999999999996,
+          "end_time": 57.074999999999996,
+          "language": "en"
+        },
+        {
+          "text": "I think we’re experiencing some lag.",
+          "start_time": 8.725,
+          "end_time": 11.2,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 57.074999999999996,
+          "end_time": 57.074999999999996,
+          "language": "en"
+        },
+        {
+          "text": "我们好像有点卡顿。",
+          "start_time": 8.725,
+          "end_time": 11.2,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 57.074999999999996,
+          "end_time": 57.074999999999996,
+          "language": "en"
+        },
+        {
+          "text": "Sorry, you’re breaking up.",
+          "start_time": 11.2,
+          "end_time": 13.125,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 57.074999999999996,
+          "end_time": 57.074999999999996,
+          "language": "en"
+        },
+        {
+          "text": "不好意思，你的声音断了。",
+          "start_time": 11.2,
+          "end_time": 13.125,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 57.074999999999996,
+          "end_time": 57.074999999999996,
+          "language": "en"
+        },
+        {
+          "text": "Could you repeat that? The audio dropped.",
+          "start_time": 13.125,
+          "end_time": 15.825,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 57.074999999999996,
+          "end_time": 57.074999999999996,
+          "language": "en"
+        },
+        {
+          "text": "你能重复一下吗？刚才没听清，声音断了。",
+          "start_time": 13.125,
+          "end_time": 15.825,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 57.074999999999996,
+          "end_time": 57.074999999999996,
+          "language": "en"
+        },
+        {
+          "text": "I think your mic is muted.",
+          "start_time": 15.825,
+          "end_time": 17.9,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 57.074999999999996,
+          "end_time": 57.074999999999996,
+          "language": "en"
+        },
+        {
+          "text": "你麦可能静音了。",
+          "start_time": 15.825,
+          "end_time": 17.9,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 57.074999999999996,
+          "end_time": 57.074999999999996,
+          "language": "en"
+        },
+        {
+          "text": "Your mic doesn’t seem to be working.",
+          "start_time": 17.9,
+          "end_time": 20.325,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 57.074999999999996,
+          "end_time": 57.074999999999996,
+          "language": "en"
+        },
+        {
+          "text": "你的麦克风似乎没工作。",
+          "start_time": 17.9,
+          "end_time": 20.325,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 57.074999999999996,
+          "end_time": 57.074999999999996,
+          "language": "en"
+        },
+        {
+          "text": "I’m getting some background noise from your side.",
+          "start_time": 20.325,
+          "end_time": 23.375,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 57.074999999999996,
+          "end_time": 57.074999999999996,
+          "language": "en"
+        },
+        {
+          "text": "我这边听到你那边有背景噪音。",
+          "start_time": 20.325,
+          "end_time": 23.375,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 57.074999999999996,
+          "end_time": 57.074999999999996,
+          "language": "en"
+        },
+        {
+          "text": "Your volume is a bit low.",
+          "start_time": 23.375,
+          "end_time": 25.5,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 57.074999999999996,
+          "end_time": 57.074999999999996,
+          "language": "en"
+        },
+        {
+          "text": "你的声音有点小。",
+          "start_time": 23.375,
+          "end_time": 25.5,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 57.074999999999996,
+          "end_time": 57.074999999999996,
+          "language": "en"
+        },
+        {
+          "text": "There’s an echo on your side.",
+          "start_time": 25.5,
+          "end_time": 27.675,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 57.074999999999996,
+          "end_time": 57.074999999999996,
+          "language": "en"
+        },
+        {
+          "text": "你那边有回声。",
+          "start_time": 25.5,
+          "end_time": 27.675,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 57.074999999999996,
+          "end_time": 57.074999999999996,
+          "language": "en"
+        },
+        {
+          "text": "Let me switch my headset real quick.",
+          "start_time": 27.675,
+          "end_time": 30.150000000000002,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 57.074999999999996,
+          "end_time": 57.074999999999996,
+          "language": "en"
+        },
+        {
+          "text": "我换一下耳机。",
+          "start_time": 27.675,
+          "end_time": 30.150000000000002,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 57.074999999999996,
+          "end_time": 57.074999999999996,
+          "language": "en"
+        },
+        {
+          "text": "My screen isn’t sharing for some reason.",
+          "start_time": 30.150000000000002,
+          "end_time": 32.900000000000006,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 57.074999999999996,
+          "end_time": 57.074999999999996,
+          "language": "en"
+        },
+        {
+          "text": "不知道为什么我无法共享屏幕。",
+          "start_time": 30.150000000000002,
+          "end_time": 32.900000000000006,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 57.074999999999996,
+          "end_time": 57.074999999999996,
+          "language": "en"
+        },
+        {
+          "text": "Let me try restarting the app.",
+          "start_time": 32.900000000000006,
+          "end_time": 35.175000000000004,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 57.074999999999996,
+          "end_time": 57.074999999999996,
+          "language": "en"
+        },
+        {
+          "text": "我重启一下软件。",
+          "start_time": 32.900000000000006,
+          "end_time": 35.175000000000004,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 57.074999999999996,
+          "end_time": 57.074999999999996,
+          "language": "en"
+        },
+        {
+          "text": "Give me a second, my laptop is lagging.",
+          "start_time": 35.175000000000004,
+          "end_time": 38.1,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 57.074999999999996,
+          "end_time": 57.074999999999996,
+          "language": "en"
+        },
+        {
+          "text": "等我一下，我电脑有点卡。",
+          "start_time": 35.175000000000004,
+          "end_time": 38.1,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 57.074999999999996,
+          "end_time": 57.074999999999996,
+          "language": "en"
+        },
+        {
+          "text": "I think Zoom/Teams just froze.",
+          "start_time": 38.1,
+          "end_time": 40.4,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 57.074999999999996,
+          "end_time": 57.074999999999996,
+          "language": "en"
+        },
+        {
+          "text": "Zoom/Teams 卡住了。",
+          "start_time": 38.1,
+          "end_time": 40.4,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 57.074999999999996,
+          "end_time": 57.074999999999996,
+          "language": "en"
+        },
+        {
+          "text": "I think we’re talking over each other.",
+          "start_time": 40.4,
+          "end_time": 42.65,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 57.074999999999996,
+          "end_time": 57.074999999999996,
+          "language": "en"
+        },
+        {
+          "text": "我们好像说到彼此头上了。",
+          "start_time": 40.4,
+          "end_time": 42.65,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 57.074999999999996,
+          "end_time": 57.074999999999996,
+          "language": "en"
+        },
+        {
+          "text": "Let’s wait for a second; there's a bit of delay.",
+          "start_time": 42.65,
+          "end_time": 45.699999999999996,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 57.074999999999996,
+          "end_time": 57.074999999999996,
+          "language": "en"
+        },
+        {
+          "text": "等一下，有点延迟。",
+          "start_time": 42.65,
+          "end_time": 45.699999999999996,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 57.074999999999996,
+          "end_time": 57.074999999999996,
+          "language": "en"
+        },
+        {
+          "text": "Could you speak a bit slower? The connection is choppy.",
+          "start_time": 45.699999999999996,
+          "end_time": 49.175,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 57.074999999999996,
+          "end_time": 57.074999999999996,
+          "language": "en"
+        },
+        {
+          "text": "你能说慢一点吗？网络不太稳定。",
+          "start_time": 45.699999999999996,
+          "end_time": 49.175,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 57.074999999999996,
+          "end_time": 57.074999999999996,
+          "language": "en"
+        },
+        {
+          "text": "Sorry, I got disconnected just now.",
+          "start_time": 49.175,
+          "end_time": 52.0,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 57.074999999999996,
+          "end_time": 57.074999999999996,
+          "language": "en"
+        },
+        {
+          "text": "不好意思，我刚才掉线了。",
+          "start_time": 49.175,
+          "end_time": 52.0,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 57.074999999999996,
+          "end_time": 57.074999999999996,
+          "language": "en"
+        },
+        {
+          "text": "I’m reconnecting. Give me a moment.",
+          "start_time": 52.0,
+          "end_time": 54.55,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 57.074999999999996,
+          "end_time": 57.074999999999996,
+          "language": "en"
+        },
+        {
+          "text": "我正在重连，稍等一下。",
+          "start_time": 52.0,
+          "end_time": 54.55,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 57.074999999999996,
+          "end_time": 57.074999999999996,
+          "language": "en"
+        },
+        {
+          "text": "Looks like the call crashed on my side.",
+          "start_time": 54.55,
+          "end_time": 57.074999999999996,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 57.074999999999996,
+          "end_time": 57.074999999999996,
+          "language": "en"
+        },
+        {
+          "text": "好像我这边通话崩了。",
+          "start_time": 54.55,
+          "end_time": 57.074999999999996,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 57.074999999999996,
+          "end_time": 57.074999999999996,
+          "language": "en"
+        }
+      ]
+    }
+  }
+}
