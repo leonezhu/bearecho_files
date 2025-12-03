@@ -1,0 +1,317 @@
+{
+  "id": "978c3974-468e-46cd-a42a-e6a7412705fa",
+  "title": "Good morning everyone, I’m...",
+  "content_type": "paragraph",
+  "content_text": "Good morning everyone, I’m Leone. Today I’ll walk you through the details of this Change Request.\n\nFirst, the schedule: the implementation is planned from December 6th at 8 PM to December 7th at 6 AM.\n\nNext, the scope: this change covers four projects — BAU, IA, Redom, and 030.\n\nIn terms of components, the implementation will involve AKS Service, Salesforce, and CA JOB.\n\nAll changes have been fully tested in the UAT environment, and the results meet expectations. We’ve also obtained BA sign-off and implementation sign-off, which you can find in the attached documents.\n\nAfter the implementation, IT and BA teams will perform a post-check according to the plan.\n\nThat’s the overview of this CR. Thank you\n\n\nChange Request (CR) Overview\n\nHello everyone, I’m Leone. I’d like to present the details of this Change Request.\n\n\nThe implementation is planned for: December 6, 2025, 20:00 – December 7, 2025, 06:00.\n\n\nThis change includes the following projects:\n\n• BAU Project\n\n• IA Project\n\n• Redom Project\n\n 030 Project\n\nThe implementation will affect:\n\n• AKS Service\n\n• Salesforce\n\n• CA JOB\n\nAll changes have been successfully tested in the UAT environment and meet the expected outcomes.\n\nWe have obtained:\n\n• BA Sign-off\n\n• Implementation Sign-off(Please refer to the attached documents.)\n\n\nAfter the implementation, IT and BA teams will perform a Post-Check according to the implementation plan.\n\nThat concludes the overview of this CR. Thank you.",
+  "created_at": "2025-12-03T04:17:19.882295Z",
+  "language_versions": {
+    "en": {
+      "tts_engine": "kokoro",
+      "voice": "af_heart",
+      "audio_url": "https://pub-c03f3674ad6c4b8ea960ee176f0d19dc.r2.dev/audio/dev-user-001/978c3974-468e-46cd-a42a-e6a7412705fa/978c3974-468e-46cd-a42a-e6a7412705fa_en.wav",
+      "audio_rel_path": "/audio/20251203T041719Z_Good_morning_everyone_I_m__978c3974-468e-46cd-a42a-e6a7412705fa_en.wav",
+      "sentences": [
+        {
+          "text": "Good morning everyone, I’m Leone. Today I’ll walk you through the details of this Change Request.",
+          "start_time": 0.0,
+          "end_time": 6.075,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 110.35000000000002,
+          "end_time": 110.35000000000002,
+          "language": "en"
+        },
+        {
+          "text": "First, the schedule: the implementation is planned from December 6th at 8 PM to December 7th at 6 AM.",
+          "start_time": 6.075,
+          "end_time": 14.225000000000001,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 110.35000000000002,
+          "end_time": 110.35000000000002,
+          "language": "en"
+        },
+        {
+          "text": "Next, the scope: this change covers four projects — BAU, IA, Redom, and 030.",
+          "start_time": 14.225000000000001,
+          "end_time": 20.400000000000002,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 110.35000000000002,
+          "end_time": 110.35000000000002,
+          "language": "en"
+        },
+        {
+          "text": "In terms of components, the implementation will involve AKS Service, Salesforce, and CA JOB.",
+          "start_time": 20.400000000000002,
+          "end_time": 27.25,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 110.35000000000002,
+          "end_time": 110.35000000000002,
+          "language": "en"
+        },
+        {
+          "text": "All changes have been fully tested in the UAT environment, and the results meet expectations. We’ve also obtained BA sign-off and implementation sign-off, which you can find in the attached documents.",
+          "start_time": 27.25,
+          "end_time": 40.475,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 110.35000000000002,
+          "end_time": 110.35000000000002,
+          "language": "en"
+        },
+        {
+          "text": "After the implementation, IT and BA teams will perform a post-check according to the plan.",
+          "start_time": 40.475,
+          "end_time": 46.525,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 110.35000000000002,
+          "end_time": 110.35000000000002,
+          "language": "en"
+        },
+        {
+          "text": "That’s the overview of this CR. Thank you",
+          "start_time": 46.525,
+          "end_time": 49.625,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 110.35000000000002,
+          "end_time": 110.35000000000002,
+          "language": "en"
+        },
+        {
+          "text": "Change Request (CR) Overview",
+          "start_time": 49.625,
+          "end_time": 52.325,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 110.35000000000002,
+          "end_time": 110.35000000000002,
+          "language": "en"
+        },
+        {
+          "text": "Hello everyone, I’m Leone. I’d like to present the details of this Change Request.",
+          "start_time": 52.325,
+          "end_time": 57.650000000000006,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 110.35000000000002,
+          "end_time": 110.35000000000002,
+          "language": "en"
+        },
+        {
+          "text": "The implementation is planned for: December 6, 2025, 20:00 – December 7, 2025, 06:00.",
+          "start_time": 57.650000000000006,
+          "end_time": 68.30000000000001,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 110.35000000000002,
+          "end_time": 110.35000000000002,
+          "language": "en"
+        },
+        {
+          "text": "This change includes the following projects:",
+          "start_time": 68.30000000000001,
+          "end_time": 71.30000000000001,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 110.35000000000002,
+          "end_time": 110.35000000000002,
+          "language": "en"
+        },
+        {
+          "text": "• BAU Project",
+          "start_time": 71.30000000000001,
+          "end_time": 73.00000000000001,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 110.35000000000002,
+          "end_time": 110.35000000000002,
+          "language": "en"
+        },
+        {
+          "text": "• IA Project",
+          "start_time": 73.00000000000001,
+          "end_time": 74.70000000000002,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 110.35000000000002,
+          "end_time": 110.35000000000002,
+          "language": "en"
+        },
+        {
+          "text": "• Redom Project",
+          "start_time": 74.70000000000002,
+          "end_time": 76.45000000000002,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 110.35000000000002,
+          "end_time": 110.35000000000002,
+          "language": "en"
+        },
+        {
+          "text": "030 Project",
+          "start_time": 76.45000000000002,
+          "end_time": 78.12500000000001,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 110.35000000000002,
+          "end_time": 110.35000000000002,
+          "language": "en"
+        },
+        {
+          "text": "The implementation will affect:",
+          "start_time": 78.12500000000001,
+          "end_time": 80.47500000000001,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 110.35000000000002,
+          "end_time": 110.35000000000002,
+          "language": "en"
+        },
+        {
+          "text": "• AKS Service",
+          "start_time": 80.47500000000001,
+          "end_time": 82.35000000000001,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 110.35000000000002,
+          "end_time": 110.35000000000002,
+          "language": "en"
+        },
+        {
+          "text": "• Salesforce",
+          "start_time": 82.35000000000001,
+          "end_time": 83.95,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 110.35000000000002,
+          "end_time": 110.35000000000002,
+          "language": "en"
+        },
+        {
+          "text": "• CA JOB",
+          "start_time": 83.95,
+          "end_time": 85.625,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 110.35000000000002,
+          "end_time": 110.35000000000002,
+          "language": "en"
+        },
+        {
+          "text": "All changes have been successfully tested in the UAT environment and meet the expected outcomes.",
+          "start_time": 85.625,
+          "end_time": 92.15,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 110.35000000000002,
+          "end_time": 110.35000000000002,
+          "language": "en"
+        },
+        {
+          "text": "We have obtained:",
+          "start_time": 92.15,
+          "end_time": 93.80000000000001,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 110.35000000000002,
+          "end_time": 110.35000000000002,
+          "language": "en"
+        },
+        {
+          "text": "• BA Sign-off",
+          "start_time": 93.80000000000001,
+          "end_time": 95.45000000000002,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 110.35000000000002,
+          "end_time": 110.35000000000002,
+          "language": "en"
+        },
+        {
+          "text": "• Implementation Sign-off(Please refer to the attached documents.)",
+          "start_time": 95.45000000000002,
+          "end_time": 99.80000000000001,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 110.35000000000002,
+          "end_time": 110.35000000000002,
+          "language": "en"
+        },
+        {
+          "text": "After the implementation, IT and BA teams will perform a Post-Check according to the implementation plan.",
+          "start_time": 99.80000000000001,
+          "end_time": 106.95000000000002,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 110.35000000000002,
+          "end_time": 110.35000000000002,
+          "language": "en"
+        },
+        {
+          "text": "That concludes the overview of this CR. Thank you.",
+          "start_time": 106.95000000000002,
+          "end_time": 110.35000000000002,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 110.35000000000002,
+          "end_time": 110.35000000000002,
+          "language": "en"
+        }
+      ]
+    }
+  }
+}
