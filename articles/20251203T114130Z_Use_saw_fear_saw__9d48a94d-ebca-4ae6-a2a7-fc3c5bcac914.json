@@ -1,0 +1,197 @@
+{
+  "id": "9d48a94d-ebca-4ae6-a2a7-fc3c5bcac914",
+  "title": "Use saw, fear saw....",
+  "content_type": "paragraph",
+  "content_text": "Use saw, fear saw.\n[使用锯子，畏惧锯子]\nI don't know what my favorite beverage is.\n\nI don't know what my next move is.\n\nIt's not difficult once you get the hang of it.\n\nThat concludes the overview of this CR.\n[以上就是这个 CR 的整体介绍。]\n\nWas it hard to overcome all the problems you had with it.\n[你克服掉那些你在它身上遇到的所有问题，难吗？]\n\nWhy are you talking to me this much?\n[为什么你跟我聊这么多？]\n\nI just want to impress upon you that even though your thesis may pass, there are still some grammatical mistakes to be corrected.\n[我总是想让你记住，尽管你的论文可能通过了，但还有一些语法错误要修改。]\n\n\n\nCreate a personal “ramblings” channel for each teammate in your team’s chat app of choice.\n[为团队中的每位成员在所选的聊天应用程序中创建一个“随想录”频道。]",
+  "created_at": "2025-12-03T11:41:30.748695Z",
+  "language_versions": {
+    "en": {
+      "tts_engine": "kokoro",
+      "voice": "af_heart",
+      "audio_url": "https://pub-c03f3674ad6c4b8ea960ee176f0d19dc.r2.dev/audio/dev-user-001/9d48a94d-ebca-4ae6-a2a7-fc3c5bcac914/9d48a94d-ebca-4ae6-a2a7-fc3c5bcac914_en.wav",
+      "audio_rel_path": "/audio/20251203T114130Z_Use_saw_fear_saw__9d48a94d-ebca-4ae6-a2a7-fc3c5bcac914_en.wav",
+      "sentences": [
+        {
+          "text": "Use saw, fear saw.",
+          "start_time": 0.0,
+          "end_time": 1.925,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 31.224999999999998,
+          "end_time": 31.224999999999998,
+          "language": "en"
+        },
+        {
+          "text": "使用锯子，畏惧锯子",
+          "start_time": 0.0,
+          "end_time": 1.925,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 31.224999999999998,
+          "end_time": 31.224999999999998,
+          "language": "en"
+        },
+        {
+          "text": "I don't know what my favorite beverage is.",
+          "start_time": 1.925,
+          "end_time": 4.575,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 31.224999999999998,
+          "end_time": 31.224999999999998,
+          "language": "en"
+        },
+        {
+          "text": "I don't know what my next move is.",
+          "start_time": 4.575,
+          "end_time": 6.775,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 31.224999999999998,
+          "end_time": 31.224999999999998,
+          "language": "en"
+        },
+        {
+          "text": "It's not difficult once you get the hang of it.",
+          "start_time": 6.775,
+          "end_time": 9.65,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 31.224999999999998,
+          "end_time": 31.224999999999998,
+          "language": "en"
+        },
+        {
+          "text": "That concludes the overview of this CR.",
+          "start_time": 9.65,
+          "end_time": 12.275,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 31.224999999999998,
+          "end_time": 31.224999999999998,
+          "language": "en"
+        },
+        {
+          "text": "以上就是这个 CR 的整体介绍。",
+          "start_time": 9.65,
+          "end_time": 12.275,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 31.224999999999998,
+          "end_time": 31.224999999999998,
+          "language": "en"
+        },
+        {
+          "text": "Was it hard to overcome all the problems you had with it.",
+          "start_time": 12.275,
+          "end_time": 15.775,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 31.224999999999998,
+          "end_time": 31.224999999999998,
+          "language": "en"
+        },
+        {
+          "text": "你克服掉那些你在它身上遇到的所有问题，难吗？",
+          "start_time": 12.275,
+          "end_time": 15.775,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 31.224999999999998,
+          "end_time": 31.224999999999998,
+          "language": "en"
+        },
+        {
+          "text": "Why are you talking to me this much?",
+          "start_time": 15.775,
+          "end_time": 18.125,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 31.224999999999998,
+          "end_time": 31.224999999999998,
+          "language": "en"
+        },
+        {
+          "text": "为什么你跟我聊这么多？",
+          "start_time": 15.775,
+          "end_time": 18.125,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 31.224999999999998,
+          "end_time": 31.224999999999998,
+          "language": "en"
+        },
+        {
+          "text": "I just want to impress upon you that even though your thesis may pass, there are still some grammatical mistakes to be corrected.",
+          "start_time": 18.125,
+          "end_time": 25.65,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 31.224999999999998,
+          "end_time": 31.224999999999998,
+          "language": "en"
+        },
+        {
+          "text": "我总是想让你记住，尽管你的论文可能通过了，但还有一些语法错误要修改。",
+          "start_time": 18.125,
+          "end_time": 25.65,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 31.224999999999998,
+          "end_time": 31.224999999999998,
+          "language": "en"
+        },
+        {
+          "text": "Create a personal “ramblings” channel for each teammate in your team’s chat app of choice.",
+          "start_time": 25.65,
+          "end_time": 31.224999999999998,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 31.224999999999998,
+          "end_time": 31.224999999999998,
+          "language": "en"
+        },
+        {
+          "text": "为团队中的每位成员在所选的聊天应用程序中创建一个“随想录”频道。",
+          "start_time": 25.65,
+          "end_time": 31.224999999999998,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 31.224999999999998,
+          "end_time": 31.224999999999998,
+          "language": "en"
+        }
+      ]
+    }
+  }
+}
