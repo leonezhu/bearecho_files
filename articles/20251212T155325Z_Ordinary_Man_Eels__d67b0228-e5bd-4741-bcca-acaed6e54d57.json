@@ -1,0 +1,689 @@
+{
+  "id": "d67b0228-e5bd-4741-bcca-acaed6e54d57",
+  "title": "Ordinary Man [Eels]",
+  "content_type": "paragraph",
+  "content_text": "Ordinary Man  \n[Eels]\n\nWell it's another warm day  \n[又是一个温暖好天气]  \nIn the city of cold hearts  \n[尽管城市里人心冷漠]  \nThey all just play the part of who they are  \n[每个人都在演自己的角色]  \nAnd I'm here on my own  \n[而我独自一人]  \nI'd rather be alone  \n[比起强颜欢笑曲意迎合]  \nThan try to be someone that I'm not  \n[我宁愿一个人待着]  \nAnd you seem like someone who could appreciate the fact  \n[似乎你能看得出]  \nthat I'm no ordinary man  \n[我和他们不一样]\n\nAnd it's misunderstood  \n[你可能被误导了]  \nwhat you've heard about me  \n[那些流言]  \nI see why you would doubt me  \n[我懂你怀疑我的原因]  \nBut know this  \n[但你得知道]  \nNo one has a right  \n[别人都无权评价我]  \nUntil they've fought my fight  \n[除非他们亲身体验我经历过的挣扎]  \nTo understand just where I'm coming from  \n[除非他们知道我从何而来]  \nAnd it's that fight that brought me here today  \n[没有那些过往我也没有今天]  \nExactly as I am  \n[我的的确确]  \nNo ordinary man  \n[和他们不一样]\n\nWell it's another warm day  \n[又是一个温暖好天气]  \nIn the city of cold hearts  \n[尽管城市里人心冷漠]  \nIt ends before it starts  \n[故事尚未发生，结局便已注定]  \nIn their maze  \n[因为他们迷失了自我]  \nBut you, you're not like that  \n[但你，你和他们不一样]  \nYou know where it's at  \n[你知道自己身处何处]  \nThe only rules you follow are your own  \n[你只听从自己内心的声音]  \nAnd you seem like someone who could appreciate the fact  \n[而且似乎你能看得出]  \nThat I'm no ordinary man  \n[我也和他们不一样]",
+  "created_at": "2025-12-12T15:53:25.732889Z",
+  "language_versions": {
+    "en": {
+      "tts_engine": "edge-tts",
+      "voice": "en-US-ChristopherNeural",
+      "audio_url": "https://pub-c03f3674ad6c4b8ea960ee176f0d19dc.r2.dev/audio/dev-user-001/d67b0228-e5bd-4741-bcca-acaed6e54d57/d67b0228-e5bd-4741-bcca-acaed6e54d57_en.wav",
+      "audio_rel_path": "/audio/20251212T155325Z_Ordinary_Man_Eels__d67b0228-e5bd-4741-bcca-acaed6e54d57_en.wav",
+      "sentences": [
+        {
+          "text": "Ordinary Man",
+          "start_time": 0.0,
+          "end_time": 1.968,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 71.136,
+          "end_time": 71.136,
+          "language": "en"
+        },
+        {
+          "text": "Eels",
+          "start_time": 0.0,
+          "end_time": 1.968,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 71.136,
+          "end_time": 71.136,
+          "language": "en"
+        },
+        {
+          "text": "Well it's another warm day",
+          "start_time": 1.968,
+          "end_time": 4.416,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 71.136,
+          "end_time": 71.136,
+          "language": "en"
+        },
+        {
+          "text": "又是一个温暖好天气",
+          "start_time": 1.968,
+          "end_time": 4.416,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 71.136,
+          "end_time": 71.136,
+          "language": "en"
+        },
+        {
+          "text": "In the city of cold hearts",
+          "start_time": 4.416,
+          "end_time": 7.032,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 71.136,
+          "end_time": 71.136,
+          "language": "en"
+        },
+        {
+          "text": "尽管城市里人心冷漠",
+          "start_time": 4.416,
+          "end_time": 7.032,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 71.136,
+          "end_time": 71.136,
+          "language": "en"
+        },
+        {
+          "text": "They all just play the part of who they are",
+          "start_time": 7.032,
+          "end_time": 10.08,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 71.136,
+          "end_time": 71.136,
+          "language": "en"
+        },
+        {
+          "text": "每个人都在演自己的角色",
+          "start_time": 7.032,
+          "end_time": 10.08,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 71.136,
+          "end_time": 71.136,
+          "language": "en"
+        },
+        {
+          "text": "And I'm here on my own",
+          "start_time": 10.08,
+          "end_time": 12.432,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 71.136,
+          "end_time": 71.136,
+          "language": "en"
+        },
+        {
+          "text": "而我独自一人",
+          "start_time": 10.08,
+          "end_time": 12.432,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 71.136,
+          "end_time": 71.136,
+          "language": "en"
+        },
+        {
+          "text": "I'd rather be alone",
+          "start_time": 12.432,
+          "end_time": 14.64,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 71.136,
+          "end_time": 71.136,
+          "language": "en"
+        },
+        {
+          "text": "比起强颜欢笑曲意迎合",
+          "start_time": 12.432,
+          "end_time": 14.64,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 71.136,
+          "end_time": 71.136,
+          "language": "en"
+        },
+        {
+          "text": "Than try to be someone that I'm not",
+          "start_time": 14.64,
+          "end_time": 17.376,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 71.136,
+          "end_time": 71.136,
+          "language": "en"
+        },
+        {
+          "text": "我宁愿一个人待着",
+          "start_time": 14.64,
+          "end_time": 17.376,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 71.136,
+          "end_time": 71.136,
+          "language": "en"
+        },
+        {
+          "text": "And you seem like someone who could appreciate the fact",
+          "start_time": 17.376,
+          "end_time": 21.0,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 71.136,
+          "end_time": 71.136,
+          "language": "en"
+        },
+        {
+          "text": "似乎你能看得出",
+          "start_time": 17.376,
+          "end_time": 21.0,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 71.136,
+          "end_time": 71.136,
+          "language": "en"
+        },
+        {
+          "text": "that I'm no ordinary man",
+          "start_time": 21.0,
+          "end_time": 23.544,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 71.136,
+          "end_time": 71.136,
+          "language": "en"
+        },
+        {
+          "text": "我和他们不一样",
+          "start_time": 21.0,
+          "end_time": 23.544,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 71.136,
+          "end_time": 71.136,
+          "language": "en"
+        },
+        {
+          "text": "And it's misunderstood",
+          "start_time": 23.544,
+          "end_time": 25.776,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 71.136,
+          "end_time": 71.136,
+          "language": "en"
+        },
+        {
+          "text": "你可能被误导了",
+          "start_time": 23.544,
+          "end_time": 25.776,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 71.136,
+          "end_time": 71.136,
+          "language": "en"
+        },
+        {
+          "text": "what you've heard about me",
+          "start_time": 25.776,
+          "end_time": 27.96,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 71.136,
+          "end_time": 71.136,
+          "language": "en"
+        },
+        {
+          "text": "那些流言",
+          "start_time": 25.776,
+          "end_time": 27.96,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 71.136,
+          "end_time": 71.136,
+          "language": "en"
+        },
+        {
+          "text": "I see why you would doubt me",
+          "start_time": 27.96,
+          "end_time": 30.432000000000002,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 71.136,
+          "end_time": 71.136,
+          "language": "en"
+        },
+        {
+          "text": "我懂你怀疑我的原因",
+          "start_time": 27.96,
+          "end_time": 30.432000000000002,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 71.136,
+          "end_time": 71.136,
+          "language": "en"
+        },
+        {
+          "text": "But know this",
+          "start_time": 30.432000000000002,
+          "end_time": 32.352000000000004,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 71.136,
+          "end_time": 71.136,
+          "language": "en"
+        },
+        {
+          "text": "但你得知道",
+          "start_time": 30.432000000000002,
+          "end_time": 32.352000000000004,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 71.136,
+          "end_time": 71.136,
+          "language": "en"
+        },
+        {
+          "text": "No one has a right",
+          "start_time": 32.352000000000004,
+          "end_time": 34.440000000000005,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 71.136,
+          "end_time": 71.136,
+          "language": "en"
+        },
+        {
+          "text": "别人都无权评价我",
+          "start_time": 32.352000000000004,
+          "end_time": 34.440000000000005,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 71.136,
+          "end_time": 71.136,
+          "language": "en"
+        },
+        {
+          "text": "Until they've fought my fight",
+          "start_time": 34.440000000000005,
+          "end_time": 36.888000000000005,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 71.136,
+          "end_time": 71.136,
+          "language": "en"
+        },
+        {
+          "text": "除非他们亲身体验我经历过的挣扎",
+          "start_time": 34.440000000000005,
+          "end_time": 36.888000000000005,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 71.136,
+          "end_time": 71.136,
+          "language": "en"
+        },
+        {
+          "text": "To understand just where I'm coming from",
+          "start_time": 36.888000000000005,
+          "end_time": 39.816,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 71.136,
+          "end_time": 71.136,
+          "language": "en"
+        },
+        {
+          "text": "除非他们知道我从何而来",
+          "start_time": 36.888000000000005,
+          "end_time": 39.816,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 71.136,
+          "end_time": 71.136,
+          "language": "en"
+        },
+        {
+          "text": "And it's that fight that brought me here today",
+          "start_time": 39.816,
+          "end_time": 42.936,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 71.136,
+          "end_time": 71.136,
+          "language": "en"
+        },
+        {
+          "text": "没有那些过往我也没有今天",
+          "start_time": 39.816,
+          "end_time": 42.936,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 71.136,
+          "end_time": 71.136,
+          "language": "en"
+        },
+        {
+          "text": "Exactly as I am",
+          "start_time": 42.936,
+          "end_time": 45.288,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 71.136,
+          "end_time": 71.136,
+          "language": "en"
+        },
+        {
+          "text": "我的的确确",
+          "start_time": 42.936,
+          "end_time": 45.288,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 71.136,
+          "end_time": 71.136,
+          "language": "en"
+        },
+        {
+          "text": "No ordinary man",
+          "start_time": 45.288,
+          "end_time": 47.568,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 71.136,
+          "end_time": 71.136,
+          "language": "en"
+        },
+        {
+          "text": "和他们不一样",
+          "start_time": 45.288,
+          "end_time": 47.568,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 71.136,
+          "end_time": 71.136,
+          "language": "en"
+        },
+        {
+          "text": "Well it's another warm day",
+          "start_time": 47.568,
+          "end_time": 50.016,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 71.136,
+          "end_time": 71.136,
+          "language": "en"
+        },
+        {
+          "text": "又是一个温暖好天气",
+          "start_time": 47.568,
+          "end_time": 50.016,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 71.136,
+          "end_time": 71.136,
+          "language": "en"
+        },
+        {
+          "text": "In the city of cold hearts",
+          "start_time": 50.016,
+          "end_time": 52.632,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 71.136,
+          "end_time": 71.136,
+          "language": "en"
+        },
+        {
+          "text": "尽管城市里人心冷漠",
+          "start_time": 50.016,
+          "end_time": 52.632,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 71.136,
+          "end_time": 71.136,
+          "language": "en"
+        },
+        {
+          "text": "It ends before it starts",
+          "start_time": 52.632,
+          "end_time": 55.224,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 71.136,
+          "end_time": 71.136,
+          "language": "en"
+        },
+        {
+          "text": "故事尚未发生，结局便已注定",
+          "start_time": 52.632,
+          "end_time": 55.224,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 71.136,
+          "end_time": 71.136,
+          "language": "en"
+        },
+        {
+          "text": "In their maze",
+          "start_time": 55.224,
+          "end_time": 57.144,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 71.136,
+          "end_time": 71.136,
+          "language": "en"
+        },
+        {
+          "text": "因为他们迷失了自我",
+          "start_time": 55.224,
+          "end_time": 57.144,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 71.136,
+          "end_time": 71.136,
+          "language": "en"
+        },
+        {
+          "text": "But you, you're not like that",
+          "start_time": 57.144,
+          "end_time": 59.832,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 71.136,
+          "end_time": 71.136,
+          "language": "en"
+        },
+        {
+          "text": "但你，你和他们不一样",
+          "start_time": 57.144,
+          "end_time": 59.832,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 71.136,
+          "end_time": 71.136,
+          "language": "en"
+        },
+        {
+          "text": "You know where it's at",
+          "start_time": 59.832,
+          "end_time": 61.944,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 71.136,
+          "end_time": 71.136,
+          "language": "en"
+        },
+        {
+          "text": "你知道自己身处何处",
+          "start_time": 59.832,
+          "end_time": 61.944,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 71.136,
+          "end_time": 71.136,
+          "language": "en"
+        },
+        {
+          "text": "The only rules you follow are your own",
+          "start_time": 61.944,
+          "end_time": 64.968,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 71.136,
+          "end_time": 71.136,
+          "language": "en"
+        },
+        {
+          "text": "你只听从自己内心的声音",
+          "start_time": 61.944,
+          "end_time": 64.968,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 71.136,
+          "end_time": 71.136,
+          "language": "en"
+        },
+        {
+          "text": "And you seem like someone who could appreciate the fact",
+          "start_time": 64.968,
+          "end_time": 68.592,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 71.136,
+          "end_time": 71.136,
+          "language": "en"
+        },
+        {
+          "text": "而且似乎你能看得出",
+          "start_time": 64.968,
+          "end_time": 68.592,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 71.136,
+          "end_time": 71.136,
+          "language": "en"
+        },
+        {
+          "text": "That I'm no ordinary man",
+          "start_time": 68.592,
+          "end_time": 71.136,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 71.136,
+          "end_time": 71.136,
+          "language": "en"
+        },
+        {
+          "text": "我也和他们不一样",
+          "start_time": 68.592,
+          "end_time": 71.136,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 71.136,
+          "end_time": 71.136,
+          "language": "en"
+        }
+      ]
+    }
+  }
+}
