@@ -1,0 +1,173 @@
+{
+  "id": "4b824bac-a28b-46a4-8f3c-58cbdb1ec712",
+  "title": "Enjoy the rest of your day....",
+  "content_type": "paragraph",
+  "content_text": "Enjoy the rest of your day.\nDon’t forget the pirate hat — no pirate is complete without one.\n\nIn fact, the answer is fairly simple, and can be summed up in two words: ambient noise.\n[事实上，问题的答案非常简单，简单到可以用两个字来概括：周围的杂音。]\n\nWith so much to do, a little fun can stop things from feeling overwhelming.\n[事情那么多时，给生活加点乐趣，就不会觉得一切都压得喘不过气。]\n\nIt’s funny how after visiting China my enthusiasm for the country has been tempered.\n[没想到的是，去了一趟中国后，我对这个国家的热情反而冷静了下来。]\n\n\n\nI've never done any cooking and I'm not about to start now.\n[我从来没有做过饭，也不想从现在开始做起来。]\n\nRemind me to hang out the clothes in an hour.\n\nI hope he can help people cope with their problems if they need it. \n[cope with 应对/克服/处理任何困难]",
+  "created_at": "2025-12-15T15:42:32.467498Z",
+  "language_versions": {
+    "en": {
+      "tts_engine": "kokoro",
+      "voice": "af_heart",
+      "audio_url": "https://pub-c03f3674ad6c4b8ea960ee176f0d19dc.r2.dev/audio/dev-user-001/4b824bac-a28b-46a4-8f3c-58cbdb1ec712/4b824bac-a28b-46a4-8f3c-58cbdb1ec712_en.wav",
+      "audio_rel_path": "/audio/20251215T154232Z_Enjoy_the_rest_of_your_day__4b824bac-a28b-46a4-8f3c-58cbdb1ec712_en.wav",
+      "sentences": [
+        {
+          "text": "Enjoy the rest of your day.",
+          "start_time": 0.0,
+          "end_time": 2.025,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 32.625,
+          "end_time": 32.625,
+          "language": "en"
+        },
+        {
+          "text": "Don’t forget the pirate hat — no pirate is complete without one.",
+          "start_time": 2.025,
+          "end_time": 6.15,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 32.625,
+          "end_time": 32.625,
+          "language": "en"
+        },
+        {
+          "text": "In fact, the answer is fairly simple, and can be summed up in two words: ambient noise.",
+          "start_time": 6.15,
+          "end_time": 11.875,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 32.625,
+          "end_time": 32.625,
+          "language": "en"
+        },
+        {
+          "text": "事实上，问题的答案非常简单，简单到可以用两个字来概括：周围的杂音。",
+          "start_time": 6.15,
+          "end_time": 11.875,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 32.625,
+          "end_time": 32.625,
+          "language": "en"
+        },
+        {
+          "text": "With so much to do, a little fun can stop things from feeling overwhelming.",
+          "start_time": 11.875,
+          "end_time": 16.725,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 32.625,
+          "end_time": 32.625,
+          "language": "en"
+        },
+        {
+          "text": "事情那么多时，给生活加点乐趣，就不会觉得一切都压得喘不过气。",
+          "start_time": 11.875,
+          "end_time": 16.725,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 32.625,
+          "end_time": 32.625,
+          "language": "en"
+        },
+        {
+          "text": "It’s funny how after visiting China my enthusiasm for the country has been tempered.",
+          "start_time": 16.725,
+          "end_time": 22.575000000000003,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 32.625,
+          "end_time": 32.625,
+          "language": "en"
+        },
+        {
+          "text": "没想到的是，去了一趟中国后，我对这个国家的热情反而冷静了下来。",
+          "start_time": 16.725,
+          "end_time": 22.575000000000003,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 32.625,
+          "end_time": 32.625,
+          "language": "en"
+        },
+        {
+          "text": "I've never done any cooking and I'm not about to start now.",
+          "start_time": 22.575000000000003,
+          "end_time": 26.225,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 32.625,
+          "end_time": 32.625,
+          "language": "en"
+        },
+        {
+          "text": "我从来没有做过饭，也不想从现在开始做起来。",
+          "start_time": 22.575000000000003,
+          "end_time": 26.225,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 32.625,
+          "end_time": 32.625,
+          "language": "en"
+        },
+        {
+          "text": "Remind me to hang out the clothes in an hour.",
+          "start_time": 26.225,
+          "end_time": 29.0,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 32.625,
+          "end_time": 32.625,
+          "language": "en"
+        },
+        {
+          "text": "I hope he can help people cope with their problems if they need it.",
+          "start_time": 29.0,
+          "end_time": 32.625,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 32.625,
+          "end_time": 32.625,
+          "language": "en"
+        },
+        {
+          "text": "cope with 应对/克服/处理任何困难",
+          "start_time": 29.0,
+          "end_time": 32.625,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 32.625,
+          "end_time": 32.625,
+          "language": "en"
+        }
+      ]
+    }
+  }
+}
