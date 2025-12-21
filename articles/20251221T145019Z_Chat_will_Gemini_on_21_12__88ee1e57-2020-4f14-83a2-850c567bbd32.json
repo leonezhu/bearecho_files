@@ -1,0 +1,65 @@
+{
+  "id": "88ee1e57-2020-4f14-83a2-850c567bbd32",
+  "title": "Chat will Gemini on 21 , 12 ,...",
+  "content_type": "paragraph",
+  "content_text": "Chat will Gemini on 21 , 12 , 2025\n\"Hi there! I don't have anything specific in mind, I just wanted to chat because I’m feeling a bit bored.\nRecently, I’ve started learning about AI, specifically how to apply Natural Language Processing (NLP) to development. My main focus isn't just building AI from scratch, but rather learning how to use AI to make traditional projects more efficient.\nDo you know Salesforce? In our company, we use GitHub for development, and I’m currently trying to integrate some new AI features into my workflow—specifically 'Skills'. I haven't actually used them yet; I'm just starting to explore them. Do you have any advice on how to learn this effectively?\"",
+  "created_at": "2025-12-21T14:50:19.480878Z",
+  "language_versions": {
+    "en": {
+      "tts_engine": "kokoro",
+      "voice": "af_heart",
+      "audio_url": "https://pub-c03f3674ad6c4b8ea960ee176f0d19dc.r2.dev/audio/dev-user-001/88ee1e57-2020-4f14-83a2-850c567bbd32/88ee1e57-2020-4f14-83a2-850c567bbd32_en.wav",
+      "audio_rel_path": "/audio/20251221T145019Z_Chat_will_Gemini_on_21_12__88ee1e57-2020-4f14-83a2-850c567bbd32_en.wav",
+      "sentences": [
+        {
+          "text": "Chat will Gemini on 21 , 12 , 2025",
+          "start_time": 0.0,
+          "end_time": 4.3,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 45.2,
+          "end_time": 45.2,
+          "language": "en"
+        },
+        {
+          "text": "\"Hi there! I don't have anything specific in mind, I just wanted to chat because I’m feeling a bit bored.",
+          "start_time": 4.3,
+          "end_time": 10.675,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 45.2,
+          "end_time": 45.2,
+          "language": "en"
+        },
+        {
+          "text": "Recently, I’ve started learning about AI, specifically how to apply Natural Language Processing (NLP) to development. My main focus isn't just building AI from scratch, but rather learning how to use AI to make traditional projects more efficient.",
+          "start_time": 10.675,
+          "end_time": 27.425,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 45.2,
+          "end_time": 45.2,
+          "language": "en"
+        },
+        {
+          "text": "Do you know Salesforce? In our company, we use GitHub for development, and I’m currently trying to integrate some new AI features into my workflow—specifically 'Skills'. I haven't actually used them yet; I'm just starting to explore them. Do you have any advice on how to learn this effectively?\"",
+          "start_time": 27.425,
+          "end_time": 45.2,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 45.2,
+          "end_time": 45.2,
+          "language": "en"
+        }
+      ]
+    }
+  }
+}
