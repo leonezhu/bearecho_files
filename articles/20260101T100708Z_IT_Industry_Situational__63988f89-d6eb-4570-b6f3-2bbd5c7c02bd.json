@@ -1,0 +1,221 @@
+{
+  "id": "63988f89-d6eb-4570-b6f3-2bbd5c7c02bd",
+  "title": "IT Industry Situational...",
+  "content_type": "paragraph",
+  "content_text": "IT Industry Situational Learning - 2026-01-01\n\nHey, I'm looking forward to the upcoming meeting. How about the details?\nThe meeting invitation has been sent. \nThe specific agenda is synced in the meeting description. You can take a look in advance.\n\nI've sent out the meeting invitations, and the detailed agenda is in the meeting description. You can take a look in advance.\n\nThe interview invites have been sent out. The interview process is included in the email body, so you can go through it in advance\n\n\nHi there, could you bring me up to speed on the current project status?\"\n\nSure, the whole project is 20% complete, but we've hit a roadblock with the loader debugging.\n\nLet's quickly go over the project progress. This task is currently 80% complete, but we've hit a roadblock with the database migration.\n\nWe have come up with a new technical solution to fix the database lag issue.\"\nRegarding the technical solution to resolve this bottleneck, I'm worried whether its long-term maintenance costs will be too high.\n\n\nI think the procurement cost of this new system is way beyond our budget.\nI agree with Lisa regarding the cost concerns. On top of that, we also need to evaluate potential performance bottlenecks that this new solution might bring to our existing systems.\n\nThe data transmission framework for the new project is almost finalized.\nThis solution's architecture may introduce new security risks, so we need to bring in the security team early in the process.\n\nAny more questions about the tool specs?\nAlright, let's wrap up the discussion for now. Next, I'll quickly walk you through the core workflow of the new feature.",
+  "created_at": "2026-01-01T10:07:08.960751Z",
+  "language_versions": {
+    "en": {
+      "tts_engine": "kokoro",
+      "voice": "af_heart",
+      "audio_url": "https://pub-c03f3674ad6c4b8ea960ee176f0d19dc.r2.dev/audio/dev-user-001/63988f89-d6eb-4570-b6f3-2bbd5c7c02bd/63988f89-d6eb-4570-b6f3-2bbd5c7c02bd_en.wav",
+      "audio_rel_path": "/audio/20260101T100708Z_IT_Industry_Situational__63988f89-d6eb-4570-b6f3-2bbd5c7c02bd_en.wav",
+      "sentences": [
+        {
+          "text": "IT Industry Situational Learning - 2026-01-01",
+          "start_time": 0.0,
+          "end_time": 5.1,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 104.15000000000002,
+          "end_time": 104.15000000000002,
+          "language": "en"
+        },
+        {
+          "text": "Hey, I'm looking forward to the upcoming meeting. How about the details?",
+          "start_time": 5.1,
+          "end_time": 9.55,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 104.15000000000002,
+          "end_time": 104.15000000000002,
+          "language": "en"
+        },
+        {
+          "text": "The meeting invitation has been sent.",
+          "start_time": 9.55,
+          "end_time": 12.175,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 104.15000000000002,
+          "end_time": 104.15000000000002,
+          "language": "en"
+        },
+        {
+          "text": "The specific agenda is synced in the meeting description. You can take a look in advance.",
+          "start_time": 12.175,
+          "end_time": 17.575000000000003,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 104.15000000000002,
+          "end_time": 104.15000000000002,
+          "language": "en"
+        },
+        {
+          "text": "I've sent out the meeting invitations, and the detailed agenda is in the meeting description. You can take a look in advance.",
+          "start_time": 17.575000000000003,
+          "end_time": 25.000000000000004,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 104.15000000000002,
+          "end_time": 104.15000000000002,
+          "language": "en"
+        },
+        {
+          "text": "The interview invites have been sent out. The interview process is included in the email body, so you can go through it in advance",
+          "start_time": 25.000000000000004,
+          "end_time": 32.900000000000006,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 104.15000000000002,
+          "end_time": 104.15000000000002,
+          "language": "en"
+        },
+        {
+          "text": "Hi there, could you bring me up to speed on the current project status?\"",
+          "start_time": 32.900000000000006,
+          "end_time": 37.025000000000006,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 104.15000000000002,
+          "end_time": 104.15000000000002,
+          "language": "en"
+        },
+        {
+          "text": "Sure, the whole project is 20% complete, but we've hit a roadblock with the loader debugging.",
+          "start_time": 37.025000000000006,
+          "end_time": 43.12500000000001,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 104.15000000000002,
+          "end_time": 104.15000000000002,
+          "language": "en"
+        },
+        {
+          "text": "Let's quickly go over the project progress. This task is currently 80% complete, but we've hit a roadblock with the database migration.",
+          "start_time": 43.12500000000001,
+          "end_time": 52.05000000000001,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 104.15000000000002,
+          "end_time": 104.15000000000002,
+          "language": "en"
+        },
+        {
+          "text": "We have come up with a new technical solution to fix the database lag issue.\"",
+          "start_time": 52.05000000000001,
+          "end_time": 57.10000000000001,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 104.15000000000002,
+          "end_time": 104.15000000000002,
+          "language": "en"
+        },
+        {
+          "text": "Regarding the technical solution to resolve this bottleneck, I'm worried whether its long-term maintenance costs will be too high.",
+          "start_time": 57.10000000000001,
+          "end_time": 65.00000000000001,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 104.15000000000002,
+          "end_time": 104.15000000000002,
+          "language": "en"
+        },
+        {
+          "text": "I think the procurement cost of this new system is way beyond our budget.",
+          "start_time": 65.00000000000001,
+          "end_time": 69.67500000000001,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 104.15000000000002,
+          "end_time": 104.15000000000002,
+          "language": "en"
+        },
+        {
+          "text": "I agree with Lisa regarding the cost concerns. On top of that, we also need to evaluate potential performance bottlenecks that this new solution might bring to our existing systems.",
+          "start_time": 69.67500000000001,
+          "end_time": 81.65,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 104.15000000000002,
+          "end_time": 104.15000000000002,
+          "language": "en"
+        },
+        {
+          "text": "The data transmission framework for the new project is almost finalized.",
+          "start_time": 81.65,
+          "end_time": 86.30000000000001,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 104.15000000000002,
+          "end_time": 104.15000000000002,
+          "language": "en"
+        },
+        {
+          "text": "This solution's architecture may introduce new security risks, so we need to bring in the security team early in the process.",
+          "start_time": 86.30000000000001,
+          "end_time": 94.50000000000001,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 104.15000000000002,
+          "end_time": 104.15000000000002,
+          "language": "en"
+        },
+        {
+          "text": "Any more questions about the tool specs?",
+          "start_time": 94.50000000000001,
+          "end_time": 97.15000000000002,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 104.15000000000002,
+          "end_time": 104.15000000000002,
+          "language": "en"
+        },
+        {
+          "text": "Alright, let's wrap up the discussion for now. Next, I'll quickly walk you through the core workflow of the new feature.",
+          "start_time": 97.15000000000002,
+          "end_time": 104.15000000000002,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 104.15000000000002,
+          "end_time": 104.15000000000002,
+          "language": "en"
+        }
+      ]
+    }
+  }
+}
