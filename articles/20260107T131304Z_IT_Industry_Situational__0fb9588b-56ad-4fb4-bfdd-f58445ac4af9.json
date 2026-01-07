@@ -1,0 +1,221 @@
+{
+  "id": "0fb9588b-56ad-4fb4-bfdd-f58445ac4af9",
+  "title": "IT Industry Situational...",
+  "content_type": "paragraph",
+  "content_text": "IT Industry Situational Learning - 2026-01-07\n\nAlright, let's wrap up this meeting. For the next phase, Tom and I will be responsible for optimizing database response speed, and everyone else will proceed as originally planned. \n\nAlright everyone, that wraps up today's requirements review meeting.\nI'll circulate the meeting minutes after this session. Please keep track of your action items and deadlines.\n\nHey, have you had time to check out my code yet?\nI've looked over the code you submitted yesterday, and I left several review comments regarding code style and exception handling.\n\nHow's the progress on that sudden production bug?\nAfter debugging that production bug, I found that the Null Pointer Exception is just a symptom, and I'm still investigating the root cause.\n\nHey, the checkout page keeps crashing when users enter their address!\nAnyway, this bug is critical and needs to be fixed as a top priority, otherwise users won't be able to log in at all.\n\nUgh, this payment flow logic is making my head hurt.\nThis logic is really complicated. Are you free this afternoon? Let's pair program to figure it out.\nThis API logic is really complicated. Are you free tonight? Let's pair program to debug it.\n\nThis algorithm logic is really complicated. Are you free this weekend? Let's pair program to sort it out.\n\n\nThe user center and push service are too tightly coupled, they keep crashing together.\n\nHere's another idea: to completely decouple the order service and the payment service, could we introduce cache to refactor the system.\n\nHere's another idea: to completely decouple these two core services, could we introduce a message queue to refactor the system?",
+  "created_at": "2026-01-07T13:13:04.833278Z",
+  "language_versions": {
+    "en": {
+      "tts_engine": "kokoro",
+      "voice": "af_heart",
+      "audio_url": "https://pub-c03f3674ad6c4b8ea960ee176f0d19dc.r2.dev/audio/dev-user-001/0fb9588b-56ad-4fb4-bfdd-f58445ac4af9/0fb9588b-56ad-4fb4-bfdd-f58445ac4af9_en.wav",
+      "audio_rel_path": "/audio/20260107T131304Z_IT_Industry_Situational__0fb9588b-56ad-4fb4-bfdd-f58445ac4af9_en.wav",
+      "sentences": [
+        {
+          "text": "IT Industry Situational Learning - 2026-01-07",
+          "start_time": 0.0,
+          "end_time": 5.05,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 107.2,
+          "end_time": 107.2,
+          "language": "en"
+        },
+        {
+          "text": "Alright, let's wrap up this meeting. For the next phase, Tom and I will be responsible for optimizing database response speed, and everyone else will proceed as originally planned.",
+          "start_time": 5.05,
+          "end_time": 16.425,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 107.2,
+          "end_time": 107.2,
+          "language": "en"
+        },
+        {
+          "text": "Alright everyone, that wraps up today's requirements review meeting.",
+          "start_time": 16.425,
+          "end_time": 20.8,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 107.2,
+          "end_time": 107.2,
+          "language": "en"
+        },
+        {
+          "text": "I'll circulate the meeting minutes after this session. Please keep track of your action items and deadlines.",
+          "start_time": 20.8,
+          "end_time": 27.125,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 107.2,
+          "end_time": 107.2,
+          "language": "en"
+        },
+        {
+          "text": "Hey, have you had time to check out my code yet?",
+          "start_time": 27.125,
+          "end_time": 30.225,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 107.2,
+          "end_time": 107.2,
+          "language": "en"
+        },
+        {
+          "text": "I've looked over the code you submitted yesterday, and I left several review comments regarding code style and exception handling.",
+          "start_time": 30.225,
+          "end_time": 38.175000000000004,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 107.2,
+          "end_time": 107.2,
+          "language": "en"
+        },
+        {
+          "text": "How's the progress on that sudden production bug?",
+          "start_time": 38.175000000000004,
+          "end_time": 41.35,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 107.2,
+          "end_time": 107.2,
+          "language": "en"
+        },
+        {
+          "text": "After debugging that production bug, I found that the Null Pointer Exception is just a symptom, and I'm still investigating the root cause.",
+          "start_time": 41.35,
+          "end_time": 50.075,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 107.2,
+          "end_time": 107.2,
+          "language": "en"
+        },
+        {
+          "text": "Hey, the checkout page keeps crashing when users enter their address!",
+          "start_time": 50.075,
+          "end_time": 54.375,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 107.2,
+          "end_time": 107.2,
+          "language": "en"
+        },
+        {
+          "text": "Anyway, this bug is critical and needs to be fixed as a top priority, otherwise users won't be able to log in at all.",
+          "start_time": 54.375,
+          "end_time": 62.1,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 107.2,
+          "end_time": 107.2,
+          "language": "en"
+        },
+        {
+          "text": "Ugh, this payment flow logic is making my head hurt.",
+          "start_time": 62.1,
+          "end_time": 65.6,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 107.2,
+          "end_time": 107.2,
+          "language": "en"
+        },
+        {
+          "text": "This logic is really complicated. Are you free this afternoon? Let's pair program to figure it out.",
+          "start_time": 65.6,
+          "end_time": 72.1,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 107.2,
+          "end_time": 107.2,
+          "language": "en"
+        },
+        {
+          "text": "This API logic is really complicated. Are you free tonight? Let's pair program to debug it.",
+          "start_time": 72.1,
+          "end_time": 78.675,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 107.2,
+          "end_time": 107.2,
+          "language": "en"
+        },
+        {
+          "text": "This algorithm logic is really complicated. Are you free this weekend? Let's pair program to sort it out.",
+          "start_time": 78.675,
+          "end_time": 85.575,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 107.2,
+          "end_time": 107.2,
+          "language": "en"
+        },
+        {
+          "text": "The user center and push service are too tightly coupled, they keep crashing together.",
+          "start_time": 85.575,
+          "end_time": 90.9,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 107.2,
+          "end_time": 107.2,
+          "language": "en"
+        },
+        {
+          "text": "Here's another idea: to completely decouple the order service and the payment service, could we introduce cache to refactor the system.",
+          "start_time": 90.9,
+          "end_time": 99.22500000000001,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 107.2,
+          "end_time": 107.2,
+          "language": "en"
+        },
+        {
+          "text": "Here's another idea: to completely decouple these two core services, could we introduce a message queue to refactor the system?",
+          "start_time": 99.22500000000001,
+          "end_time": 107.2,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 107.2,
+          "end_time": 107.2,
+          "language": "en"
+        }
+      ]
+    }
+  }
+}
