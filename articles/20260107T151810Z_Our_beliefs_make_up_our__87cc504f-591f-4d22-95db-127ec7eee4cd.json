@@ -1,0 +1,221 @@
+{
+  "id": "87cc504f-591f-4d22-95db-127ec7eee4cd",
+  "title": "Our beliefs make up our...",
+  "content_type": "paragraph",
+  "content_text": "Our beliefs make up our perception of reality, drive our behavior, and shape our life stories.\n[我们的信仰构成了我们对现实的感知，驱动着我们的行为，并塑造着我们的生命故事]\n\n\n If you want the truth to stand clear before you, never be for or against.\n [如果你想真正看清事实，就不要先站队。]\n\nYour next breakthrough hides in something you almost gave up on.\n\nHi there, could you bring me up to speed on the current project status?\n\nSure, the whole project is 20% complete, but we've hit a roadblock with the loader debugging.\n\nHow does  Claude Sonnet compare with Gemini?\n\nI want to improve my English fluency.\n\nI struggle with word retrieval when speaking.\n\nToday is a  Work From Home  day.\n\nI'm lounging in bean bag with my laptop.\n\nI don't have much workload from my company today.\n\nI'm looking for a side hustle to earn some passive income.\n[我正在寻找一份副业来赚取一些被动收入。]\n\nShe managed to catch the keys as they fell.\n[钥匙掉下来的瞬间，她一把接住了。]",
+  "created_at": "2026-01-07T15:18:10.882067Z",
+  "language_versions": {
+    "en": {
+      "tts_engine": "kokoro",
+      "voice": "af_heart",
+      "audio_url": "https://pub-c03f3674ad6c4b8ea960ee176f0d19dc.r2.dev/audio/dev-user-001/87cc504f-591f-4d22-95db-127ec7eee4cd/87cc504f-591f-4d22-95db-127ec7eee4cd_en.wav",
+      "audio_rel_path": "/audio/20260107T151810Z_Our_beliefs_make_up_our__87cc504f-591f-4d22-95db-127ec7eee4cd_en.wav",
+      "sentences": [
+        {
+          "text": "Our beliefs make up our perception of reality, drive our behavior, and shape our life stories.",
+          "start_time": 0.0,
+          "end_time": 5.85,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 47.875,
+          "end_time": 47.875,
+          "language": "en"
+        },
+        {
+          "text": "我们的信仰构成了我们对现实的感知，驱动着我们的行为，并塑造着我们的生命故事",
+          "start_time": 0.0,
+          "end_time": 5.85,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 47.875,
+          "end_time": 47.875,
+          "language": "en"
+        },
+        {
+          "text": "If you want the truth to stand clear before you, never be for or against.",
+          "start_time": 5.85,
+          "end_time": 10.375,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 47.875,
+          "end_time": 47.875,
+          "language": "en"
+        },
+        {
+          "text": "如果你想真正看清事实，就不要先站队。",
+          "start_time": 5.85,
+          "end_time": 10.375,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 47.875,
+          "end_time": 47.875,
+          "language": "en"
+        },
+        {
+          "text": "Your next breakthrough hides in something you almost gave up on.",
+          "start_time": 10.375,
+          "end_time": 14.3,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 47.875,
+          "end_time": 47.875,
+          "language": "en"
+        },
+        {
+          "text": "Hi there, could you bring me up to speed on the current project status?",
+          "start_time": 14.3,
+          "end_time": 18.450000000000003,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 47.875,
+          "end_time": 47.875,
+          "language": "en"
+        },
+        {
+          "text": "Sure, the whole project is 20% complete, but we've hit a roadblock with the loader debugging.",
+          "start_time": 18.450000000000003,
+          "end_time": 24.550000000000004,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 47.875,
+          "end_time": 47.875,
+          "language": "en"
+        },
+        {
+          "text": "How does  Claude Sonnet compare with Gemini?",
+          "start_time": 24.550000000000004,
+          "end_time": 27.425000000000004,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 47.875,
+          "end_time": 47.875,
+          "language": "en"
+        },
+        {
+          "text": "I want to improve my English fluency.",
+          "start_time": 27.425000000000004,
+          "end_time": 30.125000000000004,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 47.875,
+          "end_time": 47.875,
+          "language": "en"
+        },
+        {
+          "text": "I struggle with word retrieval when speaking.",
+          "start_time": 30.125000000000004,
+          "end_time": 33.0,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 47.875,
+          "end_time": 47.875,
+          "language": "en"
+        },
+        {
+          "text": "Today is a  Work From Home  day.",
+          "start_time": 33.0,
+          "end_time": 35.325,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 47.875,
+          "end_time": 47.875,
+          "language": "en"
+        },
+        {
+          "text": "I'm lounging in bean bag with my laptop.",
+          "start_time": 35.325,
+          "end_time": 38.2,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 47.875,
+          "end_time": 47.875,
+          "language": "en"
+        },
+        {
+          "text": "I don't have much workload from my company today.",
+          "start_time": 38.2,
+          "end_time": 41.2,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 47.875,
+          "end_time": 47.875,
+          "language": "en"
+        },
+        {
+          "text": "I'm looking for a side hustle to earn some passive income.",
+          "start_time": 41.2,
+          "end_time": 45.1,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 47.875,
+          "end_time": 47.875,
+          "language": "en"
+        },
+        {
+          "text": "我正在寻找一份副业来赚取一些被动收入。",
+          "start_time": 41.2,
+          "end_time": 45.1,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 47.875,
+          "end_time": 47.875,
+          "language": "en"
+        },
+        {
+          "text": "She managed to catch the keys as they fell.",
+          "start_time": 45.1,
+          "end_time": 47.875,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 47.875,
+          "end_time": 47.875,
+          "language": "en"
+        },
+        {
+          "text": "钥匙掉下来的瞬间，她一把接住了。",
+          "start_time": 45.1,
+          "end_time": 47.875,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 47.875,
+          "end_time": 47.875,
+          "language": "en"
+        }
+      ]
+    }
+  }
+}
