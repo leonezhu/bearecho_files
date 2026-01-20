@@ -1,0 +1,161 @@
+{
+  "id": "2a2d84cd-00cb-4eef-9817-7ab5234f228d",
+  "title": "IT Industry Situational...",
+  "content_type": "paragraph",
+  "content_text": "IT Industry Situational Learning - 2026-01-20\n\nHow is the user data synchronization module going？\n\nAdditionally, this project need  to rely on outsourcing team to provide new API for pulling logistic data.\n\n\nHi there, you asked for a sync call about the backend refactoring, right?\n\nIf we decide to go with the refactoring plan, we need to align with the SRE team to assess whether we should apply for more computing resources.\n\n\nHi, could you tell me the estimation result of the checkout page user story?\"\nWe already estimated during last sprint planning meeting that this user story is quite complex and should be assigned 8 story points.\n\nI finished refactoring the frontend components yesterday, I plan to write unit tests for them today, and I will sync up the progress with everyone in tomorrow's standup meeting.\n\nAlright team, this is our initial project timeline, we can start development next Monday.\n\nGiven the potential delay risks associated with this project, we'd better build some buffer time into our schedule.\n\n\nGuys, I just updated the payment flow requirement in the doc.\nHey PM, just to confirm, does this requirement change have to be included in the next release?",
+  "created_at": "2026-01-20T14:37:49.504454Z",
+  "language_versions": {
+    "en": {
+      "tts_engine": "kokoro",
+      "voice": "af_heart",
+      "audio_url": "https://pub-c03f3674ad6c4b8ea960ee176f0d19dc.r2.dev/audio/dev-user-001/2a2d84cd-00cb-4eef-9817-7ab5234f228d/2a2d84cd-00cb-4eef-9817-7ab5234f228d_en.wav",
+      "audio_rel_path": "/audio/20260120T143749Z_IT_Industry_Situational__2a2d84cd-00cb-4eef-9817-7ab5234f228d_en.wav",
+      "sentences": [
+        {
+          "text": "IT Industry Situational Learning - 2026-01-20",
+          "start_time": 0.0,
+          "end_time": 4.725,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 77.25000000000001,
+          "end_time": 77.25000000000001,
+          "language": "en"
+        },
+        {
+          "text": "How is the user data synchronization module going？",
+          "start_time": 4.725,
+          "end_time": 8.475,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 77.25000000000001,
+          "end_time": 77.25000000000001,
+          "language": "en"
+        },
+        {
+          "text": "Additionally, this project need  to rely on outsourcing team to provide new API for pulling logistic data.",
+          "start_time": 8.475,
+          "end_time": 16.025,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 77.25000000000001,
+          "end_time": 77.25000000000001,
+          "language": "en"
+        },
+        {
+          "text": "Hi there, you asked for a sync call about the backend refactoring, right?",
+          "start_time": 16.025,
+          "end_time": 20.375,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 77.25000000000001,
+          "end_time": 77.25000000000001,
+          "language": "en"
+        },
+        {
+          "text": "If we decide to go with the refactoring plan, we need to align with the SRE team to assess whether we should apply for more computing resources.",
+          "start_time": 20.375,
+          "end_time": 29.85,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 77.25000000000001,
+          "end_time": 77.25000000000001,
+          "language": "en"
+        },
+        {
+          "text": "Hi, could you tell me the estimation result of the checkout page user story?\"",
+          "start_time": 29.85,
+          "end_time": 34.95,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 77.25000000000001,
+          "end_time": 77.25000000000001,
+          "language": "en"
+        },
+        {
+          "text": "We already estimated during last sprint planning meeting that this user story is quite complex and should be assigned 8 story points.",
+          "start_time": 34.95,
+          "end_time": 43.525000000000006,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 77.25000000000001,
+          "end_time": 77.25000000000001,
+          "language": "en"
+        },
+        {
+          "text": "I finished refactoring the frontend components yesterday, I plan to write unit tests for them today, and I will sync up the progress with everyone in tomorrow's standup meeting.",
+          "start_time": 43.525000000000006,
+          "end_time": 53.925000000000004,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 77.25000000000001,
+          "end_time": 77.25000000000001,
+          "language": "en"
+        },
+        {
+          "text": "Alright team, this is our initial project timeline, we can start development next Monday.",
+          "start_time": 53.925000000000004,
+          "end_time": 59.87500000000001,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 77.25000000000001,
+          "end_time": 77.25000000000001,
+          "language": "en"
+        },
+        {
+          "text": "Given the potential delay risks associated with this project, we'd better build some buffer time into our schedule.",
+          "start_time": 59.87500000000001,
+          "end_time": 66.9,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 77.25000000000001,
+          "end_time": 77.25000000000001,
+          "language": "en"
+        },
+        {
+          "text": "Guys, I just updated the payment flow requirement in the doc.",
+          "start_time": 66.9,
+          "end_time": 70.92500000000001,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 77.25000000000001,
+          "end_time": 77.25000000000001,
+          "language": "en"
+        },
+        {
+          "text": "Hey PM, just to confirm, does this requirement change have to be included in the next release?",
+          "start_time": 70.92500000000001,
+          "end_time": 77.25000000000001,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 77.25000000000001,
+          "end_time": 77.25000000000001,
+          "language": "en"
+        }
+      ]
+    }
+  }
+}
