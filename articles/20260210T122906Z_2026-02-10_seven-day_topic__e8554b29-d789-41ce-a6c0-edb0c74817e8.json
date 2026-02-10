@@ -1,0 +1,89 @@
+{
+  "id": "e8554b29-d789-41ce-a6c0-edb0c74817e8",
+  "title": "2026-02-10 seven-day topic...",
+  "content_type": "paragraph",
+  "content_text": "2026-02-10  seven-day topic cycle day one .\n\nTo improve my English, I came up with a seven-day topic cycle.\n\nThe plan has seven different topics.\n\nFor example, on day one, I explain one thing.\nIt can be a concept, an app, or a daily system or routine.\n\nActually, today is day one, so I chose to explain this English learning plan.",
+  "created_at": "2026-02-10T12:29:06.916322Z",
+  "language_versions": {
+    "en": {
+      "tts_engine": "kokoro",
+      "voice": "af_heart",
+      "audio_url": "https://pub-c03f3674ad6c4b8ea960ee176f0d19dc.r2.dev/audio/dev-user-001/e8554b29-d789-41ce-a6c0-edb0c74817e8/e8554b29-d789-41ce-a6c0-edb0c74817e8_en.wav",
+      "audio_rel_path": "/audio/20260210T122906Z_2026-02-10_seven-day_topic__e8554b29-d789-41ce-a6c0-edb0c74817e8_en.wav",
+      "sentences": [
+        {
+          "text": "2026-02-10  seven-day topic cycle day one .",
+          "start_time": 0.0,
+          "end_time": 4.65,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 24.150000000000002,
+          "end_time": 24.150000000000002,
+          "language": "en"
+        },
+        {
+          "text": "To improve my English, I came up with a seven-day topic cycle.",
+          "start_time": 4.65,
+          "end_time": 8.975000000000001,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 24.150000000000002,
+          "end_time": 24.150000000000002,
+          "language": "en"
+        },
+        {
+          "text": "The plan has seven different topics.",
+          "start_time": 8.975000000000001,
+          "end_time": 11.600000000000001,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 24.150000000000002,
+          "end_time": 24.150000000000002,
+          "language": "en"
+        },
+        {
+          "text": "For example, on day one, I explain one thing.",
+          "start_time": 11.600000000000001,
+          "end_time": 14.950000000000001,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 24.150000000000002,
+          "end_time": 24.150000000000002,
+          "language": "en"
+        },
+        {
+          "text": "It can be a concept, an app, or a daily system or routine.",
+          "start_time": 14.950000000000001,
+          "end_time": 19.025000000000002,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 24.150000000000002,
+          "end_time": 24.150000000000002,
+          "language": "en"
+        },
+        {
+          "text": "Actually, today is day one, so I chose to explain this English learning plan.",
+          "start_time": 19.025000000000002,
+          "end_time": 24.150000000000002,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 24.150000000000002,
+          "end_time": 24.150000000000002,
+          "language": "en"
+        }
+      ]
+    }
+  }
+}
