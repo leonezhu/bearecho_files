@@ -1,0 +1,89 @@
+{
+  "id": "6d726c4d-02ef-4471-a979-7d188527a803",
+  "title": "[2026-02-11 每日英语 day2] I wake...",
+  "content_type": "paragraph",
+  "content_text": "[2026-02-11 每日英语 day2]\nI wake up at 8:30, brush my teeth, wash my face, and get ready for work.\nThen I grab my laptop and my keys and walk to work.\nSometimes I put in my earphones and listen to music or a podcast.\n\nAt lunchtime, I sometimes eat with my colleagues.\nOther times, I order takeout and go home for a short nap.",
+  "created_at": "2026-02-11T13:24:55.728363Z",
+  "language_versions": {
+    "en": {
+      "tts_engine": "kokoro",
+      "voice": "af_heart",
+      "audio_url": "https://pub-c03f3674ad6c4b8ea960ee176f0d19dc.r2.dev/audio/dev-user-001/6d726c4d-02ef-4471-a979-7d188527a803/6d726c4d-02ef-4471-a979-7d188527a803_en.wav",
+      "audio_rel_path": "/audio/20260211T132455Z__2026-02-11_day2_I_wake__6d726c4d-02ef-4471-a979-7d188527a803_en.wav",
+      "sentences": [
+        {
+          "text": "2026-02-11 每日英语 day2",
+          "start_time": 20.75,
+          "end_time": 20.75,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 20.75,
+          "end_time": 20.75,
+          "language": "en"
+        },
+        {
+          "text": "I wake up at 8:30, brush my teeth, wash my face, and get ready for work.",
+          "start_time": 0.0,
+          "end_time": 5.2,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 20.75,
+          "end_time": 20.75,
+          "language": "en"
+        },
+        {
+          "text": "Then I grab my laptop and my keys and walk to work.",
+          "start_time": 5.2,
+          "end_time": 8.825,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 20.75,
+          "end_time": 20.75,
+          "language": "en"
+        },
+        {
+          "text": "Sometimes I put in my earphones and listen to music or a podcast.",
+          "start_time": 8.825,
+          "end_time": 13.575,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 20.75,
+          "end_time": 20.75,
+          "language": "en"
+        },
+        {
+          "text": "At lunchtime, I sometimes eat with my colleagues.",
+          "start_time": 13.575,
+          "end_time": 16.925,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 20.75,
+          "end_time": 20.75,
+          "language": "en"
+        },
+        {
+          "text": "Other times, I order takeout and go home for a short nap.",
+          "start_time": 16.925,
+          "end_time": 20.75,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 20.75,
+          "end_time": 20.75,
+          "language": "en"
+        }
+      ]
+    }
+  }
+}
