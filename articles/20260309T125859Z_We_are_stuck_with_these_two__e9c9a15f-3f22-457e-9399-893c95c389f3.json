@@ -1,0 +1,185 @@
+{
+  "id": "e9c9a15f-3f22-457e-9399-893c95c389f3",
+  "title": "We are stuck with these two...",
+  "content_type": "paragraph",
+  "content_text": "We are stuck with these two urgent launch tasks, what should we do?\n[我们面临着这两项紧迫的启动任务，我们该怎么办呢？]\n\nMeanwhile, both of the urgent tasks are competing for test server resources. We need to hold a meeting to decide which one has higher priority.\n[与此同时，这两项紧急任务都在争夺测试服务器的资源。我们需要召开一次会议，来决定哪一项任务的优先级更高。]\n\n\nHi there, when can we expect the new membership feature to be ready?\nGiven the testing and deployment timeline, the earliest we can deliver this feature is next weekend.\n\nHey team, our last sprint had a lot of avoidable issues.\nLet's have a sprint retrospective later. We can bring up issues like resource conflicts and frequent requirement changes to discuss how we can improve.\n\n\nCould you walk me through your new big data platform proposal?\nWhen presenting to the department head, we should focus on the business value and expected returns on this technical roadmap.\n\nHi ready to start the retrospective?\nBefore we start the discussion, please take a look at this technical document. It details the overall architecture and core data flow of our system.\n\nHi, can you briefly introduce what this report is about?\nThis report summarizes our system performance from last quarter and outlines several key optimization points.",
+  "created_at": "2026-03-09T12:58:59.508155Z",
+  "language_versions": {
+    "en": {
+      "tts_engine": "kokoro",
+      "voice": "af_heart",
+      "audio_url": "https://pub-c03f3674ad6c4b8ea960ee176f0d19dc.r2.dev/audio/dev-user-001/e9c9a15f-3f22-457e-9399-893c95c389f3/e9c9a15f-3f22-457e-9399-893c95c389f3_en.wav",
+      "audio_rel_path": "/audio/20260309T125859Z_We_are_stuck_with_these_two__e9c9a15f-3f22-457e-9399-893c95c389f3_en.wav",
+      "sentences": [
+        {
+          "text": "We are stuck with these two urgent launch tasks, what should we do?",
+          "start_time": 0.0,
+          "end_time": 3.95,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 70.80000000000001,
+          "end_time": 70.80000000000001,
+          "language": "en"
+        },
+        {
+          "text": "我们面临着这两项紧迫的启动任务，我们该怎么办呢？",
+          "start_time": 0.0,
+          "end_time": 3.95,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 70.80000000000001,
+          "end_time": 70.80000000000001,
+          "language": "en"
+        },
+        {
+          "text": "Meanwhile, both of the urgent tasks are competing for test server resources. We need to hold a meeting to decide which one has higher priority.",
+          "start_time": 3.95,
+          "end_time": 13.05,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 70.80000000000001,
+          "end_time": 70.80000000000001,
+          "language": "en"
+        },
+        {
+          "text": "与此同时，这两项紧急任务都在争夺测试服务器的资源。我们需要召开一次会议，来决定哪一项任务的优先级更高。",
+          "start_time": 3.95,
+          "end_time": 13.05,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 70.80000000000001,
+          "end_time": 70.80000000000001,
+          "language": "en"
+        },
+        {
+          "text": "Hi there, when can we expect the new membership feature to be ready?",
+          "start_time": 13.05,
+          "end_time": 17.05,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 70.80000000000001,
+          "end_time": 70.80000000000001,
+          "language": "en"
+        },
+        {
+          "text": "Given the testing and deployment timeline, the earliest we can deliver this feature is next weekend.",
+          "start_time": 17.05,
+          "end_time": 23.3,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 70.80000000000001,
+          "end_time": 70.80000000000001,
+          "language": "en"
+        },
+        {
+          "text": "Hey team, our last sprint had a lot of avoidable issues.",
+          "start_time": 23.3,
+          "end_time": 27.175,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 70.80000000000001,
+          "end_time": 70.80000000000001,
+          "language": "en"
+        },
+        {
+          "text": "Let's have a sprint retrospective later. We can bring up issues like resource conflicts and frequent requirement changes to discuss how we can improve.",
+          "start_time": 27.175,
+          "end_time": 36.7,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 70.80000000000001,
+          "end_time": 70.80000000000001,
+          "language": "en"
+        },
+        {
+          "text": "Could you walk me through your new big data platform proposal?",
+          "start_time": 36.7,
+          "end_time": 40.425000000000004,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 70.80000000000001,
+          "end_time": 70.80000000000001,
+          "language": "en"
+        },
+        {
+          "text": "When presenting to the department head, we should focus on the business value and expected returns on this technical roadmap.",
+          "start_time": 40.425000000000004,
+          "end_time": 47.925000000000004,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 70.80000000000001,
+          "end_time": 70.80000000000001,
+          "language": "en"
+        },
+        {
+          "text": "Hi ready to start the retrospective?",
+          "start_time": 47.925000000000004,
+          "end_time": 50.425000000000004,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 70.80000000000001,
+          "end_time": 70.80000000000001,
+          "language": "en"
+        },
+        {
+          "text": "Before we start the discussion, please take a look at this technical document. It details the overall architecture and core data flow of our system.",
+          "start_time": 50.425000000000004,
+          "end_time": 59.900000000000006,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 70.80000000000001,
+          "end_time": 70.80000000000001,
+          "language": "en"
+        },
+        {
+          "text": "Hi, can you briefly introduce what this report is about?",
+          "start_time": 59.900000000000006,
+          "end_time": 63.62500000000001,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 70.80000000000001,
+          "end_time": 70.80000000000001,
+          "language": "en"
+        },
+        {
+          "text": "This report summarizes our system performance from last quarter and outlines several key optimization points.",
+          "start_time": 63.62500000000001,
+          "end_time": 70.80000000000001,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 70.80000000000001,
+          "end_time": 70.80000000000001,
+          "language": "en"
+        }
+      ]
+    }
+  }
+}
