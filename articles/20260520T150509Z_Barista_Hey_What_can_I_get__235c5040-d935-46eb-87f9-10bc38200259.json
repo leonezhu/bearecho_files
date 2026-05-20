@@ -1,0 +1,173 @@
+{
+  "id": "235c5040-d935-46eb-87f9-10bc38200259",
+  "title": "Barista: Hey! What can I get...",
+  "content_type": "paragraph",
+  "content_text": "Barista: Hey! What can I get you today?\n\nLeo: Hi! Can I get an iced oat latte, please? And maybe a pastry or something — what do you recommend?\n\nBarista: The banana muffin is really popular. It just came out of the oven like ten minutes ago.\n\nLeo: Oh, sold! I'll take one of those too.\n\nBarista: Nice choice. For here or to go?\n\nLeo: For here. I'm gonna camp out for a bit — got some work to do.\n\nBarista: No worries, we've got free Wi-Fi. Password's on the wall behind you. Oh, and plug's under the bench if you need to charge.\n\nLeo: Awesome, thanks. By the way, is it always this chill here?\n\nBarista: Pretty much! Mornings are quiet, it picks up around noon. You should grab a spot near the window — best light and less foot traffic.\n\nLeo: Good tip. I'll do that. How long have you been working here?\n\nBarista: About six months. I moved here from Sydney — couldn't stand the winter anymore.\n\nLeo: Ha, I get that. I'm thinking about basing myself here for a couple months actually.\n\nBarista: Dude, do it. A lot of remoters come through here. You'll fit right in.",
+  "created_at": "2026-05-20T15:05:09.152152Z",
+  "language_versions": {
+    "en": {
+      "tts_engine": "kokoro",
+      "voice": "af_heart",
+      "audio_url": "https://pub-c03f3674ad6c4b8ea960ee176f0d19dc.r2.dev/audio/dev-user-001/235c5040-d935-46eb-87f9-10bc38200259/235c5040-d935-46eb-87f9-10bc38200259_en.wav",
+      "audio_rel_path": "/audio/20260520T150509Z_Barista_Hey_What_can_I_get__235c5040-d935-46eb-87f9-10bc38200259_en.wav",
+      "sentences": [
+        {
+          "text": "Barista: Hey! What can I get you today?",
+          "start_time": 0.0,
+          "end_time": 2.95,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 68.30000000000001,
+          "end_time": 68.30000000000001,
+          "language": "en"
+        },
+        {
+          "text": "Leo: Hi! Can I get an iced oat latte, please? And maybe a pastry or something — what do you recommend?",
+          "start_time": 2.95,
+          "end_time": 9.425,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 68.30000000000001,
+          "end_time": 68.30000000000001,
+          "language": "en"
+        },
+        {
+          "text": "Barista: The banana muffin is really popular. It just came out of the oven like ten minutes ago.",
+          "start_time": 9.425,
+          "end_time": 15.850000000000001,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 68.30000000000001,
+          "end_time": 68.30000000000001,
+          "language": "en"
+        },
+        {
+          "text": "Leo: Oh, sold! I'll take one of those too.",
+          "start_time": 15.850000000000001,
+          "end_time": 19.075000000000003,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 68.30000000000001,
+          "end_time": 68.30000000000001,
+          "language": "en"
+        },
+        {
+          "text": "Barista: Nice choice. For here or to go?",
+          "start_time": 19.075000000000003,
+          "end_time": 22.300000000000004,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 68.30000000000001,
+          "end_time": 68.30000000000001,
+          "language": "en"
+        },
+        {
+          "text": "Leo: For here. I'm gonna camp out for a bit — got some work to do.",
+          "start_time": 22.300000000000004,
+          "end_time": 26.500000000000004,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 68.30000000000001,
+          "end_time": 68.30000000000001,
+          "language": "en"
+        },
+        {
+          "text": "Barista: No worries, we've got free Wi-Fi. Password's on the wall behind you. Oh, and plug's under the bench if you need to charge.",
+          "start_time": 26.500000000000004,
+          "end_time": 34.625,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 68.30000000000001,
+          "end_time": 68.30000000000001,
+          "language": "en"
+        },
+        {
+          "text": "Leo: Awesome, thanks. By the way, is it always this chill here?",
+          "start_time": 34.625,
+          "end_time": 38.825,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 68.30000000000001,
+          "end_time": 68.30000000000001,
+          "language": "en"
+        },
+        {
+          "text": "Barista: Pretty much! Mornings are quiet, it picks up around noon. You should grab a spot near the window — best light and less foot traffic.",
+          "start_time": 38.825,
+          "end_time": 47.6,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 68.30000000000001,
+          "end_time": 68.30000000000001,
+          "language": "en"
+        },
+        {
+          "text": "Leo: Good tip. I'll do that. How long have you been working here?",
+          "start_time": 47.6,
+          "end_time": 51.75,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 68.30000000000001,
+          "end_time": 68.30000000000001,
+          "language": "en"
+        },
+        {
+          "text": "Barista: About six months. I moved here from Sydney — couldn't stand the winter anymore.",
+          "start_time": 51.75,
+          "end_time": 57.45,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 68.30000000000001,
+          "end_time": 68.30000000000001,
+          "language": "en"
+        },
+        {
+          "text": "Leo: Ha, I get that. I'm thinking about basing myself here for a couple months actually.",
+          "start_time": 57.45,
+          "end_time": 63.175000000000004,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 68.30000000000001,
+          "end_time": 68.30000000000001,
+          "language": "en"
+        },
+        {
+          "text": "Barista: Dude, do it. A lot of remoters come through here. You'll fit right in.",
+          "start_time": 63.175000000000004,
+          "end_time": 68.30000000000001,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 68.30000000000001,
+          "end_time": 68.30000000000001,
+          "language": "en"
+        }
+      ]
+    }
+  }
+}
