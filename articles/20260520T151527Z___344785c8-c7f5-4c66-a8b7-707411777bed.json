@@ -1,0 +1,329 @@
+{
+  "id": "344785c8-c7f5-4c66-a8b7-707411777bed",
+  "title": "咖啡師：喂！今日想食啲咩呀？",
+  "content_type": "paragraph",
+  "content_text": "咖啡師：喂！今日想食啲咩呀？\n[Barista: Hey! What can I get you today?]\nLeo：喂！請問可以畀我一杯冰燕麥拿鐵嗎？仲可以加個糕點之類嘅——你有咩推介呀？\n[Leo: Hi! Can I get an iced oat latte, please? And maybe a pastry or something — what do you recommend?]\n咖啡師：香蕉松餅真係好多人買呀，就係十幾分鐘前出嚟嘅。\n[Barista: The banana muffin is really popular. It just came out of the oven like ten minutes ago.]\nLeo：哦，賣咗！我都要買一個。\n[Leo: Oh, sold! I'll take one of those too.]\n咖啡師：好啲選擇呀。係喺度飲定係帶走呀？\n[Barista: Nice choice. For here or to go?]\nLeo：畀你啦。我打算喺度露營幾陣——有啲工作要搞。\n[Leo: For here. I'm gonna camp out for a bit — got some work to do.]\n咖啡師：唔使擔心，我哋有免費Wi-Fi。密碼喺你身後嘅牆上。哦，如果你要充電，插頭喺長凳底度。\n[Barista: No worries, we've got free Wi-Fi. Password's on the wall behind you. Oh, and plug's under the bench if you need to charge.]\nLeo：好正，多謝。順帶一提，呢度平時都係咁涼快呀？\n[Leo: Awesome, thanks. By the way, is it always this chill here?]\n咖啡師：幾似呀！朝早都靜靜嘅，到咗中午就開始忙啲。你應該揀個靠窗邊嘅位——光線最好，人又少啲。\n[Barista: Pretty much! Mornings are quiet, it picks up around noon. You should grab a spot near the window — best light and less foot traffic.]\nLeo：好貼士呀，我會咁做嘅。你喺度搵緊幾耐呀？\n[Leo: Good tip. I'll do that. How long have you been working here?]\n咖啡師：大約六個月啦。我係從悉尼搬嚟嘅——真係受不了咗冬天。\n[Barista: About six months. I moved here from Sydney — couldn't stand the winter anymore.]\nLeo：呀，我明白啦。其實我諗住喺度住幾個月先。\n[Leo: Ha, I get that. I'm thinking about basing myself here for a couple months actually.]\n咖啡師：老兄，做啦！好多遙距工作嘅人會嚟呢度，你一定會融入得好啲。\n[Barista: Dude, do it. A lot of remoters come through here. You'll fit right in.]",
+  "created_at": "2026-05-20T15:15:27.898242Z",
+  "language_versions": {
+    "yue": {
+      "tts_engine": "edge-tts",
+      "voice": "zh-HK-HiuMaanNeural",
+      "audio_url": "https://pub-c03f3674ad6c4b8ea960ee176f0d19dc.r2.dev/audio/dev-user-001/344785c8-c7f5-4c66-a8b7-707411777bed/344785c8-c7f5-4c66-a8b7-707411777bed_yue.wav",
+      "audio_rel_path": "/audio/20260520T151527Z___344785c8-c7f5-4c66-a8b7-707411777bed_yue.wav",
+      "sentences": [
+        {
+          "text": "咖啡師：喂！今日想食啲咩呀？",
+          "start_time": 0.0,
+          "end_time": 4.632,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 97.60799999999999,
+          "end_time": 97.60799999999999,
+          "language": "yue"
+        },
+        {
+          "text": "Barista: Hey! What can I get you today?",
+          "start_time": 0.0,
+          "end_time": 4.632,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 97.60799999999999,
+          "end_time": 97.60799999999999,
+          "language": "yue"
+        },
+        {
+          "text": "Leo：喂！請問可以畀我一杯冰燕麥拿鐵嗎？仲可以加個糕點之類嘅——你有咩推介呀？",
+          "start_time": 4.632,
+          "end_time": 14.448,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 97.60799999999999,
+          "end_time": 97.60799999999999,
+          "language": "yue"
+        },
+        {
+          "text": "Leo: Hi! Can I get an iced oat latte, please? And maybe a pastry or something — what do you recommend?",
+          "start_time": 4.632,
+          "end_time": 14.448,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 97.60799999999999,
+          "end_time": 97.60799999999999,
+          "language": "yue"
+        },
+        {
+          "text": "咖啡師：香蕉松餅真係好多人買呀，就係十幾分鐘前出嚟嘅。",
+          "start_time": 14.448,
+          "end_time": 20.832,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 97.60799999999999,
+          "end_time": 97.60799999999999,
+          "language": "yue"
+        },
+        {
+          "text": "Barista: The banana muffin is really popular. It just came out of the oven like ten minutes ago.",
+          "start_time": 14.448,
+          "end_time": 20.832,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 97.60799999999999,
+          "end_time": 97.60799999999999,
+          "language": "yue"
+        },
+        {
+          "text": "Leo：哦，賣咗！我都要買一個。",
+          "start_time": 20.832,
+          "end_time": 25.776,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 97.60799999999999,
+          "end_time": 97.60799999999999,
+          "language": "yue"
+        },
+        {
+          "text": "Leo: Oh, sold! I'll take one of those too.",
+          "start_time": 20.832,
+          "end_time": 25.776,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 97.60799999999999,
+          "end_time": 97.60799999999999,
+          "language": "yue"
+        },
+        {
+          "text": "咖啡師：好啲選擇呀。係喺度飲定係帶走呀？",
+          "start_time": 25.776,
+          "end_time": 31.656,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 97.60799999999999,
+          "end_time": 97.60799999999999,
+          "language": "yue"
+        },
+        {
+          "text": "Barista: Nice choice. For here or to go?",
+          "start_time": 25.776,
+          "end_time": 31.656,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 97.60799999999999,
+          "end_time": 97.60799999999999,
+          "language": "yue"
+        },
+        {
+          "text": "Leo：畀你啦。我打算喺度露營幾陣——有啲工作要搞。",
+          "start_time": 31.656,
+          "end_time": 38.16,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 97.60799999999999,
+          "end_time": 97.60799999999999,
+          "language": "yue"
+        },
+        {
+          "text": "Leo: For here. I'm gonna camp out for a bit — got some work to do.",
+          "start_time": 31.656,
+          "end_time": 38.16,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 97.60799999999999,
+          "end_time": 97.60799999999999,
+          "language": "yue"
+        },
+        {
+          "text": "咖啡師：唔使擔心，我哋有免費Wi-Fi。密碼喺你身後嘅牆上。哦，如果你要充電，插頭喺長凳底度。",
+          "start_time": 38.16,
+          "end_time": 50.087999999999994,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 97.60799999999999,
+          "end_time": 97.60799999999999,
+          "language": "yue"
+        },
+        {
+          "text": "Barista: No worries, we've got free Wi-Fi. Password's on the wall behind you. Oh, and plug's under the bench if you need to charge.",
+          "start_time": 38.16,
+          "end_time": 50.087999999999994,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 97.60799999999999,
+          "end_time": 97.60799999999999,
+          "language": "yue"
+        },
+        {
+          "text": "Leo：好正，多謝。順帶一提，呢度平時都係咁涼快呀？",
+          "start_time": 50.087999999999994,
+          "end_time": 57.071999999999996,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 97.60799999999999,
+          "end_time": 97.60799999999999,
+          "language": "yue"
+        },
+        {
+          "text": "Leo: Awesome, thanks. By the way, is it always this chill here?",
+          "start_time": 50.087999999999994,
+          "end_time": 57.071999999999996,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 97.60799999999999,
+          "end_time": 97.60799999999999,
+          "language": "yue"
+        },
+        {
+          "text": "咖啡師：幾似呀！朝早都靜靜嘅，到咗中午就開始忙啲。你應該揀個靠窗邊嘅位——光線最好，人又少啲。",
+          "start_time": 57.071999999999996,
+          "end_time": 69.09599999999999,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 97.60799999999999,
+          "end_time": 97.60799999999999,
+          "language": "yue"
+        },
+        {
+          "text": "Barista: Pretty much! Mornings are quiet, it picks up around noon. You should grab a spot near the window — best light and less foot traffic.",
+          "start_time": 57.071999999999996,
+          "end_time": 69.09599999999999,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 97.60799999999999,
+          "end_time": 97.60799999999999,
+          "language": "yue"
+        },
+        {
+          "text": "Leo：好貼士呀，我會咁做嘅。你喺度搵緊幾耐呀？",
+          "start_time": 69.09599999999999,
+          "end_time": 75.45599999999999,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 97.60799999999999,
+          "end_time": 97.60799999999999,
+          "language": "yue"
+        },
+        {
+          "text": "Leo: Good tip. I'll do that. How long have you been working here?",
+          "start_time": 69.09599999999999,
+          "end_time": 75.45599999999999,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 97.60799999999999,
+          "end_time": 97.60799999999999,
+          "language": "yue"
+        },
+        {
+          "text": "咖啡師：大約六個月啦。我係從悉尼搬嚟嘅——真係受不了咗冬天。",
+          "start_time": 75.45599999999999,
+          "end_time": 82.91999999999999,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 97.60799999999999,
+          "end_time": 97.60799999999999,
+          "language": "yue"
+        },
+        {
+          "text": "Barista: About six months. I moved here from Sydney — couldn't stand the winter anymore.",
+          "start_time": 75.45599999999999,
+          "end_time": 82.91999999999999,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 97.60799999999999,
+          "end_time": 97.60799999999999,
+          "language": "yue"
+        },
+        {
+          "text": "Leo：呀，我明白啦。其實我諗住喺度住幾個月先。",
+          "start_time": 82.91999999999999,
+          "end_time": 89.37599999999999,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 97.60799999999999,
+          "end_time": 97.60799999999999,
+          "language": "yue"
+        },
+        {
+          "text": "Leo: Ha, I get that. I'm thinking about basing myself here for a couple months actually.",
+          "start_time": 82.91999999999999,
+          "end_time": 89.37599999999999,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 97.60799999999999,
+          "end_time": 97.60799999999999,
+          "language": "yue"
+        },
+        {
+          "text": "咖啡師：老兄，做啦！好多遙距工作嘅人會嚟呢度，你一定會融入得好啲。",
+          "start_time": 89.37599999999999,
+          "end_time": 97.60799999999999,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 97.60799999999999,
+          "end_time": 97.60799999999999,
+          "language": "yue"
+        },
+        {
+          "text": "Barista: Dude, do it. A lot of remoters come through here. You'll fit right in.",
+          "start_time": 89.37599999999999,
+          "end_time": 97.60799999999999,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 97.60799999999999,
+          "end_time": 97.60799999999999,
+          "language": "yue"
+        }
+      ]
+    }
+  }
+}
