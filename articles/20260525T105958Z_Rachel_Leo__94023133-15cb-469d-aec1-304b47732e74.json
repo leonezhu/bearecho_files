@@ -1,0 +1,281 @@
+{
+  "id": "94023133-15cb-469d-aec1-304b47732e74",
+  "title": "Rachel：喂，Leo，多謝你加入呀！我哋先嚟個簡單...",
+  "content_type": "paragraph",
+  "content_text": "Rachel：喂，Leo，多謝你加入呀！我哋先嚟個簡單嘅自我介紹啦——同我講下你自己啦。\n[Rachel: Hi Leo, thanks for joining! Let's start with a quick intro — tell me a bit about yourself.]\nLeo：當然呀！我係一個喺中國做軟件工程師，有大約四年嘅經驗，專門開發人工智能產品。最近我仲用Copilot SDK去開發自訂嘅人工智能代理呢。\n[Leo: Sure! I'm a software engineer based in China, with about four years of experience building AI-powered products. Most recently I've been working with the Copilot SDK to develop custom AI agents.]\nRachel：哦，真係好正呀，同我哋啲嘢真係有關係。點解你會對嗰個範圍感興趣呀？\n[Rachel: Oh nice, that's really relevant to what we're doing. What drew you to that area?]\nLeo：老實講，我覺得好神奇呀——你畀一套工具畀個LLM，然後睇佢自己搵方法去完成複雜嘅任務。就好似教人學釣魚，而唔係直接畀條魚俾佢哋。\n[Leo: Honestly, I just find it fascinating — the idea that you can give an LLM a set of tools and watch it figure out how to accomplish complex tasks on its own. It's like teaching someone to fish instead of giving them a fish.]\nRachel：哈，我好鍾意呢個比喻呀。咁你點解特別搵一個遙距嘅職位呀？\n[Rachel: Ha, I like that analogy. And why are you looking for a remote role specifically?]\nLeo：我過去一年都係遙距工作，發現其實咁樣做反而更加有效率。我可以根據自己嘅深度工作時間去安排一日，而唔會畀辦公室嘅分心影響到。而且，我真係好鍾意呢種彈性——對我保持頭腦靈活同埋有動力都有幫助。\n[Leo: I've been working remotely for the past year, and I find I'm actually more productive this way. I can structure my day around deep work blocks instead of office distractions. Plus, I really value the flexibility — it helps me stay sharp and motivated.]\nRachel：呢個同我哋嘅團隊文化好吻合。我哋好鍾意異步溝通。你點樣處理時區唔同嘅問題呀？\n[Rachel: That resonates with our team culture. We're big believers in asynchronous communication. How do you handle time zone differences?]\nLeo：我已經習慣咗。我平時晚上會同美國嘅時間重疊幾個鐘頭，然後剩低嘅日子就專心寫代碼。我仲會特別留意多用文字溝通——例如詳細嘅PR說明、非同步更新之類嘅。\n[Leo: I'm used to it. I typically overlap with US hours for a few hours in my evening, and keep the rest of my day for focused coding. I also make sure to over-communicate in writing — detailed PR descriptions, async updates, that kind of thing.]\nRachel：答得好正呀。咁你下個工作想搵啲咩呀？\n[Rachel: Great answer. So what are you looking for in your next role?]\nLeo：我想提升我嘅系統設計技巧，仲想搵啲可以全球擴展嘅產品做。你哋個平台有幾百萬用家——呢種挑戰就正正係令我興奮嘅！\n[Leo: I want to level up my system design skills and work on products that scale globally. Your platform serves millions of users — that's the kind of challenge that gets me excited.]\nRachel：好有活力呀，Leo。咁啦，我同你講下我哋嘅事……\n[Rachel: Love the energy, Leo. Alright, let me tell you a bit about us...]",
+  "created_at": "2026-05-25T10:59:58.273663Z",
+  "language_versions": {
+    "yue": {
+      "tts_engine": "edge-tts",
+      "voice": "zh-HK-WanLungNeural",
+      "audio_url": "https://pub-c03f3674ad6c4b8ea960ee176f0d19dc.r2.dev/audio/dev-user-001/94023133-15cb-469d-aec1-304b47732e74/94023133-15cb-469d-aec1-304b47732e74_yue.wav",
+      "audio_rel_path": "/audio/20260525T105958Z_Rachel_Leo__94023133-15cb-469d-aec1-304b47732e74_yue.wav",
+      "sentences": [
+        {
+          "text": "Rachel：喂，Leo，多謝你加入呀！我哋先嚟個簡單嘅自我介紹啦——同我講下你自己啦。",
+          "start_time": 0.0,
+          "end_time": 9.096,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 127.872,
+          "end_time": 127.872,
+          "language": "yue"
+        },
+        {
+          "text": "Rachel: Hi Leo, thanks for joining! Let's start with a quick intro — tell me a bit about yourself.",
+          "start_time": 0.0,
+          "end_time": 9.096,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 127.872,
+          "end_time": 127.872,
+          "language": "yue"
+        },
+        {
+          "text": "Leo：當然呀！我係一個喺中國做軟件工程師，有大約四年嘅經驗，專門開發人工智能產品。最近我仲用Copilot SDK去開發自訂嘅人工智能代理呢。",
+          "start_time": 9.096,
+          "end_time": 24.048000000000002,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 127.872,
+          "end_time": 127.872,
+          "language": "yue"
+        },
+        {
+          "text": "Leo: Sure! I'm a software engineer based in China, with about four years of experience building AI-powered products. Most recently I've been working with the Copilot SDK to develop custom AI agents.",
+          "start_time": 9.096,
+          "end_time": 24.048000000000002,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 127.872,
+          "end_time": 127.872,
+          "language": "yue"
+        },
+        {
+          "text": "Rachel：哦，真係好正呀，同我哋啲嘢真係有關係。點解你會對嗰個範圍感興趣呀？",
+          "start_time": 24.048000000000002,
+          "end_time": 32.712,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 127.872,
+          "end_time": 127.872,
+          "language": "yue"
+        },
+        {
+          "text": "Rachel: Oh nice, that's really relevant to what we're doing. What drew you to that area?",
+          "start_time": 24.048000000000002,
+          "end_time": 32.712,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 127.872,
+          "end_time": 127.872,
+          "language": "yue"
+        },
+        {
+          "text": "Leo：老實講，我覺得好神奇呀——你畀一套工具畀個LLM，然後睇佢自己搵方法去完成複雜嘅任務。就好似教人學釣魚，而唔係直接畀條魚俾佢哋。",
+          "start_time": 32.712,
+          "end_time": 46.92,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 127.872,
+          "end_time": 127.872,
+          "language": "yue"
+        },
+        {
+          "text": "Leo: Honestly, I just find it fascinating — the idea that you can give an LLM a set of tools and watch it figure out how to accomplish complex tasks on its own. It's like teaching someone to fish instead of giving them a fish.",
+          "start_time": 32.712,
+          "end_time": 46.92,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 127.872,
+          "end_time": 127.872,
+          "language": "yue"
+        },
+        {
+          "text": "Rachel：哈，我好鍾意呢個比喻呀。咁你點解特別搵一個遙距嘅職位呀？",
+          "start_time": 46.92,
+          "end_time": 54.6,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 127.872,
+          "end_time": 127.872,
+          "language": "yue"
+        },
+        {
+          "text": "Rachel: Ha, I like that analogy. And why are you looking for a remote role specifically?",
+          "start_time": 46.92,
+          "end_time": 54.6,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 127.872,
+          "end_time": 127.872,
+          "language": "yue"
+        },
+        {
+          "text": "Leo：我過去一年都係遙距工作，發現其實咁樣做反而更加有效率。我可以根據自己嘅深度工作時間去安排一日，而唔會畀辦公室嘅分心影響到。而且，我真係好鍾意呢種彈性——對我保持頭腦靈活同埋有動力都有幫助。",
+          "start_time": 54.6,
+          "end_time": 75.336,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 127.872,
+          "end_time": 127.872,
+          "language": "yue"
+        },
+        {
+          "text": "Leo: I've been working remotely for the past year, and I find I'm actually more productive this way. I can structure my day around deep work blocks instead of office distractions. Plus, I really value the flexibility — it helps me stay sharp and motivated.",
+          "start_time": 54.6,
+          "end_time": 75.336,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 127.872,
+          "end_time": 127.872,
+          "language": "yue"
+        },
+        {
+          "text": "Rachel：呢個同我哋嘅團隊文化好吻合。我哋好鍾意異步溝通。你點樣處理時區唔同嘅問題呀？",
+          "start_time": 75.336,
+          "end_time": 85.728,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 127.872,
+          "end_time": 127.872,
+          "language": "yue"
+        },
+        {
+          "text": "Rachel: That resonates with our team culture. We're big believers in asynchronous communication. How do you handle time zone differences?",
+          "start_time": 75.336,
+          "end_time": 85.728,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 127.872,
+          "end_time": 127.872,
+          "language": "yue"
+        },
+        {
+          "text": "Leo：我已經習慣咗。我平時晚上會同美國嘅時間重疊幾個鐘頭，然後剩低嘅日子就專心寫代碼。我仲會特別留意多用文字溝通——例如詳細嘅PR說明、非同步更新之類嘅。",
+          "start_time": 85.728,
+          "end_time": 102.55199999999999,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 127.872,
+          "end_time": 127.872,
+          "language": "yue"
+        },
+        {
+          "text": "Leo: I'm used to it. I typically overlap with US hours for a few hours in my evening, and keep the rest of my day for focused coding. I also make sure to over-communicate in writing — detailed PR descriptions, async updates, that kind of thing.",
+          "start_time": 85.728,
+          "end_time": 102.55199999999999,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 127.872,
+          "end_time": 127.872,
+          "language": "yue"
+        },
+        {
+          "text": "Rachel：答得好正呀。咁你下個工作想搵啲咩呀？",
+          "start_time": 102.55199999999999,
+          "end_time": 108.192,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 127.872,
+          "end_time": 127.872,
+          "language": "yue"
+        },
+        {
+          "text": "Rachel: Great answer. So what are you looking for in your next role?",
+          "start_time": 102.55199999999999,
+          "end_time": 108.192,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 127.872,
+          "end_time": 127.872,
+          "language": "yue"
+        },
+        {
+          "text": "Leo：我想提升我嘅系統設計技巧，仲想搵啲可以全球擴展嘅產品做。你哋個平台有幾百萬用家——呢種挑戰就正正係令我興奮嘅！",
+          "start_time": 108.192,
+          "end_time": 121.104,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 127.872,
+          "end_time": 127.872,
+          "language": "yue"
+        },
+        {
+          "text": "Leo: I want to level up my system design skills and work on products that scale globally. Your platform serves millions of users — that's the kind of challenge that gets me excited.",
+          "start_time": 108.192,
+          "end_time": 121.104,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 127.872,
+          "end_time": 127.872,
+          "language": "yue"
+        },
+        {
+          "text": "Rachel：好有活力呀，Leo。咁啦，我同你講下我哋嘅事……",
+          "start_time": 121.104,
+          "end_time": 127.872,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 127.872,
+          "end_time": 127.872,
+          "language": "yue"
+        },
+        {
+          "text": "Rachel: Love the energy, Leo. Alright, let me tell you a bit about us...",
+          "start_time": 121.104,
+          "end_time": 127.872,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 127.872,
+          "end_time": 127.872,
+          "language": "yue"
+        }
+      ]
+    }
+  }
+}
