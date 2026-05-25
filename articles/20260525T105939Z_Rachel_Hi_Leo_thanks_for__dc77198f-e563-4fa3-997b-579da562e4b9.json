@@ -1,0 +1,149 @@
+{
+  "id": "dc77198f-e563-4fa3-997b-579da562e4b9",
+  "title": "Rachel: Hi Leo, thanks for...",
+  "content_type": "paragraph",
+  "content_text": "Rachel: Hi Leo, thanks for joining! Let's start with a quick intro — tell me a bit about yourself.\n\nLeo: Sure! I'm a software engineer based in China, with about four years of experience building AI-powered products. Most recently I've been working with the Copilot SDK to develop custom AI agents.\n\nRachel: Oh nice, that's really relevant to what we're doing. What drew you to that area?\n\nLeo: Honestly, I just find it fascinating — the idea that you can give an LLM a set of tools and watch it figure out how to accomplish complex tasks on its own. It's like teaching someone to fish instead of giving them a fish.\n\nRachel: Ha, I like that analogy. And why are you looking for a remote role specifically?\n\nLeo: I've been working remotely for the past year, and I find I'm actually more productive this way. I can structure my day around deep work blocks instead of office distractions. Plus, I really value the flexibility — it helps me stay sharp and motivated.\n\nRachel: That resonates with our team culture. We're big believers in asynchronous communication. How do you handle time zone differences?\n\nLeo: I'm used to it. I typically overlap with US hours for a few hours in my evening, and keep the rest of my day for focused coding. I also make sure to over-communicate in writing — detailed PR descriptions, async updates, that kind of thing.\n\nRachel: Great answer. So what are you looking for in your next role?\n\nLeo: I want to level up my system design skills and work on products that scale globally. Your platform serves millions of users — that's the kind of challenge that gets me excited.\n\nRachel: Love the energy, Leo. Alright, let me tell you a bit about us...",
+  "created_at": "2026-05-25T10:59:39.372345Z",
+  "language_versions": {
+    "en": {
+      "tts_engine": "kokoro",
+      "voice": "af_heart",
+      "audio_url": "https://pub-c03f3674ad6c4b8ea960ee176f0d19dc.r2.dev/audio/dev-user-001/dc77198f-e563-4fa3-997b-579da562e4b9/dc77198f-e563-4fa3-997b-579da562e4b9_en.wav",
+      "audio_rel_path": "/audio/20260525T105939Z_Rachel_Hi_Leo_thanks_for__dc77198f-e563-4fa3-997b-579da562e4b9_en.wav",
+      "sentences": [
+        {
+          "text": "Rachel: Hi Leo, thanks for joining! Let's start with a quick intro — tell me a bit about yourself.",
+          "start_time": 0.0,
+          "end_time": 6.075,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 107.75,
+          "end_time": 107.75,
+          "language": "en"
+        },
+        {
+          "text": "Leo: Sure! I'm a software engineer based in China, with about four years of experience building AI-powered products. Most recently I've been working with the Copilot SDK to develop custom AI agents.",
+          "start_time": 6.075,
+          "end_time": 20.15,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 107.75,
+          "end_time": 107.75,
+          "language": "en"
+        },
+        {
+          "text": "Rachel: Oh nice, that's really relevant to what we're doing. What drew you to that area?",
+          "start_time": 20.15,
+          "end_time": 25.599999999999998,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 107.75,
+          "end_time": 107.75,
+          "language": "en"
+        },
+        {
+          "text": "Leo: Honestly, I just find it fascinating — the idea that you can give an LLM a set of tools and watch it figure out how to accomplish complex tasks on its own. It's like teaching someone to fish instead of giving them a fish.",
+          "start_time": 25.599999999999998,
+          "end_time": 40.224999999999994,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 107.75,
+          "end_time": 107.75,
+          "language": "en"
+        },
+        {
+          "text": "Rachel: Ha, I like that analogy. And why are you looking for a remote role specifically?",
+          "start_time": 40.224999999999994,
+          "end_time": 46.12499999999999,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 107.75,
+          "end_time": 107.75,
+          "language": "en"
+        },
+        {
+          "text": "Leo: I've been working remotely for the past year, and I find I'm actually more productive this way. I can structure my day around deep work blocks instead of office distractions. Plus, I really value the flexibility — it helps me stay sharp and motivated.",
+          "start_time": 46.12499999999999,
+          "end_time": 62.3,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 107.75,
+          "end_time": 107.75,
+          "language": "en"
+        },
+        {
+          "text": "Rachel: That resonates with our team culture. We're big believers in asynchronous communication. How do you handle time zone differences?",
+          "start_time": 62.3,
+          "end_time": 71.125,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 107.75,
+          "end_time": 107.75,
+          "language": "en"
+        },
+        {
+          "text": "Leo: I'm used to it. I typically overlap with US hours for a few hours in my evening, and keep the rest of my day for focused coding. I also make sure to over-communicate in writing — detailed PR descriptions, async updates, that kind of thing.",
+          "start_time": 71.125,
+          "end_time": 87.4,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 107.75,
+          "end_time": 107.75,
+          "language": "en"
+        },
+        {
+          "text": "Rachel: Great answer. So what are you looking for in your next role?",
+          "start_time": 87.4,
+          "end_time": 91.65,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 107.75,
+          "end_time": 107.75,
+          "language": "en"
+        },
+        {
+          "text": "Leo: I want to level up my system design skills and work on products that scale globally. Your platform serves millions of users — that's the kind of challenge that gets me excited.",
+          "start_time": 91.65,
+          "end_time": 103.15,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 107.75,
+          "end_time": 107.75,
+          "language": "en"
+        },
+        {
+          "text": "Rachel: Love the energy, Leo. Alright, let me tell you a bit about us...",
+          "start_time": 103.15,
+          "end_time": 107.75,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 107.75,
+          "end_time": 107.75,
+          "language": "en"
+        }
+      ]
+    }
+  }
+}
