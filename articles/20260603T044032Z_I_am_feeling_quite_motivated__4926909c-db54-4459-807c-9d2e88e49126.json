@@ -1,0 +1,29 @@
+{
+  "id": "4926909c-db54-4459-807c-9d2e88e49126",
+  "title": "I am feeling quite motivated...",
+  "content_type": "paragraph",
+  "content_text": "I am feeling quite motivated today. We have a lot on our plate, but I think the team is well prepared for the upcoming deadlines.",
+  "created_at": "2026-06-03T04:40:32.037062Z",
+  "language_versions": {
+    "en": {
+      "tts_engine": "edge-tts",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "audio_url": "https://pub-c03f3674ad6c4b8ea960ee176f0d19dc.r2.dev/audio/dev-user-001/4926909c-db54-4459-807c-9d2e88e49126/4926909c-db54-4459-807c-9d2e88e49126_en.wav",
+      "audio_rel_path": "/audio/20260603T044032Z_I_am_feeling_quite_motivated__4926909c-db54-4459-807c-9d2e88e49126_en.wav",
+      "sentences": [
+        {
+          "text": "I am feeling quite motivated today. We have a lot on our plate, but I think the team is well prepared for the upcoming deadlines.",
+          "start_time": 0.0,
+          "end_time": 7.632,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 7.632,
+          "end_time": 7.632,
+          "language": "en"
+        }
+      ]
+    }
+  }
+}
