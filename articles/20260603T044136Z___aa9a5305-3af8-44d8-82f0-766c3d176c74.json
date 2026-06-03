@@ -1,0 +1,41 @@
+{
+  "id": "aa9a5305-3af8-44d8-82f0-766c3d176c74",
+  "title": "我對新方向抱著謹慎樂觀嘅態度。仲有啲唔確定之處，但整體...",
+  "content_type": "paragraph",
+  "content_text": "我對新方向抱著謹慎樂觀嘅態度。仲有啲唔確定之處，但整體嚟講，我覺得我哋係喺正確嘅軌道上。\n[I am cautiously optimistic about the new direction. There are still some uncertainties, but overall I think we are on the right track.]",
+  "created_at": "2026-06-03T04:41:36.108214Z",
+  "language_versions": {
+    "yue": {
+      "tts_engine": "edge-tts",
+      "voice": "zh-HK-HiuMaanNeural",
+      "audio_url": "https://pub-c03f3674ad6c4b8ea960ee176f0d19dc.r2.dev/audio/dev-user-001/aa9a5305-3af8-44d8-82f0-766c3d176c74/aa9a5305-3af8-44d8-82f0-766c3d176c74_yue.wav",
+      "audio_rel_path": "/audio/20260603T044136Z___aa9a5305-3af8-44d8-82f0-766c3d176c74_yue.wav",
+      "sentences": [
+        {
+          "text": "我對新方向抱著謹慎樂觀嘅態度。仲有啲唔確定之處，但整體嚟講，我覺得我哋係喺正確嘅軌道上。",
+          "start_time": 0.0,
+          "end_time": 10.536,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 10.536,
+          "end_time": 10.536,
+          "language": "yue"
+        },
+        {
+          "text": "I am cautiously optimistic about the new direction. There are still some uncertainties, but overall I think we are on the right track.",
+          "start_time": 0.0,
+          "end_time": 10.536,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 10.536,
+          "end_time": 10.536,
+          "language": "yue"
+        }
+      ]
+    }
+  }
+}
