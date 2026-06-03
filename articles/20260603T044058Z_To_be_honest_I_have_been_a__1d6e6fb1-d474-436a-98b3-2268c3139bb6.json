@@ -1,0 +1,29 @@
+{
+  "id": "1d6e6fb1-d474-436a-98b3-2268c3139bb6",
+  "title": "To be honest, I have been a...",
+  "content_type": "paragraph",
+  "content_text": "To be honest, I have been a bit overwhelmed lately. Juggling multiple projects at once can be exhausting, but it is also a great learning opportunity.",
+  "created_at": "2026-06-03T04:40:58.597073Z",
+  "language_versions": {
+    "en": {
+      "tts_engine": "edge-tts",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "audio_url": "https://pub-c03f3674ad6c4b8ea960ee176f0d19dc.r2.dev/audio/dev-user-001/1d6e6fb1-d474-436a-98b3-2268c3139bb6/1d6e6fb1-d474-436a-98b3-2268c3139bb6_en.wav",
+      "audio_rel_path": "/audio/20260603T044058Z_To_be_honest_I_have_been_a__1d6e6fb1-d474-436a-98b3-2268c3139bb6_en.wav",
+      "sentences": [
+        {
+          "text": "To be honest, I have been a bit overwhelmed lately. Juggling multiple projects at once can be exhausting, but it is also a great learning opportunity.",
+          "start_time": 0.0,
+          "end_time": 9.24,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 9.24,
+          "end_time": 9.24,
+          "language": "en"
+        }
+      ]
+    }
+  }
+}
