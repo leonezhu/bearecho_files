@@ -1,0 +1,41 @@
+{
+  "id": "a9aa1c78-9922-4bc6-97fe-5ba672683287",
+  "title": "老實講，我最近都有啲應接不暇。同時搞好多個項目真係好累...",
+  "content_type": "paragraph",
+  "content_text": "老實講，我最近都有啲應接不暇。同時搞好多個項目真係好累，但同時都係一個好難得嘅學習機會。\n[To be honest, I have been a bit overwhelmed lately. Juggling multiple projects at once can be exhausting, but it is also a great learning opportunity.]",
+  "created_at": "2026-06-03T04:41:10.519370Z",
+  "language_versions": {
+    "yue": {
+      "tts_engine": "edge-tts",
+      "voice": "zh-HK-HiuMaanNeural",
+      "audio_url": "https://pub-c03f3674ad6c4b8ea960ee176f0d19dc.r2.dev/audio/dev-user-001/a9aa1c78-9922-4bc6-97fe-5ba672683287/a9aa1c78-9922-4bc6-97fe-5ba672683287_yue.wav",
+      "audio_rel_path": "/audio/20260603T044110Z___a9aa1c78-9922-4bc6-97fe-5ba672683287_yue.wav",
+      "sentences": [
+        {
+          "text": "老實講，我最近都有啲應接不暇。同時搞好多個項目真係好累，但同時都係一個好難得嘅學習機會。",
+          "start_time": 0.0,
+          "end_time": 9.96,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 9.96,
+          "end_time": 9.96,
+          "language": "yue"
+        },
+        {
+          "text": "To be honest, I have been a bit overwhelmed lately. Juggling multiple projects at once can be exhausting, but it is also a great learning opportunity.",
+          "start_time": 0.0,
+          "end_time": 9.96,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 9.96,
+          "end_time": 9.96,
+          "language": "yue"
+        }
+      ]
+    }
+  }
+}
