@@ -1,0 +1,41 @@
+{
+  "id": "4fd8ff3e-45e5-4fa1-a5ab-121441d449f8",
+  "title": "我今日覺得好有動力呀。我哋手頭好多事，但我觉得團隊已經...",
+  "content_type": "paragraph",
+  "content_text": "我今日覺得好有動力呀。我哋手頭好多事，但我觉得團隊已經為即將到嚟嘅截止日期做好充分準備啦。\n[I am feeling quite motivated today. We have a lot on our plate, but I think the team is well prepared for the upcoming deadlines.]",
+  "created_at": "2026-06-03T04:40:45.676719Z",
+  "language_versions": {
+    "yue": {
+      "tts_engine": "edge-tts",
+      "voice": "zh-HK-HiuMaanNeural",
+      "audio_url": "https://pub-c03f3674ad6c4b8ea960ee176f0d19dc.r2.dev/audio/dev-user-001/4fd8ff3e-45e5-4fa1-a5ab-121441d449f8/4fd8ff3e-45e5-4fa1-a5ab-121441d449f8_yue.wav",
+      "audio_rel_path": "/audio/20260603T044045Z___4fd8ff3e-45e5-4fa1-a5ab-121441d449f8_yue.wav",
+      "sentences": [
+        {
+          "text": "我今日覺得好有動力呀。我哋手頭好多事，但我觉得團隊已經為即將到嚟嘅截止日期做好充分準備啦。",
+          "start_time": 0.0,
+          "end_time": 10.008,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 10.008,
+          "end_time": 10.008,
+          "language": "yue"
+        },
+        {
+          "text": "I am feeling quite motivated today. We have a lot on our plate, but I think the team is well prepared for the upcoming deadlines.",
+          "start_time": 0.0,
+          "end_time": 10.008,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 10.008,
+          "end_time": 10.008,
+          "language": "yue"
+        }
+      ]
+    }
+  }
+}
