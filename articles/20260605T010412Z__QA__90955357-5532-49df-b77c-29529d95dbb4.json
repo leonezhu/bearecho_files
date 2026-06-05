@@ -1,0 +1,41 @@
+{
+  "id": "90955357-5532-49df-b77c-29529d95dbb4",
+  "title": "我哋可唔可以將發佈推到下星期一呀？我逼緊要延後縮減QA...",
+  "content_type": "paragraph",
+  "content_text": "我哋可唔可以將發佈推到下星期一呀？我逼緊要延後縮減QA時間。客戶成日催緊出貨功能。我哋已經將佢推到下個Sprint啦。如果時間表睇落不合理，你一定要再推回去呀。\n[Can we push the release to Monday? I have to push back on cutting QA time. The client keeps pushing for the export feature. We pushed it to next sprint. Make sure you push back if the timeline is unrealistic.]",
+  "created_at": "2026-06-05T01:04:12.029616Z",
+  "language_versions": {
+    "yue": {
+      "tts_engine": "edge-tts",
+      "voice": "zh-HK-HiuMaanNeural",
+      "audio_url": "https://pub-c03f3674ad6c4b8ea960ee176f0d19dc.r2.dev/audio/dev-user-001/90955357-5532-49df-b77c-29529d95dbb4/90955357-5532-49df-b77c-29529d95dbb4_yue.wav",
+      "audio_rel_path": "/audio/20260605T010412Z__QA__90955357-5532-49df-b77c-29529d95dbb4_yue.wav",
+      "sentences": [
+        {
+          "text": "我哋可唔可以將發佈推到下星期一呀？我逼緊要延後縮減QA時間。客戶成日催緊出貨功能。我哋已經將佢推到下個Sprint啦。如果時間表睇落不合理，你一定要再推回去呀。",
+          "start_time": 0.0,
+          "end_time": 18.912,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 18.912,
+          "end_time": 18.912,
+          "language": "yue"
+        },
+        {
+          "text": "Can we push the release to Monday? I have to push back on cutting QA time. The client keeps pushing for the export feature. We pushed it to next sprint. Make sure you push back if the timeline is unrealistic.",
+          "start_time": 0.0,
+          "end_time": 18.912,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 18.912,
+          "end_time": 18.912,
+          "language": "yue"
+        }
+      ]
+    }
+  }
+}
