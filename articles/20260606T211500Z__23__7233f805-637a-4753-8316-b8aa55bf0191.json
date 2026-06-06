@@ -1,0 +1,137 @@
+{
+  "id": "7233f805-637a-4753-8316-b8aa55bf0191",
+  "title": "主題：週報回顧，第23週焦點同啲心得",
+  "content_type": "paragraph",
+  "content_text": "主題：週報回顧，第23週焦點同啲心得\n[Subject: Weekly Retrospective, W23 Highlights and Takeaways]\n多謝你帶頭搞呢個復古計劃。以下係我對今週嘅睇法。\n[Thanks for kicking off this retro initiative. Here is my take on the week.]\n我哋比Copilot SDK整合提早咗兩日出貨。\n[We shipped the Copilot SDK integration two days ahead of schedule.]\n呢個設定竟然出奇咁乾淨。\n[The config turned out to be surprisingly clean.]\n相比原型，Token嘅使用量減咗15%，真係一個好勝利呀。\n[Token usage is down 15 percent compared to the prototype, which is a nice win.]",
+  "created_at": "2026-06-06T21:15:00.203221Z",
+  "language_versions": {
+    "yue": {
+      "tts_engine": "edge-tts",
+      "voice": "zh-HK-WanLungNeural",
+      "audio_url": "https://pub-c03f3674ad6c4b8ea960ee176f0d19dc.r2.dev/audio/dev-user-001/7233f805-637a-4753-8316-b8aa55bf0191/7233f805-637a-4753-8316-b8aa55bf0191_yue.wav",
+      "audio_rel_path": "/audio/20260606T211500Z__23__7233f805-637a-4753-8316-b8aa55bf0191_yue.wav",
+      "sentences": [
+        {
+          "text": "主題：週報回顧，第23週焦點同啲心得",
+          "start_time": 0.0,
+          "end_time": 4.896,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 25.128,
+          "end_time": 25.128,
+          "language": "yue"
+        },
+        {
+          "text": "Subject: Weekly Retrospective, W23 Highlights and Takeaways",
+          "start_time": 0.0,
+          "end_time": 4.896,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 25.128,
+          "end_time": 25.128,
+          "language": "yue"
+        },
+        {
+          "text": "多謝你帶頭搞呢個復古計劃。以下係我對今週嘅睇法。",
+          "start_time": 4.896,
+          "end_time": 11.04,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 25.128,
+          "end_time": 25.128,
+          "language": "yue"
+        },
+        {
+          "text": "Thanks for kicking off this retro initiative. Here is my take on the week.",
+          "start_time": 4.896,
+          "end_time": 11.04,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 25.128,
+          "end_time": 25.128,
+          "language": "yue"
+        },
+        {
+          "text": "我哋比Copilot SDK整合提早咗兩日出貨。",
+          "start_time": 11.04,
+          "end_time": 15.335999999999999,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 25.128,
+          "end_time": 25.128,
+          "language": "yue"
+        },
+        {
+          "text": "We shipped the Copilot SDK integration two days ahead of schedule.",
+          "start_time": 11.04,
+          "end_time": 15.335999999999999,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 25.128,
+          "end_time": 25.128,
+          "language": "yue"
+        },
+        {
+          "text": "呢個設定竟然出奇咁乾淨。",
+          "start_time": 15.335999999999999,
+          "end_time": 18.648,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 25.128,
+          "end_time": 25.128,
+          "language": "yue"
+        },
+        {
+          "text": "The config turned out to be surprisingly clean.",
+          "start_time": 15.335999999999999,
+          "end_time": 18.648,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 25.128,
+          "end_time": 25.128,
+          "language": "yue"
+        },
+        {
+          "text": "相比原型，Token嘅使用量減咗15%，真係一個好勝利呀。",
+          "start_time": 18.648,
+          "end_time": 25.128,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 25.128,
+          "end_time": 25.128,
+          "language": "yue"
+        },
+        {
+          "text": "Token usage is down 15 percent compared to the prototype, which is a nice win.",
+          "start_time": 18.648,
+          "end_time": 25.128,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 25.128,
+          "end_time": 25.128,
+          "language": "yue"
+        }
+      ]
+    }
+  }
+}
