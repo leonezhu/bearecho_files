@@ -1,0 +1,77 @@
+{
+  "id": "0334512a-2596-4567-a560-825f1b17ed98",
+  "title": "Hey, do you want to grab...",
+  "content_type": "paragraph",
+  "content_text": "Hey, do you want to grab lunch together today?\nThere is a new noodle place downstairs that just opened last week.\nI heard their beef noodle soup is really good.\nLet us go around twelve thirty, is that okay with you?\nSure, I will ping you when I am wrapping up my current task.",
+  "created_at": "2026-06-06T02:37:56.903340Z",
+  "language_versions": {
+    "en": {
+      "tts_engine": "edge-tts",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "audio_url": "https://pub-c03f3674ad6c4b8ea960ee176f0d19dc.r2.dev/audio/dev-user-001/0334512a-2596-4567-a560-825f1b17ed98/0334512a-2596-4567-a560-825f1b17ed98_en.wav",
+      "audio_rel_path": "/audio/20260606T023756Z_Hey_do_you_want_to_grab__0334512a-2596-4567-a560-825f1b17ed98_en.wav",
+      "sentences": [
+        {
+          "text": "Hey, do you want to grab lunch together today?",
+          "start_time": 0.0,
+          "end_time": 2.4,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 15.431999999999999,
+          "end_time": 15.431999999999999,
+          "language": "en"
+        },
+        {
+          "text": "There is a new noodle place downstairs that just opened last week.",
+          "start_time": 2.4,
+          "end_time": 6.215999999999999,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 15.431999999999999,
+          "end_time": 15.431999999999999,
+          "language": "en"
+        },
+        {
+          "text": "I heard their beef noodle soup is really good.",
+          "start_time": 6.215999999999999,
+          "end_time": 8.831999999999999,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 15.431999999999999,
+          "end_time": 15.431999999999999,
+          "language": "en"
+        },
+        {
+          "text": "Let us go around twelve thirty, is that okay with you?",
+          "start_time": 8.831999999999999,
+          "end_time": 12.024,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 15.431999999999999,
+          "end_time": 15.431999999999999,
+          "language": "en"
+        },
+        {
+          "text": "Sure, I will ping you when I am wrapping up my current task.",
+          "start_time": 12.024,
+          "end_time": 15.431999999999999,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 15.431999999999999,
+          "end_time": 15.431999999999999,
+          "language": "en"
+        }
+      ]
+    }
+  }
+}
