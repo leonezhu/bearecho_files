@@ -1,0 +1,137 @@
+{
+  "id": "eeb043a3-c6ac-4ade-8e8a-6ef03f99df7d",
+  "title": "喂，你今日想唔想一齊食午餐呀？",
+  "content_type": "paragraph",
+  "content_text": "喂，你今日想唔想一齊食午餐呀？\n[Hey, do you want to grab lunch together today?]\n樓下有間新開嘅麵館，就係上星期啱啱開業嘅。\n[There is a new noodle place downstairs that just opened last week.]\n我聽講佢哋嘅牛肉麵湯真係好好味。\n[I heard their beef noodle soup is really good.]\n我哋大約十二點半出發好唔好呀？\n[Let us go around twelve thirty, is that okay with you?]\n好呀，我完成手頭嘅任務就會畀你訊息。\n[Sure, I will ping you when I am wrapping up my current task.]",
+  "created_at": "2026-06-06T02:38:16.194782Z",
+  "language_versions": {
+    "yue": {
+      "tts_engine": "edge-tts",
+      "voice": "zh-HK-HiuMaanNeural",
+      "audio_url": "https://pub-c03f3674ad6c4b8ea960ee176f0d19dc.r2.dev/audio/dev-user-001/eeb043a3-c6ac-4ade-8e8a-6ef03f99df7d/eeb043a3-c6ac-4ade-8e8a-6ef03f99df7d_yue.wav",
+      "audio_rel_path": "/audio/20260606T023816Z___eeb043a3-c6ac-4ade-8e8a-6ef03f99df7d_yue.wav",
+      "sentences": [
+        {
+          "text": "喂，你今日想唔想一齊食午餐呀？",
+          "start_time": 0.0,
+          "end_time": 3.936,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 21.311999999999998,
+          "end_time": 21.311999999999998,
+          "language": "yue"
+        },
+        {
+          "text": "Hey, do you want to grab lunch together today?",
+          "start_time": 0.0,
+          "end_time": 3.936,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 21.311999999999998,
+          "end_time": 21.311999999999998,
+          "language": "yue"
+        },
+        {
+          "text": "樓下有間新開嘅麵館，就係上星期啱啱開業嘅。",
+          "start_time": 3.936,
+          "end_time": 9.072,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 21.311999999999998,
+          "end_time": 21.311999999999998,
+          "language": "yue"
+        },
+        {
+          "text": "There is a new noodle place downstairs that just opened last week.",
+          "start_time": 3.936,
+          "end_time": 9.072,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 21.311999999999998,
+          "end_time": 21.311999999999998,
+          "language": "yue"
+        },
+        {
+          "text": "我聽講佢哋嘅牛肉麵湯真係好好味。",
+          "start_time": 9.072,
+          "end_time": 13.152,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 21.311999999999998,
+          "end_time": 21.311999999999998,
+          "language": "yue"
+        },
+        {
+          "text": "I heard their beef noodle soup is really good.",
+          "start_time": 9.072,
+          "end_time": 13.152,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 21.311999999999998,
+          "end_time": 21.311999999999998,
+          "language": "yue"
+        },
+        {
+          "text": "我哋大約十二點半出發好唔好呀？",
+          "start_time": 13.152,
+          "end_time": 16.919999999999998,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 21.311999999999998,
+          "end_time": 21.311999999999998,
+          "language": "yue"
+        },
+        {
+          "text": "Let us go around twelve thirty, is that okay with you?",
+          "start_time": 13.152,
+          "end_time": 16.919999999999998,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 21.311999999999998,
+          "end_time": 21.311999999999998,
+          "language": "yue"
+        },
+        {
+          "text": "好呀，我完成手頭嘅任務就會畀你訊息。",
+          "start_time": 16.919999999999998,
+          "end_time": 21.311999999999998,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 21.311999999999998,
+          "end_time": 21.311999999999998,
+          "language": "yue"
+        },
+        {
+          "text": "Sure, I will ping you when I am wrapping up my current task.",
+          "start_time": 16.919999999999998,
+          "end_time": 21.311999999999998,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 21.311999999999998,
+          "end_time": 21.311999999999998,
+          "language": "yue"
+        }
+      ]
+    }
+  }
+}
