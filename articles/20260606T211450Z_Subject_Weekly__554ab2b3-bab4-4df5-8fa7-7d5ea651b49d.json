@@ -1,0 +1,77 @@
+{
+  "id": "554ab2b3-bab4-4df5-8fa7-7d5ea651b49d",
+  "title": "Subject: Weekly...",
+  "content_type": "paragraph",
+  "content_text": "Subject: Weekly Retrospective, W23 Highlights and Takeaways\nThanks for kicking off this retro initiative. Here is my take on the week.\nWe shipped the Copilot SDK integration two days ahead of schedule.\nThe config turned out to be surprisingly clean.\nToken usage is down 15 percent compared to the prototype, which is a nice win.",
+  "created_at": "2026-06-06T21:14:50.213440Z",
+  "language_versions": {
+    "en": {
+      "tts_engine": "edge-tts",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "audio_url": "https://pub-c03f3674ad6c4b8ea960ee176f0d19dc.r2.dev/audio/dev-user-001/554ab2b3-bab4-4df5-8fa7-7d5ea651b49d/554ab2b3-bab4-4df5-8fa7-7d5ea651b49d_en.wav",
+      "audio_rel_path": "/audio/20260606T211450Z_Subject_Weekly__554ab2b3-bab4-4df5-8fa7-7d5ea651b49d_en.wav",
+      "sentences": [
+        {
+          "text": "Subject: Weekly Retrospective, W23 Highlights and Takeaways",
+          "start_time": 0.0,
+          "end_time": 6.0,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 23.424000000000003,
+          "end_time": 23.424000000000003,
+          "language": "en"
+        },
+        {
+          "text": "Thanks for kicking off this retro initiative. Here is my take on the week.",
+          "start_time": 6.0,
+          "end_time": 10.368,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 23.424000000000003,
+          "end_time": 23.424000000000003,
+          "language": "en"
+        },
+        {
+          "text": "We shipped the Copilot SDK integration two days ahead of schedule.",
+          "start_time": 10.368,
+          "end_time": 15.336,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 23.424000000000003,
+          "end_time": 23.424000000000003,
+          "language": "en"
+        },
+        {
+          "text": "The config turned out to be surprisingly clean.",
+          "start_time": 15.336,
+          "end_time": 18.048000000000002,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 23.424000000000003,
+          "end_time": 23.424000000000003,
+          "language": "en"
+        },
+        {
+          "text": "Token usage is down 15 percent compared to the prototype, which is a nice win.",
+          "start_time": 18.048000000000002,
+          "end_time": 23.424000000000003,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 23.424000000000003,
+          "end_time": 23.424000000000003,
+          "language": "en"
+        }
+      ]
+    }
+  }
+}
