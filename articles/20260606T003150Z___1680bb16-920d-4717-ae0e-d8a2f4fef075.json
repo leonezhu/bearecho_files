@@ -1,0 +1,41 @@
+{
+  "id": "1680bb16-920d-4717-ae0e-d8a2f4fef075",
+  "title": "關於預算，到目前為止我哋已經用咗大約六成，剩低嘅款應該...",
+  "content_type": "paragraph",
+  "content_text": "關於預算，到目前為止我哋已經用咗大約六成，剩低嘅款應該夠用喺最後階段。軟件推出之後，客戶嘅反饋都係超正面嘅，呢個真係好正嘅跡象。我建議我哋下星期一早啲開個檢討會，過下剩低嘅行動事項，同埋統一下優先次序。如果你覺得可以，就同我講聲啦。多謝你對呢個項目一直以來嘅支持！\n[With regard to the budget, we have spent about sixty percent so far and the remaining funds should be sufficient for the final phase. The client feedback from the soft launch has been overwhelmingly positive, which is a great sign. I would suggest we schedule a review meeting early next week to go over the remaining action items and align on priorities. Let me know if that works for you. Thanks for your continued support on this project.]",
+  "created_at": "2026-06-06T00:31:50.316564Z",
+  "language_versions": {
+    "yue": {
+      "tts_engine": "edge-tts",
+      "voice": "zh-HK-HiuMaanNeural",
+      "audio_url": "https://pub-c03f3674ad6c4b8ea960ee176f0d19dc.r2.dev/audio/dev-user-001/1680bb16-920d-4717-ae0e-d8a2f4fef075/1680bb16-920d-4717-ae0e-d8a2f4fef075_yue.wav",
+      "audio_rel_path": "/audio/20260606T003150Z___1680bb16-920d-4717-ae0e-d8a2f4fef075_yue.wav",
+      "sentences": [
+        {
+          "text": "關於預算，到目前為止我哋已經用咗大約六成，剩低嘅款應該夠用喺最後階段。軟件推出之後，客戶嘅反饋都係超正面嘅，呢個真係好正嘅跡象。我建議我哋下星期一早啲開個檢討會，過下剩低嘅行動事項，同埋統一下優先次序。如果你覺得可以，就同我講聲啦。多謝你對呢個項目一直以來嘅支持！",
+          "start_time": 0.0,
+          "end_time": 29.928,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 29.928,
+          "end_time": 29.928,
+          "language": "yue"
+        },
+        {
+          "text": "With regard to the budget, we have spent about sixty percent so far and the remaining funds should be sufficient for the final phase. The client feedback from the soft launch has been overwhelmingly positive, which is a great sign. I would suggest we schedule a review meeting early next week to go over the remaining action items and align on priorities. Let me know if that works for you. Thanks for your continued support on this project.",
+          "start_time": 0.0,
+          "end_time": 29.928,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 29.928,
+          "end_time": 29.928,
+          "language": "yue"
+        }
+      ]
+    }
+  }
+}
