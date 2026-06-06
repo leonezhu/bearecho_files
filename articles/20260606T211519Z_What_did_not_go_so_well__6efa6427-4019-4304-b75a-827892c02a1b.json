@@ -1,0 +1,113 @@
+{
+  "id": "6efa6427-4019-4304-b75a-827892c02a1b",
+  "title": "What did not go so well:",
+  "content_type": "paragraph",
+  "content_text": "What did not go so well:\nI will be honest, I fell into a pattern of burning the midnight oil and pushing commits past midnight.\nWhile the output looked great on paper, I caught two sloppy mistakes in Thursday PR that I should have caught immediately.\nLate-night me is not my best reviewer.\nOne thing to improve:\nStarting next week, I am setting a hard stop at 11 PM for code reviews.\nAnything after that gets saved as a draft for the next morning.\nHappy to discuss in Monday standup. Best, Leone.",
+  "created_at": "2026-06-06T21:15:19.568328Z",
+  "language_versions": {
+    "en": {
+      "tts_engine": "edge-tts",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "audio_url": "https://pub-c03f3674ad6c4b8ea960ee176f0d19dc.r2.dev/audio/dev-user-001/6efa6427-4019-4304-b75a-827892c02a1b/6efa6427-4019-4304-b75a-827892c02a1b_en.wav",
+      "audio_rel_path": "/audio/20260606T211519Z_What_did_not_go_so_well__6efa6427-4019-4304-b75a-827892c02a1b_en.wav",
+      "sentences": [
+        {
+          "text": "What did not go so well:",
+          "start_time": 0.0,
+          "end_time": 1.608,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 32.28,
+          "end_time": 32.28,
+          "language": "en"
+        },
+        {
+          "text": "I will be honest, I fell into a pattern of burning the midnight oil and pushing commits past midnight.",
+          "start_time": 1.608,
+          "end_time": 8.544,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 32.28,
+          "end_time": 32.28,
+          "language": "en"
+        },
+        {
+          "text": "While the output looked great on paper, I caught two sloppy mistakes in Thursday PR that I should have caught immediately.",
+          "start_time": 8.544,
+          "end_time": 15.384,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 32.28,
+          "end_time": 32.28,
+          "language": "en"
+        },
+        {
+          "text": "Late-night me is not my best reviewer.",
+          "start_time": 15.384,
+          "end_time": 18.12,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 32.28,
+          "end_time": 32.28,
+          "language": "en"
+        },
+        {
+          "text": "One thing to improve:",
+          "start_time": 18.12,
+          "end_time": 19.656000000000002,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 32.28,
+          "end_time": 32.28,
+          "language": "en"
+        },
+        {
+          "text": "Starting next week, I am setting a hard stop at 11 PM for code reviews.",
+          "start_time": 19.656000000000002,
+          "end_time": 24.696,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 32.28,
+          "end_time": 32.28,
+          "language": "en"
+        },
+        {
+          "text": "Anything after that gets saved as a draft for the next morning.",
+          "start_time": 24.696,
+          "end_time": 28.584000000000003,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 32.28,
+          "end_time": 32.28,
+          "language": "en"
+        },
+        {
+          "text": "Happy to discuss in Monday standup. Best, Leone.",
+          "start_time": 28.584000000000003,
+          "end_time": 32.28,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 32.28,
+          "end_time": 32.28,
+          "language": "en"
+        }
+      ]
+    }
+  }
+}
