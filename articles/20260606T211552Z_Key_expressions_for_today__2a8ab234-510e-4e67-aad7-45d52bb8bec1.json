@@ -1,0 +1,101 @@
+{
+  "id": "2a8ab234-510e-4e67-aad7-45d52bb8bec1",
+  "title": "Key expressions for today:",
+  "content_type": "paragraph",
+  "content_text": "Key expressions for today:\nNumber one: kick off — to initiate or start something.\nExample: Thanks for kicking off this retro initiative.\nNumber two: over-engineer — to make something unnecessarily complex.\nExample: Kudos to the team for pushing back on my over-engineered approach.\nNumber three: hard stop — a firm deadline that cannot be extended.\nExample: I am setting a hard stop at 11 PM for code reviews.",
+  "created_at": "2026-06-06T21:15:52.282340Z",
+  "language_versions": {
+    "en": {
+      "tts_engine": "edge-tts",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "audio_url": "https://pub-c03f3674ad6c4b8ea960ee176f0d19dc.r2.dev/audio/dev-user-001/2a8ab234-510e-4e67-aad7-45d52bb8bec1/2a8ab234-510e-4e67-aad7-45d52bb8bec1_en.wav",
+      "audio_rel_path": "/audio/20260606T211552Z_Key_expressions_for_today__2a8ab234-510e-4e67-aad7-45d52bb8bec1_en.wav",
+      "sentences": [
+        {
+          "text": "Key expressions for today:",
+          "start_time": 0.0,
+          "end_time": 1.776,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 29.136000000000003,
+          "end_time": 29.136000000000003,
+          "language": "en"
+        },
+        {
+          "text": "Number one: kick off — to initiate or start something.",
+          "start_time": 1.776,
+          "end_time": 5.808,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 29.136000000000003,
+          "end_time": 29.136000000000003,
+          "language": "en"
+        },
+        {
+          "text": "Example: Thanks for kicking off this retro initiative.",
+          "start_time": 5.808,
+          "end_time": 9.504,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 29.136000000000003,
+          "end_time": 29.136000000000003,
+          "language": "en"
+        },
+        {
+          "text": "Number two: over-engineer — to make something unnecessarily complex.",
+          "start_time": 9.504,
+          "end_time": 14.76,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 29.136000000000003,
+          "end_time": 29.136000000000003,
+          "language": "en"
+        },
+        {
+          "text": "Example: Kudos to the team for pushing back on my over-engineered approach.",
+          "start_time": 14.76,
+          "end_time": 19.68,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 29.136000000000003,
+          "end_time": 29.136000000000003,
+          "language": "en"
+        },
+        {
+          "text": "Number three: hard stop — a firm deadline that cannot be extended.",
+          "start_time": 19.68,
+          "end_time": 24.6,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 29.136000000000003,
+          "end_time": 29.136000000000003,
+          "language": "en"
+        },
+        {
+          "text": "Example: I am setting a hard stop at 11 PM for code reviews.",
+          "start_time": 24.6,
+          "end_time": 29.136000000000003,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 29.136000000000003,
+          "end_time": 29.136000000000003,
+          "language": "en"
+        }
+      ]
+    }
+  }
+}
