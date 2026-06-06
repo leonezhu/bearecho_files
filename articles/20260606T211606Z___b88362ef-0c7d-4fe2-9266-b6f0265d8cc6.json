@@ -1,0 +1,185 @@
+{
+  "id": "b88362ef-0c7d-4fe2-9266-b6f0265d8cc6",
+  "title": "今日嘅重點表達：",
+  "content_type": "paragraph",
+  "content_text": "今日嘅重點表達：\n[Key expressions for today:]\n第一：kick off——即係開始或者啟動某樣嘢。\n[Number one: kick off — to initiate or start something.]\n例子：多謝你帶頭搞呢個復古計劃。\n[Example: Thanks for kicking off this retro initiative.]\n第二點：過度設計——令嘢變得無必要咁複雜。\n[Number two: over-engineer — to make something unnecessarily complex.]\n例子：讚下團隊，因為佢哋反對咗我過度設計嘅做法。\n[Example: Kudos to the team for pushing back on my over-engineered approach.]\n第三：硬停——一個絕對嘅截止日期，冇得延長。\n[Number three: hard stop — a firm deadline that cannot be extended.]\n例子：我喺晚上十一點設咗個硬性截止時間，用嚟做代碼審核。\n[Example: I am setting a hard stop at 11 PM for code reviews.]",
+  "created_at": "2026-06-06T21:16:06.063200Z",
+  "language_versions": {
+    "yue": {
+      "tts_engine": "edge-tts",
+      "voice": "zh-HK-WanLungNeural",
+      "audio_url": "https://pub-c03f3674ad6c4b8ea960ee176f0d19dc.r2.dev/audio/dev-user-001/b88362ef-0c7d-4fe2-9266-b6f0265d8cc6/b88362ef-0c7d-4fe2-9266-b6f0265d8cc6_yue.wav",
+      "audio_rel_path": "/audio/20260606T211606Z___b88362ef-0c7d-4fe2-9266-b6f0265d8cc6_yue.wav",
+      "sentences": [
+        {
+          "text": "今日嘅重點表達：",
+          "start_time": 0.0,
+          "end_time": 2.448,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 34.32,
+          "end_time": 34.32,
+          "language": "yue"
+        },
+        {
+          "text": "Key expressions for today:",
+          "start_time": 0.0,
+          "end_time": 2.448,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 34.32,
+          "end_time": 34.32,
+          "language": "yue"
+        },
+        {
+          "text": "第一：kick off——即係開始或者啟動某樣嘢。",
+          "start_time": 2.448,
+          "end_time": 7.247999999999999,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 34.32,
+          "end_time": 34.32,
+          "language": "yue"
+        },
+        {
+          "text": "Number one: kick off — to initiate or start something.",
+          "start_time": 2.448,
+          "end_time": 7.247999999999999,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 34.32,
+          "end_time": 34.32,
+          "language": "yue"
+        },
+        {
+          "text": "例子：多謝你帶頭搞呢個復古計劃。",
+          "start_time": 7.247999999999999,
+          "end_time": 11.472,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 34.32,
+          "end_time": 34.32,
+          "language": "yue"
+        },
+        {
+          "text": "Example: Thanks for kicking off this retro initiative.",
+          "start_time": 7.247999999999999,
+          "end_time": 11.472,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 34.32,
+          "end_time": 34.32,
+          "language": "yue"
+        },
+        {
+          "text": "第二點：過度設計——令嘢變得無必要咁複雜。",
+          "start_time": 11.472,
+          "end_time": 16.344,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 34.32,
+          "end_time": 34.32,
+          "language": "yue"
+        },
+        {
+          "text": "Number two: over-engineer — to make something unnecessarily complex.",
+          "start_time": 11.472,
+          "end_time": 16.344,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 34.32,
+          "end_time": 34.32,
+          "language": "yue"
+        },
+        {
+          "text": "例子：讚下團隊，因為佢哋反對咗我過度設計嘅做法。",
+          "start_time": 16.344,
+          "end_time": 22.368000000000002,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 34.32,
+          "end_time": 34.32,
+          "language": "yue"
+        },
+        {
+          "text": "Example: Kudos to the team for pushing back on my over-engineered approach.",
+          "start_time": 16.344,
+          "end_time": 22.368000000000002,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 34.32,
+          "end_time": 34.32,
+          "language": "yue"
+        },
+        {
+          "text": "第三：硬停——一個絕對嘅截止日期，冇得延長。",
+          "start_time": 22.368000000000002,
+          "end_time": 27.696,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 34.32,
+          "end_time": 34.32,
+          "language": "yue"
+        },
+        {
+          "text": "Number three: hard stop — a firm deadline that cannot be extended.",
+          "start_time": 22.368000000000002,
+          "end_time": 27.696,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 34.32,
+          "end_time": 34.32,
+          "language": "yue"
+        },
+        {
+          "text": "例子：我喺晚上十一點設咗個硬性截止時間，用嚟做代碼審核。",
+          "start_time": 27.696,
+          "end_time": 34.32,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 34.32,
+          "end_time": 34.32,
+          "language": "yue"
+        },
+        {
+          "text": "Example: I am setting a hard stop at 11 PM for code reviews.",
+          "start_time": 27.696,
+          "end_time": 34.32,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 34.32,
+          "end_time": 34.32,
+          "language": "yue"
+        }
+      ]
+    }
+  }
+}
