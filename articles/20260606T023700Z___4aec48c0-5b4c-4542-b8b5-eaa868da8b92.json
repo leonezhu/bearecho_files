@@ -1,0 +1,137 @@
+{
+  "id": "4aec48c0-5b4c-4542-b8b5-eaa868da8b92",
+  "title": "早晨呀！希望你週末休息得好。",
+  "content_type": "paragraph",
+  "content_text": "早晨呀！希望你週末休息得好。\n[Good morning! I hope you had a restful weekend.]\n我哋就由檢討上星期嘅行動事項開始開會啦。\n[Let us kick off the meeting by reviewing the action items from last week.]\n我已經將最新嘅更改推到功能分支，你有空就睇下啦？\n[I have pushed the latest changes to the feature branch, could you take a look when you get a chance?]\n客人都期望星期四尾班前送達，所以我哋要按部就班噉做。\n[The client is expecting the delivery by end of day Thursday, so we need to stay on track.]\n如果有人遇到阻礙，請及早提出，咁我哋就可以調整計劃啦。\n[If anyone runs into blockers, please flag them early so we can adjust the plan.]",
+  "created_at": "2026-06-06T02:37:00.806892Z",
+  "language_versions": {
+    "yue": {
+      "tts_engine": "edge-tts",
+      "voice": "zh-HK-HiuMaanNeural",
+      "audio_url": "https://pub-c03f3674ad6c4b8ea960ee176f0d19dc.r2.dev/audio/dev-user-001/4aec48c0-5b4c-4542-b8b5-eaa868da8b92/4aec48c0-5b4c-4542-b8b5-eaa868da8b92_yue.wav",
+      "audio_rel_path": "/audio/20260606T023700Z___4aec48c0-5b4c-4542-b8b5-eaa868da8b92_yue.wav",
+      "sentences": [
+        {
+          "text": "早晨呀！希望你週末休息得好。",
+          "start_time": 0.0,
+          "end_time": 4.536,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 27.36,
+          "end_time": 27.36,
+          "language": "yue"
+        },
+        {
+          "text": "Good morning! I hope you had a restful weekend.",
+          "start_time": 0.0,
+          "end_time": 4.536,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 27.36,
+          "end_time": 27.36,
+          "language": "yue"
+        },
+        {
+          "text": "我哋就由檢討上星期嘅行動事項開始開會啦。",
+          "start_time": 4.536,
+          "end_time": 9.48,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 27.36,
+          "end_time": 27.36,
+          "language": "yue"
+        },
+        {
+          "text": "Let us kick off the meeting by reviewing the action items from last week.",
+          "start_time": 4.536,
+          "end_time": 9.48,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 27.36,
+          "end_time": 27.36,
+          "language": "yue"
+        },
+        {
+          "text": "我已經將最新嘅更改推到功能分支，你有空就睇下啦？",
+          "start_time": 9.48,
+          "end_time": 15.0,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 27.36,
+          "end_time": 27.36,
+          "language": "yue"
+        },
+        {
+          "text": "I have pushed the latest changes to the feature branch, could you take a look when you get a chance?",
+          "start_time": 9.48,
+          "end_time": 15.0,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 27.36,
+          "end_time": 27.36,
+          "language": "yue"
+        },
+        {
+          "text": "客人都期望星期四尾班前送達，所以我哋要按部就班噉做。",
+          "start_time": 15.0,
+          "end_time": 21.264,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 27.36,
+          "end_time": 27.36,
+          "language": "yue"
+        },
+        {
+          "text": "The client is expecting the delivery by end of day Thursday, so we need to stay on track.",
+          "start_time": 15.0,
+          "end_time": 21.264,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 27.36,
+          "end_time": 27.36,
+          "language": "yue"
+        },
+        {
+          "text": "如果有人遇到阻礙，請及早提出，咁我哋就可以調整計劃啦。",
+          "start_time": 21.264,
+          "end_time": 27.36,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 27.36,
+          "end_time": 27.36,
+          "language": "yue"
+        },
+        {
+          "text": "If anyone runs into blockers, please flag them early so we can adjust the plan.",
+          "start_time": 21.264,
+          "end_time": 27.36,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 27.36,
+          "end_time": 27.36,
+          "language": "yue"
+        }
+      ]
+    }
+  }
+}
