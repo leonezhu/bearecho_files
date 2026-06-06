@@ -1,0 +1,41 @@
+{
+  "id": "f487ab91-f1be-4794-bbcb-b4771dabd206",
+  "title": "我想同你講下Q3市場推廣活動嘅最新進度。我哋而家依家都...",
+  "content_type": "paragraph",
+  "content_text": "我想同你講下Q3市場推廣活動嘅最新進度。我哋而家依家都係按時間表進行，創意素材都快搞掂喇。不過，喺影片製作呢方面，我哋喺供應商度遇到咗啲小遲延。我已經催佢哋今個星期尾之前交貨，但如果佢哋真係唔趕得上，我哋可能要調整下推出日期。等我收到佢哋嘅回覆，我會即時通知你。\n[I wanted to give you a quick update on the Q3 marketing campaign. We are currently on track with the timeline, and the creative assets are almost finalized. However, we have hit a slight delay on the vendor side regarding the video production. I am pushing them to deliver by end of this week, but we might need to adjust the launch date if they cannot meet the deadline. I will keep you posted as soon as I hear back from them.]",
+  "created_at": "2026-06-06T00:31:19.419003Z",
+  "language_versions": {
+    "yue": {
+      "tts_engine": "edge-tts",
+      "voice": "zh-HK-HiuMaanNeural",
+      "audio_url": "https://pub-c03f3674ad6c4b8ea960ee176f0d19dc.r2.dev/audio/dev-user-001/f487ab91-f1be-4794-bbcb-b4771dabd206/f487ab91-f1be-4794-bbcb-b4771dabd206_yue.wav",
+      "audio_rel_path": "/audio/20260606T003119Z__Q3__f487ab91-f1be-4794-bbcb-b4771dabd206_yue.wav",
+      "sentences": [
+        {
+          "text": "我想同你講下Q3市場推廣活動嘅最新進度。我哋而家依家都係按時間表進行，創意素材都快搞掂喇。不過，喺影片製作呢方面，我哋喺供應商度遇到咗啲小遲延。我已經催佢哋今個星期尾之前交貨，但如果佢哋真係唔趕得上，我哋可能要調整下推出日期。等我收到佢哋嘅回覆，我會即時通知你。",
+          "start_time": 0.0,
+          "end_time": 30.096,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 30.096,
+          "end_time": 30.096,
+          "language": "yue"
+        },
+        {
+          "text": "I wanted to give you a quick update on the Q3 marketing campaign. We are currently on track with the timeline, and the creative assets are almost finalized. However, we have hit a slight delay on the vendor side regarding the video production. I am pushing them to deliver by end of this week, but we might need to adjust the launch date if they cannot meet the deadline. I will keep you posted as soon as I hear back from them.",
+          "start_time": 0.0,
+          "end_time": 30.096,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 30.096,
+          "end_time": 30.096,
+          "language": "yue"
+        }
+      ]
+    }
+  }
+}
