@@ -1,0 +1,137 @@
+{
+  "id": "9ece1b31-81cf-4771-b60d-60bacaad972c",
+  "title": "喂，你有冇一分鐘傾下上星期啲客戶反饋呀？",
+  "content_type": "paragraph",
+  "content_text": "喂，你有冇一分鐘傾下上星期啲客戶反饋呀？\n[Hey, do you have a minute to discuss the client feedback from last week?]\n好呀，我啱啱做完咗個報告。客戶整體講咗啲咩呀？\n[Sure, I just finished the report. What did the client say overall?]\n佢哋對進展都滿意，但係想我哋喺推出之前再加多兩個功能。\n[They are happy with the progress, but they want us to add two more features before the launch.]\n咁樣會好緊張呀。我哋可唔可以將截止日期推遲一星期？\n[That is going to be tight. Can we push the deadline by a week?]\n我同項目經理核對下，到咗尾班就返你電話。\n[Let me check with the project manager and get back to you by end of day.]",
+  "created_at": "2026-06-07T00:32:43.734570Z",
+  "language_versions": {
+    "yue": {
+      "tts_engine": "edge-tts",
+      "voice": "zh-HK-WanLungNeural",
+      "audio_url": "https://pub-c03f3674ad6c4b8ea960ee176f0d19dc.r2.dev/audio/dev-user-001/9ece1b31-81cf-4771-b60d-60bacaad972c/9ece1b31-81cf-4771-b60d-60bacaad972c_yue.wav",
+      "audio_rel_path": "/audio/20260607T003243Z___9ece1b31-81cf-4771-b60d-60bacaad972c_yue.wav",
+      "sentences": [
+        {
+          "text": "喂，你有冇一分鐘傾下上星期啲客戶反饋呀？",
+          "start_time": 0.0,
+          "end_time": 4.992,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 28.728,
+          "end_time": 28.728,
+          "language": "yue"
+        },
+        {
+          "text": "Hey, do you have a minute to discuss the client feedback from last week?",
+          "start_time": 0.0,
+          "end_time": 4.992,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 28.728,
+          "end_time": 28.728,
+          "language": "yue"
+        },
+        {
+          "text": "好呀，我啱啱做完咗個報告。客戶整體講咗啲咩呀？",
+          "start_time": 4.992,
+          "end_time": 11.4,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 28.728,
+          "end_time": 28.728,
+          "language": "yue"
+        },
+        {
+          "text": "Sure, I just finished the report. What did the client say overall?",
+          "start_time": 4.992,
+          "end_time": 11.4,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 28.728,
+          "end_time": 28.728,
+          "language": "yue"
+        },
+        {
+          "text": "佢哋對進展都滿意，但係想我哋喺推出之前再加多兩個功能。",
+          "start_time": 11.4,
+          "end_time": 17.376,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 28.728,
+          "end_time": 28.728,
+          "language": "yue"
+        },
+        {
+          "text": "They are happy with the progress, but they want us to add two more features before the launch.",
+          "start_time": 11.4,
+          "end_time": 17.376,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 28.728,
+          "end_time": 28.728,
+          "language": "yue"
+        },
+        {
+          "text": "咁樣會好緊張呀。我哋可唔可以將截止日期推遲一星期？",
+          "start_time": 17.376,
+          "end_time": 23.928,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 28.728,
+          "end_time": 28.728,
+          "language": "yue"
+        },
+        {
+          "text": "That is going to be tight. Can we push the deadline by a week?",
+          "start_time": 17.376,
+          "end_time": 23.928,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 28.728,
+          "end_time": 28.728,
+          "language": "yue"
+        },
+        {
+          "text": "我同項目經理核對下，到咗尾班就返你電話。",
+          "start_time": 23.928,
+          "end_time": 28.728,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 28.728,
+          "end_time": 28.728,
+          "language": "yue"
+        },
+        {
+          "text": "Let me check with the project manager and get back to you by end of day.",
+          "start_time": 23.928,
+          "end_time": 28.728,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 28.728,
+          "end_time": 28.728,
+          "language": "yue"
+        }
+      ]
+    }
+  }
+}
