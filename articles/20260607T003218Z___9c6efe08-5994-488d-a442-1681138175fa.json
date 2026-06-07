@@ -1,0 +1,137 @@
+{
+  "id": "9c6efe08-5994-488d-a442-1681138175fa",
+  "title": "我嚟同你講下呢個項目的最新進展。",
+  "content_type": "paragraph",
+  "content_text": "我嚟同你講下呢個項目的最新進展。\n[Let me walk you through the latest updates on the project.]\n我哋而家正按計劃趕上第三季嘅截止日期。\n[We are currently on track to meet the Q3 deadline.]\n不過，有幾樣阻礙我哋要盡快處理。\n[However, there are a few blockers that we need to address as soon as possible.]\n我哋可唔可以安排個快啲嘅同步，好咗攞到共識？\n[Can we schedule a quick sync to align on the priorities?]\n我會準備一個總結，喺會議之前同大家分享。\n[I will prepare a summary and share it before the meeting.]",
+  "created_at": "2026-06-07T00:32:18.647742Z",
+  "language_versions": {
+    "yue": {
+      "tts_engine": "edge-tts",
+      "voice": "zh-HK-WanLungNeural",
+      "audio_url": "https://pub-c03f3674ad6c4b8ea960ee176f0d19dc.r2.dev/audio/dev-user-001/9c6efe08-5994-488d-a442-1681138175fa/9c6efe08-5994-488d-a442-1681138175fa_yue.wav",
+      "audio_rel_path": "/audio/20260607T003218Z___9c6efe08-5994-488d-a442-1681138175fa_yue.wav",
+      "sentences": [
+        {
+          "text": "我嚟同你講下呢個項目的最新進展。",
+          "start_time": 0.0,
+          "end_time": 3.912,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 22.176000000000002,
+          "end_time": 22.176000000000002,
+          "language": "yue"
+        },
+        {
+          "text": "Let me walk you through the latest updates on the project.",
+          "start_time": 0.0,
+          "end_time": 3.912,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 22.176000000000002,
+          "end_time": 22.176000000000002,
+          "language": "yue"
+        },
+        {
+          "text": "我哋而家正按計劃趕上第三季嘅截止日期。",
+          "start_time": 3.912,
+          "end_time": 8.352,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 22.176000000000002,
+          "end_time": 22.176000000000002,
+          "language": "yue"
+        },
+        {
+          "text": "We are currently on track to meet the Q3 deadline.",
+          "start_time": 3.912,
+          "end_time": 8.352,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 22.176000000000002,
+          "end_time": 22.176000000000002,
+          "language": "yue"
+        },
+        {
+          "text": "不過，有幾樣阻礙我哋要盡快處理。",
+          "start_time": 8.352,
+          "end_time": 12.576,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 22.176000000000002,
+          "end_time": 22.176000000000002,
+          "language": "yue"
+        },
+        {
+          "text": "However, there are a few blockers that we need to address as soon as possible.",
+          "start_time": 8.352,
+          "end_time": 12.576,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 22.176000000000002,
+          "end_time": 22.176000000000002,
+          "language": "yue"
+        },
+        {
+          "text": "我哋可唔可以安排個快啲嘅同步，好咗攞到共識？",
+          "start_time": 12.576,
+          "end_time": 17.568,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 22.176000000000002,
+          "end_time": 22.176000000000002,
+          "language": "yue"
+        },
+        {
+          "text": "Can we schedule a quick sync to align on the priorities?",
+          "start_time": 12.576,
+          "end_time": 17.568,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 22.176000000000002,
+          "end_time": 22.176000000000002,
+          "language": "yue"
+        },
+        {
+          "text": "我會準備一個總結，喺會議之前同大家分享。",
+          "start_time": 17.568,
+          "end_time": 22.176000000000002,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 22.176000000000002,
+          "end_time": 22.176000000000002,
+          "language": "yue"
+        },
+        {
+          "text": "I will prepare a summary and share it before the meeting.",
+          "start_time": 17.568,
+          "end_time": 22.176000000000002,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 22.176000000000002,
+          "end_time": 22.176000000000002,
+          "language": "yue"
+        }
+      ]
+    }
+  }
+}
