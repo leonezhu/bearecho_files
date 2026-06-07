@@ -1,0 +1,29 @@
+{
+  "id": "5586a7e5-6e81-4528-a806-bc8c98150347",
+  "title": "今天是高考的第一天，对于我来说没啥感觉",
+  "content_type": "paragraph",
+  "content_text": "今天是高考的第一天，对于我来说没啥感觉",
+  "created_at": "2026-06-07T06:05:39.800187Z",
+  "language_versions": {
+    "sicuan": {
+      "tts_engine": "dui-tts",
+      "voice": "wqingf_csn",
+      "audio_url": "https://pub-c03f3674ad6c4b8ea960ee176f0d19dc.r2.dev/audio/dev-user-001/5586a7e5-6e81-4528-a806-bc8c98150347/5586a7e5-6e81-4528-a806-bc8c98150347_sicuan.wav",
+      "audio_rel_path": "/audio/20260607T060539Z___5586a7e5-6e81-4528-a806-bc8c98150347_sicuan.wav",
+      "sentences": [
+        {
+          "text": "今天是高考的第一天，对于我来说没啥感觉",
+          "start_time": 0.0,
+          "end_time": 4.44,
+          "language": "sicuan"
+        },
+        {
+          "text": "\n",
+          "start_time": 4.44,
+          "end_time": 4.44,
+          "language": "sicuan"
+        }
+      ]
+    }
+  }
+}
