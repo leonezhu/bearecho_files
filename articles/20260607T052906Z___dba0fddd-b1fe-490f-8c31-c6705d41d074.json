@@ -1,0 +1,29 @@
+{
+  "id": "dba0fddd-b1fe-490f-8c31-c6705d41d074",
+  "title": "今天天气巴适得很，要不要出去吃个火锅嘛？",
+  "content_type": "paragraph",
+  "content_text": "今天天气巴适得很，要不要出去吃个火锅嘛？",
+  "created_at": "2026-06-07T05:29:06.719901Z",
+  "language_versions": {
+    "sicuan": {
+      "tts_engine": "edge-tts",
+      "voice": "en-US-AvaMultilingualNeural",
+      "audio_url": "https://pub-c03f3674ad6c4b8ea960ee176f0d19dc.r2.dev/audio/dev-user-001/dba0fddd-b1fe-490f-8c31-c6705d41d074/dba0fddd-b1fe-490f-8c31-c6705d41d074_sicuan.wav",
+      "audio_rel_path": "/audio/20260607T052906Z___dba0fddd-b1fe-490f-8c31-c6705d41d074_sicuan.wav",
+      "sentences": [
+        {
+          "text": "今天天气巴适得很，要不要出去吃个火锅嘛？",
+          "start_time": 0.0,
+          "end_time": 4.488,
+          "language": "sicuan"
+        },
+        {
+          "text": "\n",
+          "start_time": 4.488,
+          "end_time": 4.488,
+          "language": "sicuan"
+        }
+      ]
+    }
+  }
+}
