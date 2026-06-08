@@ -1,0 +1,137 @@
+{
+  "id": "4654ccc6-f1f8-46ea-b89d-7a61ef815b89",
+  "title": "你今日想唔想一齊食午餐呀？",
+  "content_type": "paragraph",
+  "content_text": "你今日想唔想一齊食午餐呀？\n[Do you want to grab lunch together today?]\n我諗住試下樓下嗰間新餐廳。\n[I was thinking of trying that new place downstairs.]\n你周末點呀？最後有冇去咩好正嘅地方呀？\n[How was your weekend? Did you end up going anywhere nice?]\n其實都唔係啦，我淨係喺屋企瞓覺補眠。\n[Not really, I just stayed home and caught up on some sleep.]\n順便問下，你有冇收到客戶對提案嘅回覆呀？\n[By the way, have you heard back from the client about the proposal?]",
+  "created_at": "2026-06-08T00:32:26.622763Z",
+  "language_versions": {
+    "yue": {
+      "tts_engine": "edge-tts",
+      "voice": "zh-HK-WanLungNeural",
+      "audio_url": "https://pub-c03f3674ad6c4b8ea960ee176f0d19dc.r2.dev/audio/dev-user-001/4654ccc6-f1f8-46ea-b89d-7a61ef815b89/4654ccc6-f1f8-46ea-b89d-7a61ef815b89_yue.wav",
+      "audio_rel_path": "/audio/20260608T003226Z___4654ccc6-f1f8-46ea-b89d-7a61ef815b89_yue.wav",
+      "sentences": [
+        {
+          "text": "你今日想唔想一齊食午餐呀？",
+          "start_time": 0.0,
+          "end_time": 3.36,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 21.504,
+          "end_time": 21.504,
+          "language": "yue"
+        },
+        {
+          "text": "Do you want to grab lunch together today?",
+          "start_time": 0.0,
+          "end_time": 3.36,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 21.504,
+          "end_time": 21.504,
+          "language": "yue"
+        },
+        {
+          "text": "我諗住試下樓下嗰間新餐廳。",
+          "start_time": 3.36,
+          "end_time": 6.984,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 21.504,
+          "end_time": 21.504,
+          "language": "yue"
+        },
+        {
+          "text": "I was thinking of trying that new place downstairs.",
+          "start_time": 3.36,
+          "end_time": 6.984,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 21.504,
+          "end_time": 21.504,
+          "language": "yue"
+        },
+        {
+          "text": "你周末點呀？最後有冇去咩好正嘅地方呀？",
+          "start_time": 6.984,
+          "end_time": 12.168,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 21.504,
+          "end_time": 21.504,
+          "language": "yue"
+        },
+        {
+          "text": "How was your weekend? Did you end up going anywhere nice?",
+          "start_time": 6.984,
+          "end_time": 12.168,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 21.504,
+          "end_time": 21.504,
+          "language": "yue"
+        },
+        {
+          "text": "其實都唔係啦，我淨係喺屋企瞓覺補眠。",
+          "start_time": 12.168,
+          "end_time": 16.512,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 21.504,
+          "end_time": 21.504,
+          "language": "yue"
+        },
+        {
+          "text": "Not really, I just stayed home and caught up on some sleep.",
+          "start_time": 12.168,
+          "end_time": 16.512,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 21.504,
+          "end_time": 21.504,
+          "language": "yue"
+        },
+        {
+          "text": "順便問下，你有冇收到客戶對提案嘅回覆呀？",
+          "start_time": 16.512,
+          "end_time": 21.504,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 21.504,
+          "end_time": 21.504,
+          "language": "yue"
+        },
+        {
+          "text": "By the way, have you heard back from the client about the proposal?",
+          "start_time": 16.512,
+          "end_time": 21.504,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 21.504,
+          "end_time": 21.504,
+          "language": "yue"
+        }
+      ]
+    }
+  }
+}
