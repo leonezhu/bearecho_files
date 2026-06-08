@@ -1,0 +1,77 @@
+{
+  "id": "d78a48b6-ba30-488c-8ad8-f3e8bab699a2",
+  "title": "Do you want to grab lunch...",
+  "content_type": "paragraph",
+  "content_text": "Do you want to grab lunch together today?\nI was thinking of trying that new place downstairs.\nHow was your weekend? Did you end up going anywhere nice?\nNot really, I just stayed home and caught up on some sleep.\nBy the way, have you heard back from the client about the proposal?",
+  "created_at": "2026-06-08T00:32:16.799574Z",
+  "language_versions": {
+    "en": {
+      "tts_engine": "edge-tts",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "audio_url": "https://pub-c03f3674ad6c4b8ea960ee176f0d19dc.r2.dev/audio/dev-user-001/d78a48b6-ba30-488c-8ad8-f3e8bab699a2/d78a48b6-ba30-488c-8ad8-f3e8bab699a2_en.wav",
+      "audio_rel_path": "/audio/20260608T003216Z_Do_you_want_to_grab_lunch__d78a48b6-ba30-488c-8ad8-f3e8bab699a2_en.wav",
+      "sentences": [
+        {
+          "text": "Do you want to grab lunch together today?",
+          "start_time": 0.0,
+          "end_time": 2.016,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 15.239999999999998,
+          "end_time": 15.239999999999998,
+          "language": "en"
+        },
+        {
+          "text": "I was thinking of trying that new place downstairs.",
+          "start_time": 2.016,
+          "end_time": 5.088,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 15.239999999999998,
+          "end_time": 15.239999999999998,
+          "language": "en"
+        },
+        {
+          "text": "How was your weekend? Did you end up going anywhere nice?",
+          "start_time": 5.088,
+          "end_time": 8.136,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 15.239999999999998,
+          "end_time": 15.239999999999998,
+          "language": "en"
+        },
+        {
+          "text": "Not really, I just stayed home and caught up on some sleep.",
+          "start_time": 8.136,
+          "end_time": 11.424,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 15.239999999999998,
+          "end_time": 15.239999999999998,
+          "language": "en"
+        },
+        {
+          "text": "By the way, have you heard back from the client about the proposal?",
+          "start_time": 11.424,
+          "end_time": 15.239999999999998,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 15.239999999999998,
+          "end_time": 15.239999999999998,
+          "language": "en"
+        }
+      ]
+    }
+  }
+}
