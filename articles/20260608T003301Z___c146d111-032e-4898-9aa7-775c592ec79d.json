@@ -1,0 +1,137 @@
+{
+  "id": "c146d111-032e-4898-9aa7-775c592ec79d",
+  "title": "聽落好似個計劃呀，你幾點方便呀？",
+  "content_type": "paragraph",
+  "content_text": "聽落好似個計劃呀，你幾點方便呀？\n[That sounds like a plan, what time works for you?]\n我哋話大約十二點半，可以啦？\n[Let us say around twelve thirty, is that okay?]\n我兩點有個會，所以可能要喺一點半返去啦。\n[I have a meeting at two, so we should probably head back by one thirty.]\n唔使擔心，咁樣我哋有好多時間呀。\n[No worries, that gives us plenty of time.]\n我朝早開完晨會就畀你訊息。\n[I will ping you when I am done with my morning standup.]",
+  "created_at": "2026-06-08T00:33:01.220009Z",
+  "language_versions": {
+    "yue": {
+      "tts_engine": "edge-tts",
+      "voice": "zh-HK-WanLungNeural",
+      "audio_url": "https://pub-c03f3674ad6c4b8ea960ee176f0d19dc.r2.dev/audio/dev-user-001/c146d111-032e-4898-9aa7-775c592ec79d/c146d111-032e-4898-9aa7-775c592ec79d_yue.wav",
+      "audio_rel_path": "/audio/20260608T003301Z___c146d111-032e-4898-9aa7-775c592ec79d_yue.wav",
+      "sentences": [
+        {
+          "text": "聽落好似個計劃呀，你幾點方便呀？",
+          "start_time": 0.0,
+          "end_time": 4.176,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 20.064,
+          "end_time": 20.064,
+          "language": "yue"
+        },
+        {
+          "text": "That sounds like a plan, what time works for you?",
+          "start_time": 0.0,
+          "end_time": 4.176,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 20.064,
+          "end_time": 20.064,
+          "language": "yue"
+        },
+        {
+          "text": "我哋話大約十二點半，可以啦？",
+          "start_time": 4.176,
+          "end_time": 7.824,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 20.064,
+          "end_time": 20.064,
+          "language": "yue"
+        },
+        {
+          "text": "Let us say around twelve thirty, is that okay?",
+          "start_time": 4.176,
+          "end_time": 7.824,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 20.064,
+          "end_time": 20.064,
+          "language": "yue"
+        },
+        {
+          "text": "我兩點有個會，所以可能要喺一點半返去啦。",
+          "start_time": 7.824,
+          "end_time": 12.456,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 20.064,
+          "end_time": 20.064,
+          "language": "yue"
+        },
+        {
+          "text": "I have a meeting at two, so we should probably head back by one thirty.",
+          "start_time": 7.824,
+          "end_time": 12.456,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 20.064,
+          "end_time": 20.064,
+          "language": "yue"
+        },
+        {
+          "text": "唔使擔心，咁樣我哋有好多時間呀。",
+          "start_time": 12.456,
+          "end_time": 16.656,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 20.064,
+          "end_time": 20.064,
+          "language": "yue"
+        },
+        {
+          "text": "No worries, that gives us plenty of time.",
+          "start_time": 12.456,
+          "end_time": 16.656,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 20.064,
+          "end_time": 20.064,
+          "language": "yue"
+        },
+        {
+          "text": "我朝早開完晨會就畀你訊息。",
+          "start_time": 16.656,
+          "end_time": 20.064,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 20.064,
+          "end_time": 20.064,
+          "language": "yue"
+        },
+        {
+          "text": "I will ping you when I am done with my morning standup.",
+          "start_time": 16.656,
+          "end_time": 20.064,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 20.064,
+          "end_time": 20.064,
+          "language": "yue"
+        }
+      ]
+    }
+  }
+}
