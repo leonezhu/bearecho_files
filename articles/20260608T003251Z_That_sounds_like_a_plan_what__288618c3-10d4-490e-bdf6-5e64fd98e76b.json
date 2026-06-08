@@ -1,0 +1,77 @@
+{
+  "id": "288618c3-10d4-490e-bdf6-5e64fd98e76b",
+  "title": "That sounds like a plan, what...",
+  "content_type": "paragraph",
+  "content_text": "That sounds like a plan, what time works for you?\nLet us say around twelve thirty, is that okay?\nI have a meeting at two, so we should probably head back by one thirty.\nNo worries, that gives us plenty of time.\nI will ping you when I am done with my morning standup.",
+  "created_at": "2026-06-08T00:32:51.907023Z",
+  "language_versions": {
+    "en": {
+      "tts_engine": "edge-tts",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "audio_url": "https://pub-c03f3674ad6c4b8ea960ee176f0d19dc.r2.dev/audio/dev-user-001/288618c3-10d4-490e-bdf6-5e64fd98e76b/288618c3-10d4-490e-bdf6-5e64fd98e76b_en.wav",
+      "audio_rel_path": "/audio/20260608T003251Z_That_sounds_like_a_plan_what__288618c3-10d4-490e-bdf6-5e64fd98e76b_en.wav",
+      "sentences": [
+        {
+          "text": "That sounds like a plan, what time works for you?",
+          "start_time": 0.0,
+          "end_time": 2.64,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 15.24,
+          "end_time": 15.24,
+          "language": "en"
+        },
+        {
+          "text": "Let us say around twelve thirty, is that okay?",
+          "start_time": 2.64,
+          "end_time": 5.76,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 15.24,
+          "end_time": 15.24,
+          "language": "en"
+        },
+        {
+          "text": "I have a meeting at two, so we should probably head back by one thirty.",
+          "start_time": 5.76,
+          "end_time": 9.96,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 15.24,
+          "end_time": 15.24,
+          "language": "en"
+        },
+        {
+          "text": "No worries, that gives us plenty of time.",
+          "start_time": 9.96,
+          "end_time": 12.672,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 15.24,
+          "end_time": 15.24,
+          "language": "en"
+        },
+        {
+          "text": "I will ping you when I am done with my morning standup.",
+          "start_time": 12.672,
+          "end_time": 15.24,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 15.24,
+          "end_time": 15.24,
+          "language": "en"
+        }
+      ]
+    }
+  }
+}
