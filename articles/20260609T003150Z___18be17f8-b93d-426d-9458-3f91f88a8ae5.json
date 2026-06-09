@@ -1,0 +1,137 @@
+{
+  "id": "18be17f8-b93d-426d-9458-3f91f88a8ae5",
+  "title": "你講到嘅技術挑戰，可唔可以詳細講下呀？",
+  "content_type": "paragraph",
+  "content_text": "你講到嘅技術挑戰，可唔可以詳細講下呀？\n[Could you elaborate on the technical challenges you mentioned?]\n我哋可能要叫基建團隊入面參與下呢個。\n[We might need to loop in the infrastructure team for this one.]\n我哋暫時將呢個討論放一放，等明朝開會再攞嚟諗下。\n[Let us table this discussion for now and revisit it in tomorrows standup.]\n我會將呢件事當做一個行動要點，並喺星期三之前跟進。\n[I will take this as an action item and follow up by Wednesday.]\n多謝你早啲提醒我，要唔係咁講，之後可能會變成更大嘅問題。\n[Thanks for flagging this early, it could have been a much bigger issue down the line.]",
+  "created_at": "2026-06-09T00:31:50.542020Z",
+  "language_versions": {
+    "yue": {
+      "tts_engine": "edge-tts",
+      "voice": "zh-HK-WanLungNeural",
+      "audio_url": "https://pub-c03f3674ad6c4b8ea960ee176f0d19dc.r2.dev/audio/dev-user-001/18be17f8-b93d-426d-9458-3f91f88a8ae5/18be17f8-b93d-426d-9458-3f91f88a8ae5_yue.wav",
+      "audio_rel_path": "/audio/20260609T003150Z___18be17f8-b93d-426d-9458-3f91f88a8ae5_yue.wav",
+      "sentences": [
+        {
+          "text": "你講到嘅技術挑戰，可唔可以詳細講下呀？",
+          "start_time": 0.0,
+          "end_time": 4.704,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 27.072000000000003,
+          "end_time": 27.072000000000003,
+          "language": "yue"
+        },
+        {
+          "text": "Could you elaborate on the technical challenges you mentioned?",
+          "start_time": 0.0,
+          "end_time": 4.704,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 27.072000000000003,
+          "end_time": 27.072000000000003,
+          "language": "yue"
+        },
+        {
+          "text": "我哋可能要叫基建團隊入面參與下呢個。",
+          "start_time": 4.704,
+          "end_time": 9.120000000000001,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 27.072000000000003,
+          "end_time": 27.072000000000003,
+          "language": "yue"
+        },
+        {
+          "text": "We might need to loop in the infrastructure team for this one.",
+          "start_time": 4.704,
+          "end_time": 9.120000000000001,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 27.072000000000003,
+          "end_time": 27.072000000000003,
+          "language": "yue"
+        },
+        {
+          "text": "我哋暫時將呢個討論放一放，等明朝開會再攞嚟諗下。",
+          "start_time": 9.120000000000001,
+          "end_time": 14.832,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 27.072000000000003,
+          "end_time": 27.072000000000003,
+          "language": "yue"
+        },
+        {
+          "text": "Let us table this discussion for now and revisit it in tomorrows standup.",
+          "start_time": 9.120000000000001,
+          "end_time": 14.832,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 27.072000000000003,
+          "end_time": 27.072000000000003,
+          "language": "yue"
+        },
+        {
+          "text": "我會將呢件事當做一個行動要點，並喺星期三之前跟進。",
+          "start_time": 14.832,
+          "end_time": 20.76,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 27.072000000000003,
+          "end_time": 27.072000000000003,
+          "language": "yue"
+        },
+        {
+          "text": "I will take this as an action item and follow up by Wednesday.",
+          "start_time": 14.832,
+          "end_time": 20.76,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 27.072000000000003,
+          "end_time": 27.072000000000003,
+          "language": "yue"
+        },
+        {
+          "text": "多謝你早啲提醒我，要唔係咁講，之後可能會變成更大嘅問題。",
+          "start_time": 20.76,
+          "end_time": 27.072000000000003,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 27.072000000000003,
+          "end_time": 27.072000000000003,
+          "language": "yue"
+        },
+        {
+          "text": "Thanks for flagging this early, it could have been a much bigger issue down the line.",
+          "start_time": 20.76,
+          "end_time": 27.072000000000003,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 27.072000000000003,
+          "end_time": 27.072000000000003,
+          "language": "yue"
+        }
+      ]
+    }
+  }
+}
