@@ -1,0 +1,77 @@
+{
+  "id": "2e57f3b1-fca1-450a-838d-dcfecbb6252a",
+  "title": "Here is a quick update on the...",
+  "content_type": "paragraph",
+  "content_text": "Here is a quick update on the project status.\nWe are on track to deliver the first milestone by the end of this week.\nHowever, we have run into a couple of blockers on the backend integration.\nI would like to get everyone aligned on the revised timeline.\nCan we schedule a quick sync to discuss the next steps?",
+  "created_at": "2026-06-09T00:31:12.595307Z",
+  "language_versions": {
+    "en": {
+      "tts_engine": "edge-tts",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "audio_url": "https://pub-c03f3674ad6c4b8ea960ee176f0d19dc.r2.dev/audio/dev-user-001/2e57f3b1-fca1-450a-838d-dcfecbb6252a/2e57f3b1-fca1-450a-838d-dcfecbb6252a_en.wav",
+      "audio_rel_path": "/audio/20260609T003112Z_Here_is_a_quick_update_on_the__2e57f3b1-fca1-450a-838d-dcfecbb6252a_en.wav",
+      "sentences": [
+        {
+          "text": "Here is a quick update on the project status.",
+          "start_time": 0.0,
+          "end_time": 2.808,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 16.896,
+          "end_time": 16.896,
+          "language": "en"
+        },
+        {
+          "text": "We are on track to deliver the first milestone by the end of this week.",
+          "start_time": 2.808,
+          "end_time": 6.696,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 16.896,
+          "end_time": 16.896,
+          "language": "en"
+        },
+        {
+          "text": "However, we have run into a couple of blockers on the backend integration.",
+          "start_time": 6.696,
+          "end_time": 10.296,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 16.896,
+          "end_time": 16.896,
+          "language": "en"
+        },
+        {
+          "text": "I would like to get everyone aligned on the revised timeline.",
+          "start_time": 10.296,
+          "end_time": 13.728,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 16.896,
+          "end_time": 16.896,
+          "language": "en"
+        },
+        {
+          "text": "Can we schedule a quick sync to discuss the next steps?",
+          "start_time": 13.728,
+          "end_time": 16.896,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 16.896,
+          "end_time": 16.896,
+          "language": "en"
+        }
+      ]
+    }
+  }
+}
