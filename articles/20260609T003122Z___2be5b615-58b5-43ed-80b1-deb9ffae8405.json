@@ -1,0 +1,137 @@
+{
+  "id": "2be5b615-58b5-43ed-80b1-deb9ffae8405",
+  "title": "呢度係項目情況嘅一個快速更新。",
+  "content_type": "paragraph",
+  "content_text": "呢度係項目情況嘅一個快速更新。\n[Here is a quick update on the project status.]\n我哋預計今週尾可以達成第一個里程碑。\n[We are on track to deliver the first milestone by the end of this week.]\n不過，我哋喺後端整合度遇到咗幾個阻礙。\n[However, we have run into a couple of blockers on the backend integration.]\n我想同大家統一一下修訂咗嘅時間表。\n[I would like to get everyone aligned on the revised timeline.]\n我哋可唔可以安排個快啲嘅同步，講下下一步做咩呀？\n[Can we schedule a quick sync to discuss the next steps?]",
+  "created_at": "2026-06-09T00:31:22.787220Z",
+  "language_versions": {
+    "yue": {
+      "tts_engine": "edge-tts",
+      "voice": "zh-HK-WanLungNeural",
+      "audio_url": "https://pub-c03f3674ad6c4b8ea960ee176f0d19dc.r2.dev/audio/dev-user-001/2be5b615-58b5-43ed-80b1-deb9ffae8405/2be5b615-58b5-43ed-80b1-deb9ffae8405_yue.wav",
+      "audio_rel_path": "/audio/20260609T003122Z___2be5b615-58b5-43ed-80b1-deb9ffae8405_yue.wav",
+      "sentences": [
+        {
+          "text": "呢度係項目情況嘅一個快速更新。",
+          "start_time": 0.0,
+          "end_time": 3.816,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 22.560000000000002,
+          "end_time": 22.560000000000002,
+          "language": "yue"
+        },
+        {
+          "text": "Here is a quick update on the project status.",
+          "start_time": 0.0,
+          "end_time": 3.816,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 22.560000000000002,
+          "end_time": 22.560000000000002,
+          "language": "yue"
+        },
+        {
+          "text": "我哋預計今週尾可以達成第一個里程碑。",
+          "start_time": 3.816,
+          "end_time": 8.112,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 22.560000000000002,
+          "end_time": 22.560000000000002,
+          "language": "yue"
+        },
+        {
+          "text": "We are on track to deliver the first milestone by the end of this week.",
+          "start_time": 3.816,
+          "end_time": 8.112,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 22.560000000000002,
+          "end_time": 22.560000000000002,
+          "language": "yue"
+        },
+        {
+          "text": "不過，我哋喺後端整合度遇到咗幾個阻礙。",
+          "start_time": 8.112,
+          "end_time": 12.911999999999999,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 22.560000000000002,
+          "end_time": 22.560000000000002,
+          "language": "yue"
+        },
+        {
+          "text": "However, we have run into a couple of blockers on the backend integration.",
+          "start_time": 8.112,
+          "end_time": 12.911999999999999,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 22.560000000000002,
+          "end_time": 22.560000000000002,
+          "language": "yue"
+        },
+        {
+          "text": "我想同大家統一一下修訂咗嘅時間表。",
+          "start_time": 12.911999999999999,
+          "end_time": 17.064,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 22.560000000000002,
+          "end_time": 22.560000000000002,
+          "language": "yue"
+        },
+        {
+          "text": "I would like to get everyone aligned on the revised timeline.",
+          "start_time": 12.911999999999999,
+          "end_time": 17.064,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 22.560000000000002,
+          "end_time": 22.560000000000002,
+          "language": "yue"
+        },
+        {
+          "text": "我哋可唔可以安排個快啲嘅同步，講下下一步做咩呀？",
+          "start_time": 17.064,
+          "end_time": 22.560000000000002,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 22.560000000000002,
+          "end_time": 22.560000000000002,
+          "language": "yue"
+        },
+        {
+          "text": "Can we schedule a quick sync to discuss the next steps?",
+          "start_time": 17.064,
+          "end_time": 22.560000000000002,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 22.560000000000002,
+          "end_time": 22.560000000000002,
+          "language": "yue"
+        }
+      ]
+    }
+  }
+}
