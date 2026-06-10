@@ -1,0 +1,137 @@
+{
+  "id": "04acc984-b561-4a38-a3c5-c00abbe68cf1",
+  "title": "我想同你講下項目時間表嘅最新進展。",
+  "content_type": "paragraph",
+  "content_text": "我想同你講下項目時間表嘅最新進展。\n[I'd like to share some updates on the project timeline.]\n你可唔可以詳細講下呢個點呀？我好似搵唔到頭緒。\n[Could you elaborate on that point? I'm not sure I follow.]\n我哋等下線講，之後再返嚟諗下啦。\n[Let's take this offline and circle back to it later.]\n我完全同意你呢個嘅做法。\n[I completely agree with your approach on this one.]\n淨係想講清楚下，我哋對下星期嘅交付成果有冇共識呀？\n[Just to clarify, are we aligned on the deliverables for next week?]",
+  "created_at": "2026-06-10T00:31:52.266496Z",
+  "language_versions": {
+    "yue": {
+      "tts_engine": "edge-tts",
+      "voice": "zh-HK-WanLungNeural",
+      "audio_url": "https://pub-c03f3674ad6c4b8ea960ee176f0d19dc.r2.dev/audio/dev-user-001/04acc984-b561-4a38-a3c5-c00abbe68cf1/04acc984-b561-4a38-a3c5-c00abbe68cf1_yue.wav",
+      "audio_rel_path": "/audio/20260610T003152Z___04acc984-b561-4a38-a3c5-c00abbe68cf1_yue.wav",
+      "sentences": [
+        {
+          "text": "我想同你講下項目時間表嘅最新進展。",
+          "start_time": 0.0,
+          "end_time": 4.272,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 23.424000000000003,
+          "end_time": 23.424000000000003,
+          "language": "yue"
+        },
+        {
+          "text": "I'd like to share some updates on the project timeline.",
+          "start_time": 0.0,
+          "end_time": 4.272,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 23.424000000000003,
+          "end_time": 23.424000000000003,
+          "language": "yue"
+        },
+        {
+          "text": "你可唔可以詳細講下呢個點呀？我好似搵唔到頭緒。",
+          "start_time": 4.272,
+          "end_time": 10.224,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 23.424000000000003,
+          "end_time": 23.424000000000003,
+          "language": "yue"
+        },
+        {
+          "text": "Could you elaborate on that point? I'm not sure I follow.",
+          "start_time": 4.272,
+          "end_time": 10.224,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 23.424000000000003,
+          "end_time": 23.424000000000003,
+          "language": "yue"
+        },
+        {
+          "text": "我哋等下線講，之後再返嚟諗下啦。",
+          "start_time": 10.224,
+          "end_time": 14.472000000000001,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 23.424000000000003,
+          "end_time": 23.424000000000003,
+          "language": "yue"
+        },
+        {
+          "text": "Let's take this offline and circle back to it later.",
+          "start_time": 10.224,
+          "end_time": 14.472000000000001,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 23.424000000000003,
+          "end_time": 23.424000000000003,
+          "language": "yue"
+        },
+        {
+          "text": "我完全同意你呢個嘅做法。",
+          "start_time": 14.472000000000001,
+          "end_time": 17.520000000000003,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 23.424000000000003,
+          "end_time": 23.424000000000003,
+          "language": "yue"
+        },
+        {
+          "text": "I completely agree with your approach on this one.",
+          "start_time": 14.472000000000001,
+          "end_time": 17.520000000000003,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 23.424000000000003,
+          "end_time": 23.424000000000003,
+          "language": "yue"
+        },
+        {
+          "text": "淨係想講清楚下，我哋對下星期嘅交付成果有冇共識呀？",
+          "start_time": 17.520000000000003,
+          "end_time": 23.424000000000003,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 23.424000000000003,
+          "end_time": 23.424000000000003,
+          "language": "yue"
+        },
+        {
+          "text": "Just to clarify, are we aligned on the deliverables for next week?",
+          "start_time": 17.520000000000003,
+          "end_time": 23.424000000000003,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 23.424000000000003,
+          "end_time": 23.424000000000003,
+          "language": "yue"
+        }
+      ]
+    }
+  }
+}
