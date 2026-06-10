@@ -1,0 +1,113 @@
+{
+  "id": "fbb9367c-5063-46f4-b495-fb62ff3f7d31",
+  "title": "多謝你邀我參與呢個討論。",
+  "content_type": "paragraph",
+  "content_text": "多謝你邀我參與呢個討論。\n[Thanks for looping me in on this discussion.]\n我諗我哋諗同一樣，不過我等下再同隊友確認下啦。\n[I think we're on the same page, but let me double-check with the rest of the team.]\n唔好誤會我，我睇得出兩個選擇都有好處。\n[Don't get me wrong, I see the merit in both options.]\n總之，我哋要喺日尾之前做個決定。\n[Bottom line is, we need to make a decision by end of day.]",
+  "created_at": "2026-06-10T00:32:15.190526Z",
+  "language_versions": {
+    "yue": {
+      "tts_engine": "edge-tts",
+      "voice": "zh-HK-WanLungNeural",
+      "audio_url": "https://pub-c03f3674ad6c4b8ea960ee176f0d19dc.r2.dev/audio/dev-user-001/fbb9367c-5063-46f4-b495-fb62ff3f7d31/fbb9367c-5063-46f4-b495-fb62ff3f7d31_yue.wav",
+      "audio_rel_path": "/audio/20260610T003215Z___fbb9367c-5063-46f4-b495-fb62ff3f7d31_yue.wav",
+      "sentences": [
+        {
+          "text": "多謝你邀我參與呢個討論。",
+          "start_time": 0.0,
+          "end_time": 3.216,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 17.52,
+          "end_time": 17.52,
+          "language": "yue"
+        },
+        {
+          "text": "Thanks for looping me in on this discussion.",
+          "start_time": 0.0,
+          "end_time": 3.216,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 17.52,
+          "end_time": 17.52,
+          "language": "yue"
+        },
+        {
+          "text": "我諗我哋諗同一樣，不過我等下再同隊友確認下啦。",
+          "start_time": 3.216,
+          "end_time": 8.544,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 17.52,
+          "end_time": 17.52,
+          "language": "yue"
+        },
+        {
+          "text": "I think we're on the same page, but let me double-check with the rest of the team.",
+          "start_time": 3.216,
+          "end_time": 8.544,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 17.52,
+          "end_time": 17.52,
+          "language": "yue"
+        },
+        {
+          "text": "唔好誤會我，我睇得出兩個選擇都有好處。",
+          "start_time": 8.544,
+          "end_time": 13.32,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 17.52,
+          "end_time": 17.52,
+          "language": "yue"
+        },
+        {
+          "text": "Don't get me wrong, I see the merit in both options.",
+          "start_time": 8.544,
+          "end_time": 13.32,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 17.52,
+          "end_time": 17.52,
+          "language": "yue"
+        },
+        {
+          "text": "總之，我哋要喺日尾之前做個決定。",
+          "start_time": 13.32,
+          "end_time": 17.52,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 17.52,
+          "end_time": 17.52,
+          "language": "yue"
+        },
+        {
+          "text": "Bottom line is, we need to make a decision by end of day.",
+          "start_time": 13.32,
+          "end_time": 17.52,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 17.52,
+          "end_time": 17.52,
+          "language": "yue"
+        }
+      ]
+    }
+  }
+}
