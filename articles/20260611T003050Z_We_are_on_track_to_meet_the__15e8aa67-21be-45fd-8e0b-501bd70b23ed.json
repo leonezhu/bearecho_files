@@ -1,0 +1,77 @@
+{
+  "id": "15e8aa67-21be-45fd-8e0b-501bd70b23ed",
+  "title": "We are on track to meet the...",
+  "content_type": "paragraph",
+  "content_text": "We are on track to meet the Friday deadline, but it will be tight.\nI would not want to overpromise — there are still a few blockers we need to resolve.\nCould we get a quick sync tomorrow morning to align on the remaining tasks?\nI have already flagged the dependency issue to the client, so we should be covered on that front.\nOverall, I am cautiously optimistic, but we need to stay focused this week.",
+  "created_at": "2026-06-11T00:30:50.489343Z",
+  "language_versions": {
+    "sicuan": {
+      "tts_engine": "dui-tts",
+      "voice": "wqingf_csn",
+      "audio_url": "https://pub-c03f3674ad6c4b8ea960ee176f0d19dc.r2.dev/audio/dev-user-001/15e8aa67-21be-45fd-8e0b-501bd70b23ed/15e8aa67-21be-45fd-8e0b-501bd70b23ed_sicuan.wav",
+      "audio_rel_path": "/audio/20260611T003050Z_We_are_on_track_to_meet_the__15e8aa67-21be-45fd-8e0b-501bd70b23ed_sicuan.wav",
+      "sentences": [
+        {
+          "text": "We are on track to meet the Friday deadline, but it will be tight.",
+          "start_time": 0.0,
+          "end_time": 4.45,
+          "language": "sicuan"
+        },
+        {
+          "text": "\n",
+          "start_time": 26.5,
+          "end_time": 26.5,
+          "language": "sicuan"
+        },
+        {
+          "text": "I would not want to overpromise — there are still a few blockers we need to resolve.",
+          "start_time": 4.45,
+          "end_time": 10.05,
+          "language": "sicuan"
+        },
+        {
+          "text": "\n",
+          "start_time": 26.5,
+          "end_time": 26.5,
+          "language": "sicuan"
+        },
+        {
+          "text": "Could we get a quick sync tomorrow morning to align on the remaining tasks?",
+          "start_time": 10.05,
+          "end_time": 14.740000000000002,
+          "language": "sicuan"
+        },
+        {
+          "text": "\n",
+          "start_time": 26.5,
+          "end_time": 26.5,
+          "language": "sicuan"
+        },
+        {
+          "text": "I have already flagged the dependency issue to the client, so we should be covered on that front.",
+          "start_time": 14.740000000000002,
+          "end_time": 20.87,
+          "language": "sicuan"
+        },
+        {
+          "text": "\n",
+          "start_time": 26.5,
+          "end_time": 26.5,
+          "language": "sicuan"
+        },
+        {
+          "text": "Overall, I am cautiously optimistic, but we need to stay focused this week.",
+          "start_time": 20.87,
+          "end_time": 26.5,
+          "language": "sicuan"
+        },
+        {
+          "text": "\n",
+          "start_time": 26.5,
+          "end_time": 26.5,
+          "language": "sicuan"
+        }
+      ]
+    }
+  }
+}
