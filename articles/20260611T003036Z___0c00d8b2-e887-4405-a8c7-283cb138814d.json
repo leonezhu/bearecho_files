@@ -1,0 +1,137 @@
+{
+  "id": "0c00d8b2-e887-4405-a8c7-283cb138814d",
+  "title": "我哋正按計劃趕上星期五嘅截止日期，但會好緊張。",
+  "content_type": "paragraph",
+  "content_text": "我哋正按計劃趕上星期五嘅截止日期，但會好緊張。\n[We are on track to meet the Friday deadline, but it will be tight.]\n我唔想過度承諾——仲有幾樣阻礙要解決呢。\n[I would not want to overpromise — there are still a few blockers we need to resolve.]\n我哋明早可唔可以快啲同步下，好諗下仲有咩任務呀？\n[Could we get a quick sync tomorrow morning to align on the remaining tasks?]\n我已經向客戶反映咗依家嘅依賴問題，所以呢方面應該冇問題啦。\n[I have already flagged the dependency issue to the client, so we should be covered on that front.]\n總括嚟講，我係有點樂觀但又唔敢太樂觀，不過我哋今星期都要專心啲。\n[Overall, I am cautiously optimistic, but we need to stay focused this week.]",
+  "created_at": "2026-06-11T00:30:36.534808Z",
+  "language_versions": {
+    "yue": {
+      "tts_engine": "edge-tts",
+      "voice": "zh-HK-WanLungNeural",
+      "audio_url": "https://pub-c03f3674ad6c4b8ea960ee176f0d19dc.r2.dev/audio/dev-user-001/0c00d8b2-e887-4405-a8c7-283cb138814d/0c00d8b2-e887-4405-a8c7-283cb138814d_yue.wav",
+      "audio_rel_path": "/audio/20260611T003036Z___0c00d8b2-e887-4405-a8c7-283cb138814d_yue.wav",
+      "sentences": [
+        {
+          "text": "我哋正按計劃趕上星期五嘅截止日期，但會好緊張。",
+          "start_time": 0.0,
+          "end_time": 5.424,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 28.8,
+          "end_time": 28.8,
+          "language": "yue"
+        },
+        {
+          "text": "We are on track to meet the Friday deadline, but it will be tight.",
+          "start_time": 0.0,
+          "end_time": 5.424,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 28.8,
+          "end_time": 28.8,
+          "language": "yue"
+        },
+        {
+          "text": "我唔想過度承諾——仲有幾樣阻礙要解決呢。",
+          "start_time": 5.424,
+          "end_time": 9.864,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 28.8,
+          "end_time": 28.8,
+          "language": "yue"
+        },
+        {
+          "text": "I would not want to overpromise — there are still a few blockers we need to resolve.",
+          "start_time": 5.424,
+          "end_time": 9.864,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 28.8,
+          "end_time": 28.8,
+          "language": "yue"
+        },
+        {
+          "text": "我哋明早可唔可以快啲同步下，好諗下仲有咩任務呀？",
+          "start_time": 9.864,
+          "end_time": 15.240000000000002,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 28.8,
+          "end_time": 28.8,
+          "language": "yue"
+        },
+        {
+          "text": "Could we get a quick sync tomorrow morning to align on the remaining tasks?",
+          "start_time": 9.864,
+          "end_time": 15.240000000000002,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 28.8,
+          "end_time": 28.8,
+          "language": "yue"
+        },
+        {
+          "text": "我已經向客戶反映咗依家嘅依賴問題，所以呢方面應該冇問題啦。",
+          "start_time": 15.240000000000002,
+          "end_time": 21.504,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 28.8,
+          "end_time": 28.8,
+          "language": "yue"
+        },
+        {
+          "text": "I have already flagged the dependency issue to the client, so we should be covered on that front.",
+          "start_time": 15.240000000000002,
+          "end_time": 21.504,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 28.8,
+          "end_time": 28.8,
+          "language": "yue"
+        },
+        {
+          "text": "總括嚟講，我係有點樂觀但又唔敢太樂觀，不過我哋今星期都要專心啲。",
+          "start_time": 21.504,
+          "end_time": 28.8,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 28.8,
+          "end_time": 28.8,
+          "language": "yue"
+        },
+        {
+          "text": "Overall, I am cautiously optimistic, but we need to stay focused this week.",
+          "start_time": 21.504,
+          "end_time": 28.8,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 28.8,
+          "end_time": 28.8,
+          "language": "yue"
+        }
+      ]
+    }
+  }
+}
