@@ -1,0 +1,77 @@
+{
+  "id": "54589e86-7cf6-40b2-a2c7-7cb9324a779b",
+  "title": "I think we're on the right...",
+  "content_type": "paragraph",
+  "content_text": "I think we're on the right track with this proposal.\nTo be honest, I'm a bit concerned about the timeline — we might need to push the deadline back.\nLet's touch base after lunch and see where we stand.\nThat's a fair point, but I'd like to hear more about the alternative approach.\nI really appreciate you flagging this early — it saved us a lot of trouble.",
+  "created_at": "2026-06-13T00:31:42.673441Z",
+  "language_versions": {
+    "sicuan": {
+      "tts_engine": "dui-tts",
+      "voice": "wqingf_csn",
+      "audio_url": "https://pub-c03f3674ad6c4b8ea960ee176f0d19dc.r2.dev/audio/dev-user-001/54589e86-7cf6-40b2-a2c7-7cb9324a779b/54589e86-7cf6-40b2-a2c7-7cb9324a779b_sicuan.wav",
+      "audio_rel_path": "/audio/20260613T003142Z_I_think_we_re_on_the_right__54589e86-7cf6-40b2-a2c7-7cb9324a779b_sicuan.wav",
+      "sentences": [
+        {
+          "text": "I think we're on the right track with this proposal.",
+          "start_time": 0.0,
+          "end_time": 3.4,
+          "language": "sicuan"
+        },
+        {
+          "text": "\n",
+          "start_time": 23.75,
+          "end_time": 23.75,
+          "language": "sicuan"
+        },
+        {
+          "text": "To be honest, I'm a bit concerned about the timeline — we might need to push the deadline back.",
+          "start_time": 3.4,
+          "end_time": 9.81,
+          "language": "sicuan"
+        },
+        {
+          "text": "\n",
+          "start_time": 23.75,
+          "end_time": 23.75,
+          "language": "sicuan"
+        },
+        {
+          "text": "Let's touch base after lunch and see where we stand.",
+          "start_time": 9.81,
+          "end_time": 13.39,
+          "language": "sicuan"
+        },
+        {
+          "text": "\n",
+          "start_time": 23.75,
+          "end_time": 23.75,
+          "language": "sicuan"
+        },
+        {
+          "text": "That's a fair point, but I'd like to hear more about the alternative approach.",
+          "start_time": 13.39,
+          "end_time": 18.4,
+          "language": "sicuan"
+        },
+        {
+          "text": "\n",
+          "start_time": 23.75,
+          "end_time": 23.75,
+          "language": "sicuan"
+        },
+        {
+          "text": "I really appreciate you flagging this early — it saved us a lot of trouble.",
+          "start_time": 18.4,
+          "end_time": 23.75,
+          "language": "sicuan"
+        },
+        {
+          "text": "\n",
+          "start_time": 23.75,
+          "end_time": 23.75,
+          "language": "sicuan"
+        }
+      ]
+    }
+  }
+}
