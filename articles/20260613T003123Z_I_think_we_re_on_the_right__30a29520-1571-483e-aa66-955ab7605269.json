@@ -1,0 +1,77 @@
+{
+  "id": "30a29520-1571-483e-aa66-955ab7605269",
+  "title": "I think we're on the right...",
+  "content_type": "paragraph",
+  "content_text": "I think we're on the right track with this proposal.\nTo be honest, I'm a bit concerned about the timeline — we might need to push the deadline back.\nLet's touch base after lunch and see where we stand.\nThat's a fair point, but I'd like to hear more about the alternative approach.\nI really appreciate you flagging this early — it saved us a lot of trouble.",
+  "created_at": "2026-06-13T00:31:23.309194Z",
+  "language_versions": {
+    "en": {
+      "tts_engine": "edge-tts",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "audio_url": "https://pub-c03f3674ad6c4b8ea960ee176f0d19dc.r2.dev/audio/dev-user-001/30a29520-1571-483e-aa66-955ab7605269/30a29520-1571-483e-aa66-955ab7605269_en.wav",
+      "audio_rel_path": "/audio/20260613T003123Z_I_think_we_re_on_the_right__30a29520-1571-483e-aa66-955ab7605269_en.wav",
+      "sentences": [
+        {
+          "text": "I think we're on the right track with this proposal.",
+          "start_time": 0.0,
+          "end_time": 2.592,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 19.704,
+          "end_time": 19.704,
+          "language": "en"
+        },
+        {
+          "text": "To be honest, I'm a bit concerned about the timeline — we might need to push the deadline back.",
+          "start_time": 2.592,
+          "end_time": 7.68,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 19.704,
+          "end_time": 19.704,
+          "language": "en"
+        },
+        {
+          "text": "Let's touch base after lunch and see where we stand.",
+          "start_time": 7.68,
+          "end_time": 10.896,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 19.704,
+          "end_time": 19.704,
+          "language": "en"
+        },
+        {
+          "text": "That's a fair point, but I'd like to hear more about the alternative approach.",
+          "start_time": 10.896,
+          "end_time": 15.288,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 19.704,
+          "end_time": 19.704,
+          "language": "en"
+        },
+        {
+          "text": "I really appreciate you flagging this early — it saved us a lot of trouble.",
+          "start_time": 15.288,
+          "end_time": 19.704,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 19.704,
+          "end_time": 19.704,
+          "language": "en"
+        }
+      ]
+    }
+  }
+}
