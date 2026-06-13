@@ -1,0 +1,137 @@
+{
+  "id": "da9251e5-8073-4318-a88a-8f5da093b8be",
+  "title": "我覺得呢個提案係喺對嘅軌道上。",
+  "content_type": "paragraph",
+  "content_text": "我覺得呢個提案係喺對嘅軌道上。\n[I think we're on the right track with this proposal.]\n老實講，我對時間表有啲擔心——我哋可能要將截止日期推遲。\n[To be honest, I'm a bit concerned about the timeline — we might need to push the deadline back.]\n食完午餐我哋再聯絡下，睇下我哋啲情況。\n[Let's touch base after lunch and see where we stand.]\n呢個講法有道理，但我好想多聽下其他方法。\n[That's a fair point, but I'd like to hear more about the alternative approach.]\n我真係好感激你早早就提醒咗我——幫我哋省咗好多麻煩。\n[I really appreciate you flagging this early — it saved us a lot of trouble.]",
+  "created_at": "2026-06-13T00:31:33.539308Z",
+  "language_versions": {
+    "yue": {
+      "tts_engine": "edge-tts",
+      "voice": "zh-HK-WanLungNeural",
+      "audio_url": "https://pub-c03f3674ad6c4b8ea960ee176f0d19dc.r2.dev/audio/dev-user-001/da9251e5-8073-4318-a88a-8f5da093b8be/da9251e5-8073-4318-a88a-8f5da093b8be_yue.wav",
+      "audio_rel_path": "/audio/20260613T003133Z___da9251e5-8073-4318-a88a-8f5da093b8be_yue.wav",
+      "sentences": [
+        {
+          "text": "我覺得呢個提案係喺對嘅軌道上。",
+          "start_time": 0.0,
+          "end_time": 3.768,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 25.32,
+          "end_time": 25.32,
+          "language": "yue"
+        },
+        {
+          "text": "I think we're on the right track with this proposal.",
+          "start_time": 0.0,
+          "end_time": 3.768,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 25.32,
+          "end_time": 25.32,
+          "language": "yue"
+        },
+        {
+          "text": "老實講，我對時間表有啲擔心——我哋可能要將截止日期推遲。",
+          "start_time": 3.768,
+          "end_time": 10.176,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 25.32,
+          "end_time": 25.32,
+          "language": "yue"
+        },
+        {
+          "text": "To be honest, I'm a bit concerned about the timeline — we might need to push the deadline back.",
+          "start_time": 3.768,
+          "end_time": 10.176,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 25.32,
+          "end_time": 25.32,
+          "language": "yue"
+        },
+        {
+          "text": "食完午餐我哋再聯絡下，睇下我哋啲情況。",
+          "start_time": 10.176,
+          "end_time": 14.856,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 25.32,
+          "end_time": 25.32,
+          "language": "yue"
+        },
+        {
+          "text": "Let's touch base after lunch and see where we stand.",
+          "start_time": 10.176,
+          "end_time": 14.856,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 25.32,
+          "end_time": 25.32,
+          "language": "yue"
+        },
+        {
+          "text": "呢個講法有道理，但我好想多聽下其他方法。",
+          "start_time": 14.856,
+          "end_time": 19.656,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 25.32,
+          "end_time": 25.32,
+          "language": "yue"
+        },
+        {
+          "text": "That's a fair point, but I'd like to hear more about the alternative approach.",
+          "start_time": 14.856,
+          "end_time": 19.656,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 25.32,
+          "end_time": 25.32,
+          "language": "yue"
+        },
+        {
+          "text": "我真係好感激你早早就提醒咗我——幫我哋省咗好多麻煩。",
+          "start_time": 19.656,
+          "end_time": 25.32,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 25.32,
+          "end_time": 25.32,
+          "language": "yue"
+        },
+        {
+          "text": "I really appreciate you flagging this early — it saved us a lot of trouble.",
+          "start_time": 19.656,
+          "end_time": 25.32,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 25.32,
+          "end_time": 25.32,
+          "language": "yue"
+        }
+      ]
+    }
+  }
+}
