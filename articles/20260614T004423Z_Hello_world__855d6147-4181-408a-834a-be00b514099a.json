@@ -1,0 +1,41 @@
+{
+  "id": "855d6147-4181-408a-834a-be00b514099a",
+  "title": "Hello world.",
+  "content_type": "paragraph",
+  "content_text": "Hello world.\nHow are you today?",
+  "created_at": "2026-06-14T00:44:23.265590Z",
+  "language_versions": {
+    "en": {
+      "tts_engine": "edge-tts",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "audio_url": "https://pub-c03f3674ad6c4b8ea960ee176f0d19dc.r2.dev/audio/dev-user-001/855d6147-4181-408a-834a-be00b514099a/855d6147-4181-408a-834a-be00b514099a_en.wav",
+      "audio_rel_path": "/audio/20260614T004423Z_Hello_world__855d6147-4181-408a-834a-be00b514099a_en.wav",
+      "sentences": [
+        {
+          "text": "Hello world.",
+          "start_time": 0.0,
+          "end_time": 1.2,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 2.328,
+          "end_time": 2.328,
+          "language": "en"
+        },
+        {
+          "text": "How are you today?",
+          "start_time": 1.2,
+          "end_time": 2.328,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 2.328,
+          "end_time": 2.328,
+          "language": "en"
+        }
+      ]
+    }
+  }
+}
