@@ -1,0 +1,65 @@
+{
+  "id": "822429e0-8f3b-4593-99d8-e49522e85b76",
+  "title": "你好世界。",
+  "content_type": "paragraph",
+  "content_text": "你好世界。\n[Hello world.]\n你今日點呀？\n[How are you today?]",
+  "created_at": "2026-06-14T00:44:31.779063Z",
+  "language_versions": {
+    "yue": {
+      "tts_engine": "edge-tts",
+      "voice": "zh-HK-WanLungNeural",
+      "audio_url": "https://pub-c03f3674ad6c4b8ea960ee176f0d19dc.r2.dev/audio/dev-user-001/822429e0-8f3b-4593-99d8-e49522e85b76/822429e0-8f3b-4593-99d8-e49522e85b76_yue.wav",
+      "audio_rel_path": "/audio/20260614T004431Z___822429e0-8f3b-4593-99d8-e49522e85b76_yue.wav",
+      "sentences": [
+        {
+          "text": "你好世界。",
+          "start_time": 0.0,
+          "end_time": 2.04,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 4.056,
+          "end_time": 4.056,
+          "language": "yue"
+        },
+        {
+          "text": "Hello world.",
+          "start_time": 0.0,
+          "end_time": 2.04,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 4.056,
+          "end_time": 4.056,
+          "language": "yue"
+        },
+        {
+          "text": "你今日點呀？",
+          "start_time": 2.04,
+          "end_time": 4.056,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 4.056,
+          "end_time": 4.056,
+          "language": "yue"
+        },
+        {
+          "text": "How are you today?",
+          "start_time": 2.04,
+          "end_time": 4.056,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 4.056,
+          "end_time": 4.056,
+          "language": "yue"
+        }
+      ]
+    }
+  }
+}
