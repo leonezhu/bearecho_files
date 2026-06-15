@@ -1,0 +1,65 @@
+{
+  "id": "49b4a05a-c867-484a-b665-0ba5b0005a31",
+  "title": "I'm pleased to report that...",
+  "content_type": "paragraph",
+  "content_text": "I'm pleased to report that we're ahead of schedule on the Q3 deliverables.\nThat said, the integration testing phase is taking longer than expected, so we may need to allocate additional resources.\nHonestly, I'm a bit concerned about the dependency on the third-party API — any delay there will cascade.\nLet's sync tomorrow morning to reassess the timeline and decide whether to escalate or adjust the scope.",
+  "created_at": "2026-06-15T00:37:32.885876Z",
+  "language_versions": {
+    "en": {
+      "tts_engine": "edge-tts",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "audio_url": "https://pub-c03f3674ad6c4b8ea960ee176f0d19dc.r2.dev/audio/dev-user-001/49b4a05a-c867-484a-b665-0ba5b0005a31/49b4a05a-c867-484a-b665-0ba5b0005a31_en.wav",
+      "audio_rel_path": "/audio/20260615T003732Z_I_m_pleased_to_report_that__49b4a05a-c867-484a-b665-0ba5b0005a31_en.wav",
+      "sentences": [
+        {
+          "text": "I'm pleased to report that we're ahead of schedule on the Q3 deliverables.",
+          "start_time": 0.0,
+          "end_time": 4.536,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 25.56,
+          "end_time": 25.56,
+          "language": "en"
+        },
+        {
+          "text": "That said, the integration testing phase is taking longer than expected, so we may need to allocate additional resources.",
+          "start_time": 4.536,
+          "end_time": 12.504,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 25.56,
+          "end_time": 25.56,
+          "language": "en"
+        },
+        {
+          "text": "Honestly, I'm a bit concerned about the dependency on the third-party API — any delay there will cascade.",
+          "start_time": 12.504,
+          "end_time": 19.247999999999998,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 25.56,
+          "end_time": 25.56,
+          "language": "en"
+        },
+        {
+          "text": "Let's sync tomorrow morning to reassess the timeline and decide whether to escalate or adjust the scope.",
+          "start_time": 19.247999999999998,
+          "end_time": 25.56,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 25.56,
+          "end_time": 25.56,
+          "language": "en"
+        }
+      ]
+    }
+  }
+}
