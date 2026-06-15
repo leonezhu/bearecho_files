@@ -1,0 +1,113 @@
+{
+  "id": "aa979a4d-88b2-4dd6-a511-a77383cde444",
+  "title": "高兴地跟你说哈，我们第三季度的活儿，进度比预想的要快。",
+  "content_type": "paragraph",
+  "content_text": "高兴地跟你说哈，我们第三季度的活儿，进度比预想的要快。\n[I'm pleased to report that we're ahead of schedule on the Q3 deliverables.]\n不过话说回来，集成测试那一段比预想的要久，搞得好慢，那可能要再加点人手。\n[That said, the integration testing phase is taking longer than expected, so we may need to allocate additional resources.]\n说句实话，我对这个第三方接口有点担心，只要那里一慢，后面肯定是一环扣一环的。\n[Honestly, I'm a bit concerned about the dependency on the third-party API — any delay there will cascade.]\n明天早早上碰个头，把进度再盘一盘，看是找上面还是要改范围。\n[Let's sync tomorrow morning to reassess the timeline and decide whether to escalate or adjust the scope.]",
+  "created_at": "2026-06-15T00:38:00.075495Z",
+  "language_versions": {
+    "sicuan": {
+      "tts_engine": "dui-tts",
+      "voice": "wqingf_csn",
+      "audio_url": "https://pub-c03f3674ad6c4b8ea960ee176f0d19dc.r2.dev/audio/dev-user-001/aa979a4d-88b2-4dd6-a511-a77383cde444/aa979a4d-88b2-4dd6-a511-a77383cde444_sicuan.wav",
+      "audio_rel_path": "/audio/20260615T003800Z___aa979a4d-88b2-4dd6-a511-a77383cde444_sicuan.wav",
+      "sentences": [
+        {
+          "text": "高兴地跟你说哈，我们第三季度的活儿，进度比预想的要快。",
+          "start_time": 0.0,
+          "end_time": 5.42,
+          "language": "sicuan"
+        },
+        {
+          "text": "\n",
+          "start_time": 27.790000000000003,
+          "end_time": 27.790000000000003,
+          "language": "sicuan"
+        },
+        {
+          "text": "I'm pleased to report that we're ahead of schedule on the Q3 deliverables.",
+          "start_time": 0.0,
+          "end_time": 5.42,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 27.790000000000003,
+          "end_time": 27.790000000000003,
+          "language": "sicuan"
+        },
+        {
+          "text": "不过话说回来，集成测试那一段比预想的要久，搞得好慢，那可能要再加点人手。",
+          "start_time": 5.42,
+          "end_time": 12.98,
+          "language": "sicuan"
+        },
+        {
+          "text": "\n",
+          "start_time": 27.790000000000003,
+          "end_time": 27.790000000000003,
+          "language": "sicuan"
+        },
+        {
+          "text": "That said, the integration testing phase is taking longer than expected, so we may need to allocate additional resources.",
+          "start_time": 5.42,
+          "end_time": 12.98,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 27.790000000000003,
+          "end_time": 27.790000000000003,
+          "language": "sicuan"
+        },
+        {
+          "text": "说句实话，我对这个第三方接口有点担心，只要那里一慢，后面肯定是一环扣一环的。",
+          "start_time": 12.98,
+          "end_time": 21.380000000000003,
+          "language": "sicuan"
+        },
+        {
+          "text": "\n",
+          "start_time": 27.790000000000003,
+          "end_time": 27.790000000000003,
+          "language": "sicuan"
+        },
+        {
+          "text": "Honestly, I'm a bit concerned about the dependency on the third-party API — any delay there will cascade.",
+          "start_time": 12.98,
+          "end_time": 21.380000000000003,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 27.790000000000003,
+          "end_time": 27.790000000000003,
+          "language": "sicuan"
+        },
+        {
+          "text": "明天早早上碰个头，把进度再盘一盘，看是找上面还是要改范围。",
+          "start_time": 21.380000000000003,
+          "end_time": 27.790000000000003,
+          "language": "sicuan"
+        },
+        {
+          "text": "\n",
+          "start_time": 27.790000000000003,
+          "end_time": 27.790000000000003,
+          "language": "sicuan"
+        },
+        {
+          "text": "Let's sync tomorrow morning to reassess the timeline and decide whether to escalate or adjust the scope.",
+          "start_time": 21.380000000000003,
+          "end_time": 27.790000000000003,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 27.790000000000003,
+          "end_time": 27.790000000000003,
+          "language": "sicuan"
+        }
+      ]
+    }
+  }
+}
