@@ -1,0 +1,113 @@
+{
+  "id": "99739dd6-3c41-4bca-ac97-0aefbddc857e",
+  "title": "我高兴地跟你说哈，我们第三季度的活儿搞得比计划还早。",
+  "content_type": "paragraph",
+  "content_text": "我高兴地跟你说哈，我们第三季度的活儿搞得比计划还早。\n[I'm pleased to report that we're ahead of schedule on the Q3 deliverables.]\n不过话说回来，联调阶段比预想的要拖得久，可能得加人手。\n[That said, the integration testing phase is taking longer than expected, so we may need to allocate additional resources.]\n说句实在话，我还是有点不放心，毕竟太依赖那个第三方接口了，要是它慢了，就会一环扣一环，搞出大乱子。\n[Honestly, I'm a bit concerned about the dependency on the third-party API — any delay there will cascade.]\n明天早上我们约个时间碰一哈，盘算一下时间表，看是往上推还是改一下计划。\n[Let's sync tomorrow morning to reassess the timeline and decide whether to escalate or adjust the scope.]",
+  "created_at": "2026-06-15T00:42:27.957879Z",
+  "language_versions": {
+    "sicuan": {
+      "tts_engine": "dui-tts",
+      "voice": "wqingf_csn",
+      "audio_url": "https://pub-c03f3674ad6c4b8ea960ee176f0d19dc.r2.dev/audio/dev-user-001/99739dd6-3c41-4bca-ac97-0aefbddc857e/99739dd6-3c41-4bca-ac97-0aefbddc857e_sicuan.wav",
+      "audio_rel_path": "/audio/20260615T004227Z___99739dd6-3c41-4bca-ac97-0aefbddc857e_sicuan.wav",
+      "sentences": [
+        {
+          "text": "我高兴地跟你说哈，我们第三季度的活儿搞得比计划还早。",
+          "start_time": 0.0,
+          "end_time": 5.08,
+          "language": "sicuan"
+        },
+        {
+          "text": "\n",
+          "start_time": 28.94,
+          "end_time": 28.94,
+          "language": "sicuan"
+        },
+        {
+          "text": "I'm pleased to report that we're ahead of schedule on the Q3 deliverables.",
+          "start_time": 0.0,
+          "end_time": 5.08,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 28.94,
+          "end_time": 28.94,
+          "language": "sicuan"
+        },
+        {
+          "text": "不过话说回来，联调阶段比预想的要拖得久，可能得加人手。",
+          "start_time": 5.08,
+          "end_time": 10.77,
+          "language": "sicuan"
+        },
+        {
+          "text": "\n",
+          "start_time": 28.94,
+          "end_time": 28.94,
+          "language": "sicuan"
+        },
+        {
+          "text": "That said, the integration testing phase is taking longer than expected, so we may need to allocate additional resources.",
+          "start_time": 5.08,
+          "end_time": 10.77,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 28.94,
+          "end_time": 28.94,
+          "language": "sicuan"
+        },
+        {
+          "text": "说句实在话，我还是有点不放心，毕竟太依赖那个第三方接口了，要是它慢了，就会一环扣一环，搞出大乱子。",
+          "start_time": 10.77,
+          "end_time": 21.42,
+          "language": "sicuan"
+        },
+        {
+          "text": "\n",
+          "start_time": 28.94,
+          "end_time": 28.94,
+          "language": "sicuan"
+        },
+        {
+          "text": "Honestly, I'm a bit concerned about the dependency on the third-party API — any delay there will cascade.",
+          "start_time": 10.77,
+          "end_time": 21.42,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 28.94,
+          "end_time": 28.94,
+          "language": "sicuan"
+        },
+        {
+          "text": "明天早上我们约个时间碰一哈，盘算一下时间表，看是往上推还是改一下计划。",
+          "start_time": 21.42,
+          "end_time": 28.94,
+          "language": "sicuan"
+        },
+        {
+          "text": "\n",
+          "start_time": 28.94,
+          "end_time": 28.94,
+          "language": "sicuan"
+        },
+        {
+          "text": "Let's sync tomorrow morning to reassess the timeline and decide whether to escalate or adjust the scope.",
+          "start_time": 21.42,
+          "end_time": 28.94,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 28.94,
+          "end_time": 28.94,
+          "language": "sicuan"
+        }
+      ]
+    }
+  }
+}
