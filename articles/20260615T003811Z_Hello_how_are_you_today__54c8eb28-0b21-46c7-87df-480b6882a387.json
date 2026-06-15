@@ -1,0 +1,29 @@
+{
+  "id": "54c8eb28-0b21-46c7-87df-480b6882a387",
+  "title": "Hello, how are you today?",
+  "content_type": "paragraph",
+  "content_text": "Hello, how are you today?",
+  "created_at": "2026-06-15T00:38:11.188673Z",
+  "language_versions": {
+    "en": {
+      "tts_engine": "edge-tts",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "audio_url": "https://pub-c03f3674ad6c4b8ea960ee176f0d19dc.r2.dev/audio/dev-user-001/54c8eb28-0b21-46c7-87df-480b6882a387/54c8eb28-0b21-46c7-87df-480b6882a387_en.wav",
+      "audio_rel_path": "/audio/20260615T003811Z_Hello_how_are_you_today__54c8eb28-0b21-46c7-87df-480b6882a387_en.wav",
+      "sentences": [
+        {
+          "text": "Hello, how are you today?",
+          "start_time": 0.0,
+          "end_time": 1.512,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 1.512,
+          "end_time": 1.512,
+          "language": "en"
+        }
+      ]
+    }
+  }
+}
