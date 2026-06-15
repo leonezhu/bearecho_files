@@ -1,0 +1,113 @@
+{
+  "id": "4f07c5ec-2ab9-4672-9a23-8e7ea3efae81",
+  "title": "我好開心咁話，我哋Q3嘅交付項目已經提前完成。",
+  "content_type": "paragraph",
+  "content_text": "我好開心咁話，我哋Q3嘅交付項目已經提前完成。\n[I'm pleased to report that we're ahead of schedule on the Q3 deliverables.]\n話雖如此，整合測試階段所花時間比預期長，所以我哋可能需要調配額外資源。\n[That said, the integration testing phase is taking longer than expected, so we may need to allocate additional resources.]\n老實講，我對依賴第三方 API 有點擔心——佢一旦有延遲，就會引發連鎖反應。\n[Honestly, I'm a bit concerned about the dependency on the third-party API — any delay there will cascade.]\n我哋明日朝早傾吓，重新評估時間表，同埋決定係唔係要升級處理或者調整範圍。\n[Let's sync tomorrow morning to reassess the timeline and decide whether to escalate or adjust the scope.]",
+  "created_at": "2026-06-15T00:42:18.213431Z",
+  "language_versions": {
+    "yue": {
+      "tts_engine": "edge-tts",
+      "voice": "zh-HK-WanLungNeural",
+      "audio_url": "https://pub-c03f3674ad6c4b8ea960ee176f0d19dc.r2.dev/audio/dev-user-001/4f07c5ec-2ab9-4672-9a23-8e7ea3efae81/4f07c5ec-2ab9-4672-9a23-8e7ea3efae81_yue.wav",
+      "audio_rel_path": "/audio/20260615T004218Z__Q3__4f07c5ec-2ab9-4672-9a23-8e7ea3efae81_yue.wav",
+      "sentences": [
+        {
+          "text": "我好開心咁話，我哋Q3嘅交付項目已經提前完成。",
+          "start_time": 0.0,
+          "end_time": 5.52,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 28.824,
+          "end_time": 28.824,
+          "language": "yue"
+        },
+        {
+          "text": "I'm pleased to report that we're ahead of schedule on the Q3 deliverables.",
+          "start_time": 0.0,
+          "end_time": 5.52,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 28.824,
+          "end_time": 28.824,
+          "language": "yue"
+        },
+        {
+          "text": "話雖如此，整合測試階段所花時間比預期長，所以我哋可能需要調配額外資源。",
+          "start_time": 5.52,
+          "end_time": 13.488,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 28.824,
+          "end_time": 28.824,
+          "language": "yue"
+        },
+        {
+          "text": "That said, the integration testing phase is taking longer than expected, so we may need to allocate additional resources.",
+          "start_time": 5.52,
+          "end_time": 13.488,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 28.824,
+          "end_time": 28.824,
+          "language": "yue"
+        },
+        {
+          "text": "老實講，我對依賴第三方 API 有點擔心——佢一旦有延遲，就會引發連鎖反應。",
+          "start_time": 13.488,
+          "end_time": 21.024,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 28.824,
+          "end_time": 28.824,
+          "language": "yue"
+        },
+        {
+          "text": "Honestly, I'm a bit concerned about the dependency on the third-party API — any delay there will cascade.",
+          "start_time": 13.488,
+          "end_time": 21.024,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 28.824,
+          "end_time": 28.824,
+          "language": "yue"
+        },
+        {
+          "text": "我哋明日朝早傾吓，重新評估時間表，同埋決定係唔係要升級處理或者調整範圍。",
+          "start_time": 21.024,
+          "end_time": 28.824,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 28.824,
+          "end_time": 28.824,
+          "language": "yue"
+        },
+        {
+          "text": "Let's sync tomorrow morning to reassess the timeline and decide whether to escalate or adjust the scope.",
+          "start_time": 21.024,
+          "end_time": 28.824,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 28.824,
+          "end_time": 28.824,
+          "language": "yue"
+        }
+      ]
+    }
+  }
+}
