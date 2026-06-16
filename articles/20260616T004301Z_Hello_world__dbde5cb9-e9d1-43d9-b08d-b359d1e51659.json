@@ -1,0 +1,29 @@
+{
+  "id": "dbde5cb9-e9d1-43d9-b08d-b359d1e51659",
+  "title": "Hello world.",
+  "content_type": "paragraph",
+  "content_text": "Hello world.",
+  "created_at": "2026-06-16T00:43:01.503222Z",
+  "language_versions": {
+    "en": {
+      "tts_engine": "edge-tts",
+      "voice": "en-US-AvaMultilingualNeural",
+      "audio_url": "https://pub-c03f3674ad6c4b8ea960ee176f0d19dc.r2.dev/audio/dev-user-001/dbde5cb9-e9d1-43d9-b08d-b359d1e51659/dbde5cb9-e9d1-43d9-b08d-b359d1e51659_en.wav",
+      "audio_rel_path": "/audio/20260616T004301Z_Hello_world__dbde5cb9-e9d1-43d9-b08d-b359d1e51659_en.wav",
+      "sentences": [
+        {
+          "text": "Hello world.",
+          "start_time": 0.0,
+          "end_time": 1.32,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 1.32,
+          "end_time": 1.32,
+          "language": "en"
+        }
+      ]
+    }
+  }
+}
