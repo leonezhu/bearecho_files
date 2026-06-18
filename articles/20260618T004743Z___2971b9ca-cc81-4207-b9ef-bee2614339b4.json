@@ -1,0 +1,137 @@
+{
+  "id": "2971b9ca-cc81-4207-b9ef-bee2614339b4",
+  "title": "我们先把那个冲刺计划会搞起嘛，看哈我们最要紧的事情。",
+  "content_type": "paragraph",
+  "content_text": "我们先把那个冲刺计划会搞起嘛，看哈我们最要紧的事情。\n[Let's kick off the sprint planning session and review our top priorities.]\n我觉得我们这个季度的进度稳得很，特别是有了那个新的自动化流水线。\n[I'm feeling pretty confident about our velocity this quarter, especially with the new automation pipeline.]\n话说回来，QA那边人手还是不够，我晓得要出岔子，上线时间可能要拖。\n[That said, we're still short-staffed on the QA side, and I worry the release timeline might slip.]\n说句公道话，客户这阵儿还算好说话，不过我们还是要早点把风险摆出来。\n[To be fair, the client has been flexible so far, but we should flag any risks early.]\n明天早上我们约个时间碰一下哈，把那个任务清单搞定，再把责任分一下。\n[Let's sync tomorrow morning to finalize the backlog and assign owners.]",
+  "created_at": "2026-06-18T00:47:43.729737Z",
+  "language_versions": {
+    "sicuan": {
+      "tts_engine": "dui-tts",
+      "voice": "wqingf_csn",
+      "audio_url": "https://pub-c03f3674ad6c4b8ea960ee176f0d19dc.r2.dev/audio/dev-user-001/2971b9ca-cc81-4207-b9ef-bee2614339b4/2971b9ca-cc81-4207-b9ef-bee2614339b4_sicuan.wav",
+      "audio_rel_path": "/audio/20260618T004743Z___2971b9ca-cc81-4207-b9ef-bee2614339b4_sicuan.wav",
+      "sentences": [
+        {
+          "text": "我们先把那个冲刺计划会搞起嘛，看哈我们最要紧的事情。",
+          "start_time": 0.0,
+          "end_time": 5.49,
+          "language": "sicuan"
+        },
+        {
+          "text": "\n",
+          "start_time": 33.99,
+          "end_time": 33.99,
+          "language": "sicuan"
+        },
+        {
+          "text": "Let's kick off the sprint planning session and review our top priorities.",
+          "start_time": 0.0,
+          "end_time": 5.49,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 33.99,
+          "end_time": 33.99,
+          "language": "sicuan"
+        },
+        {
+          "text": "我觉得我们这个季度的进度稳得很，特别是有了那个新的自动化流水线。",
+          "start_time": 5.49,
+          "end_time": 12.3,
+          "language": "sicuan"
+        },
+        {
+          "text": "\n",
+          "start_time": 33.99,
+          "end_time": 33.99,
+          "language": "sicuan"
+        },
+        {
+          "text": "I'm feeling pretty confident about our velocity this quarter, especially with the new automation pipeline.",
+          "start_time": 5.49,
+          "end_time": 12.3,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 33.99,
+          "end_time": 33.99,
+          "language": "sicuan"
+        },
+        {
+          "text": "话说回来，QA那边人手还是不够，我晓得要出岔子，上线时间可能要拖。",
+          "start_time": 12.3,
+          "end_time": 19.55,
+          "language": "sicuan"
+        },
+        {
+          "text": "\n",
+          "start_time": 33.99,
+          "end_time": 33.99,
+          "language": "sicuan"
+        },
+        {
+          "text": "That said, we're still short-staffed on the QA side, and I worry the release timeline might slip.",
+          "start_time": 12.3,
+          "end_time": 19.55,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 33.99,
+          "end_time": 33.99,
+          "language": "sicuan"
+        },
+        {
+          "text": "说句公道话，客户这阵儿还算好说话，不过我们还是要早点把风险摆出来。",
+          "start_time": 19.55,
+          "end_time": 26.75,
+          "language": "sicuan"
+        },
+        {
+          "text": "\n",
+          "start_time": 33.99,
+          "end_time": 33.99,
+          "language": "sicuan"
+        },
+        {
+          "text": "To be fair, the client has been flexible so far, but we should flag any risks early.",
+          "start_time": 19.55,
+          "end_time": 26.75,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 33.99,
+          "end_time": 33.99,
+          "language": "sicuan"
+        },
+        {
+          "text": "明天早上我们约个时间碰一下哈，把那个任务清单搞定，再把责任分一下。",
+          "start_time": 26.75,
+          "end_time": 33.99,
+          "language": "sicuan"
+        },
+        {
+          "text": "\n",
+          "start_time": 33.99,
+          "end_time": 33.99,
+          "language": "sicuan"
+        },
+        {
+          "text": "Let's sync tomorrow morning to finalize the backlog and assign owners.",
+          "start_time": 26.75,
+          "end_time": 33.99,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 33.99,
+          "end_time": 33.99,
+          "language": "sicuan"
+        }
+      ]
+    }
+  }
+}
