@@ -1,0 +1,137 @@
+{
+  "id": "f67e6e5a-a3d5-40d7-ac05-b40a40b43b23",
+  "title": "我哋開始進行 Sprint...",
+  "content_type": "paragraph",
+  "content_text": "我哋開始進行 Sprint 規劃會議，一齊覆檢我哋嘅首要優先事項。\n[Let's kick off the sprint planning session and review our top priorities.]\n我對我哋本季度嘅開發速度好有信心，特別係有新嘅自動化流水線支援。\n[I'm feeling pretty confident about our velocity this quarter, especially with the new automation pipeline.]\n不過，我哋QA方面仍然人手不足，我擔心發佈時間表可能會延遲。\n[That said, we're still short-staffed on the QA side, and I worry the release timeline might slip.]\n講真，客戶一直好通融，但我哋應該早啲提出任何潛在風險。\n[To be fair, the client has been flexible so far, but we should flag any risks early.]\n我哋朝早傾吓，搞掂 backlog 同埋分派負責人。\n[Let's sync tomorrow morning to finalize the backlog and assign owners.]",
+  "created_at": "2026-06-18T00:47:27.241262Z",
+  "language_versions": {
+    "yue": {
+      "tts_engine": "edge-tts",
+      "voice": "zh-HK-WanLungNeural",
+      "audio_url": "https://pub-c03f3674ad6c4b8ea960ee176f0d19dc.r2.dev/audio/dev-user-001/f67e6e5a-a3d5-40d7-ac05-b40a40b43b23/f67e6e5a-a3d5-40d7-ac05-b40a40b43b23_yue.wav",
+      "audio_rel_path": "/audio/20260618T004727Z__Sprint__f67e6e5a-a3d5-40d7-ac05-b40a40b43b23_yue.wav",
+      "sentences": [
+        {
+          "text": "我哋開始進行 Sprint 規劃會議，一齊覆檢我哋嘅首要優先事項。",
+          "start_time": 0.0,
+          "end_time": 6.192,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 30.936,
+          "end_time": 30.936,
+          "language": "yue"
+        },
+        {
+          "text": "Let's kick off the sprint planning session and review our top priorities.",
+          "start_time": 0.0,
+          "end_time": 6.192,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 30.936,
+          "end_time": 30.936,
+          "language": "yue"
+        },
+        {
+          "text": "我對我哋本季度嘅開發速度好有信心，特別係有新嘅自動化流水線支援。",
+          "start_time": 6.192,
+          "end_time": 13.2,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 30.936,
+          "end_time": 30.936,
+          "language": "yue"
+        },
+        {
+          "text": "I'm feeling pretty confident about our velocity this quarter, especially with the new automation pipeline.",
+          "start_time": 6.192,
+          "end_time": 13.2,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 30.936,
+          "end_time": 30.936,
+          "language": "yue"
+        },
+        {
+          "text": "不過，我哋QA方面仍然人手不足，我擔心發佈時間表可能會延遲。",
+          "start_time": 13.2,
+          "end_time": 19.776,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 30.936,
+          "end_time": 30.936,
+          "language": "yue"
+        },
+        {
+          "text": "That said, we're still short-staffed on the QA side, and I worry the release timeline might slip.",
+          "start_time": 13.2,
+          "end_time": 19.776,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 30.936,
+          "end_time": 30.936,
+          "language": "yue"
+        },
+        {
+          "text": "講真，客戶一直好通融，但我哋應該早啲提出任何潛在風險。",
+          "start_time": 19.776,
+          "end_time": 25.944,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 30.936,
+          "end_time": 30.936,
+          "language": "yue"
+        },
+        {
+          "text": "To be fair, the client has been flexible so far, but we should flag any risks early.",
+          "start_time": 19.776,
+          "end_time": 25.944,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 30.936,
+          "end_time": 30.936,
+          "language": "yue"
+        },
+        {
+          "text": "我哋朝早傾吓，搞掂 backlog 同埋分派負責人。",
+          "start_time": 25.944,
+          "end_time": 30.936,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 30.936,
+          "end_time": 30.936,
+          "language": "yue"
+        },
+        {
+          "text": "Let's sync tomorrow morning to finalize the backlog and assign owners.",
+          "start_time": 25.944,
+          "end_time": 30.936,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 30.936,
+          "end_time": 30.936,
+          "language": "yue"
+        }
+      ]
+    }
+  }
+}
