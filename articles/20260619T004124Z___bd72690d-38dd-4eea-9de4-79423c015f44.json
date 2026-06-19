@@ -1,0 +1,137 @@
+{
+  "id": "bd72690d-38dd-4eea-9de4-79423c015f44",
+  "title": "我哋按照計劃進行，預計星期五可以交付新嘅儀表板，團隊對...",
+  "content_type": "paragraph",
+  "content_text": "我哋按照計劃進行，預計星期五可以交付新嘅儀表板，團隊對目前嘅進度都幾有信心。\n[We're on track to deliver the new dashboard by Friday, and the team is feeling good about the progress.]\n不過，我想提示一個潛在風險——第三方 API 一直不穩定，可能會令我們延誤進度。\n[That said, I want to flag a potential risk — the third-party API has been unstable, and it could slip our timeline.]\n講真，我覺得我哋分得太散，應該將報告模組嘅優先級調低，留到下一個 Sprint 再做。\n[To be honest, I think we're spreading ourselves too thin, so we should deprioritize the reporting module until next sprint.]\n我承認而家真係忙到腳不沾地，同時搞緊三個項目，但如果大家同意呢件事先係最緊要嘅，我可以重新排優先次序。\n[I'll admit I'm a bit stretched right now juggling three workstreams, but I can reprioritize if we agree this is the top concern.]\n如果我哋對呢一點達成共識，我會更新路線圖，喺今日尾前將修訂後嘅時間表發俾各持份者。\n[If we're aligned on that, I'll update the roadmap and send the revised timeline to stakeholders by end of day.]",
+  "created_at": "2026-06-19T00:41:24.442664Z",
+  "language_versions": {
+    "yue": {
+      "tts_engine": "edge-tts",
+      "voice": "zh-HK-WanLungNeural",
+      "audio_url": "https://pub-c03f3674ad6c4b8ea960ee176f0d19dc.r2.dev/audio/dev-user-001/bd72690d-38dd-4eea-9de4-79423c015f44/bd72690d-38dd-4eea-9de4-79423c015f44_yue.wav",
+      "audio_rel_path": "/audio/20260619T004124Z___bd72690d-38dd-4eea-9de4-79423c015f44_yue.wav",
+      "sentences": [
+        {
+          "text": "我哋按照計劃進行，預計星期五可以交付新嘅儀表板，團隊對目前嘅進度都幾有信心。",
+          "start_time": 0.0,
+          "end_time": 8.184,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 42.888000000000005,
+          "end_time": 42.888000000000005,
+          "language": "yue"
+        },
+        {
+          "text": "We're on track to deliver the new dashboard by Friday, and the team is feeling good about the progress.",
+          "start_time": 0.0,
+          "end_time": 8.184,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 42.888000000000005,
+          "end_time": 42.888000000000005,
+          "language": "yue"
+        },
+        {
+          "text": "不過，我想提示一個潛在風險——第三方 API 一直不穩定，可能會令我們延誤進度。",
+          "start_time": 8.184,
+          "end_time": 15.815999999999999,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 42.888000000000005,
+          "end_time": 42.888000000000005,
+          "language": "yue"
+        },
+        {
+          "text": "That said, I want to flag a potential risk — the third-party API has been unstable, and it could slip our timeline.",
+          "start_time": 8.184,
+          "end_time": 15.815999999999999,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 42.888000000000005,
+          "end_time": 42.888000000000005,
+          "language": "yue"
+        },
+        {
+          "text": "講真，我覺得我哋分得太散，應該將報告模組嘅優先級調低，留到下一個 Sprint 再做。",
+          "start_time": 15.815999999999999,
+          "end_time": 23.88,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 42.888000000000005,
+          "end_time": 42.888000000000005,
+          "language": "yue"
+        },
+        {
+          "text": "To be honest, I think we're spreading ourselves too thin, so we should deprioritize the reporting module until next sprint.",
+          "start_time": 15.815999999999999,
+          "end_time": 23.88,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 42.888000000000005,
+          "end_time": 42.888000000000005,
+          "language": "yue"
+        },
+        {
+          "text": "我承認而家真係忙到腳不沾地，同時搞緊三個項目，但如果大家同意呢件事先係最緊要嘅，我可以重新排優先次序。",
+          "start_time": 23.88,
+          "end_time": 34.344,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 42.888000000000005,
+          "end_time": 42.888000000000005,
+          "language": "yue"
+        },
+        {
+          "text": "I'll admit I'm a bit stretched right now juggling three workstreams, but I can reprioritize if we agree this is the top concern.",
+          "start_time": 23.88,
+          "end_time": 34.344,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 42.888000000000005,
+          "end_time": 42.888000000000005,
+          "language": "yue"
+        },
+        {
+          "text": "如果我哋對呢一點達成共識，我會更新路線圖，喺今日尾前將修訂後嘅時間表發俾各持份者。",
+          "start_time": 34.344,
+          "end_time": 42.888000000000005,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 42.888000000000005,
+          "end_time": 42.888000000000005,
+          "language": "yue"
+        },
+        {
+          "text": "If we're aligned on that, I'll update the roadmap and send the revised timeline to stakeholders by end of day.",
+          "start_time": 34.344,
+          "end_time": 42.888000000000005,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 42.888000000000005,
+          "end_time": 42.888000000000005,
+          "language": "yue"
+        }
+      ]
+    }
+  }
+}
