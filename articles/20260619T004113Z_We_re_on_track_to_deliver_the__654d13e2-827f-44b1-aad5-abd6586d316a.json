@@ -1,0 +1,77 @@
+{
+  "id": "654d13e2-827f-44b1-aad5-abd6586d316a",
+  "title": "We're on track to deliver the...",
+  "content_type": "paragraph",
+  "content_text": "We're on track to deliver the new dashboard by Friday, and the team is feeling good about the progress.\nThat said, I want to flag a potential risk — the third-party API has been unstable, and it could slip our timeline.\nTo be honest, I think we're spreading ourselves too thin, so we should deprioritize the reporting module until next sprint.\nI'll admit I'm a bit stretched right now juggling three workstreams, but I can reprioritize if we agree this is the top concern.\nIf we're aligned on that, I'll update the roadmap and send the revised timeline to stakeholders by end of day.",
+  "created_at": "2026-06-19T00:41:13.560725Z",
+  "language_versions": {
+    "en": {
+      "tts_engine": "edge-tts",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "audio_url": "https://pub-c03f3674ad6c4b8ea960ee176f0d19dc.r2.dev/audio/dev-user-001/654d13e2-827f-44b1-aad5-abd6586d316a/654d13e2-827f-44b1-aad5-abd6586d316a_en.wav",
+      "audio_rel_path": "/audio/20260619T004113Z_We_re_on_track_to_deliver_the__654d13e2-827f-44b1-aad5-abd6586d316a_en.wav",
+      "sentences": [
+        {
+          "text": "We're on track to deliver the new dashboard by Friday, and the team is feeling good about the progress.",
+          "start_time": 0.0,
+          "end_time": 5.928,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 34.416000000000004,
+          "end_time": 34.416000000000004,
+          "language": "en"
+        },
+        {
+          "text": "That said, I want to flag a potential risk — the third-party API has been unstable, and it could slip our timeline.",
+          "start_time": 5.928,
+          "end_time": 13.152000000000001,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 34.416000000000004,
+          "end_time": 34.416000000000004,
+          "language": "en"
+        },
+        {
+          "text": "To be honest, I think we're spreading ourselves too thin, so we should deprioritize the reporting module until next sprint.",
+          "start_time": 13.152000000000001,
+          "end_time": 20.520000000000003,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 34.416000000000004,
+          "end_time": 34.416000000000004,
+          "language": "en"
+        },
+        {
+          "text": "I'll admit I'm a bit stretched right now juggling three workstreams, but I can reprioritize if we agree this is the top concern.",
+          "start_time": 20.520000000000003,
+          "end_time": 28.464000000000002,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 34.416000000000004,
+          "end_time": 34.416000000000004,
+          "language": "en"
+        },
+        {
+          "text": "If we're aligned on that, I'll update the roadmap and send the revised timeline to stakeholders by end of day.",
+          "start_time": 28.464000000000002,
+          "end_time": 34.416000000000004,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 34.416000000000004,
+          "end_time": 34.416000000000004,
+          "language": "en"
+        }
+      ]
+    }
+  }
+}
