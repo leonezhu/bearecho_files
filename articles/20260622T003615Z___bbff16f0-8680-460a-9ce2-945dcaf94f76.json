@@ -1,0 +1,65 @@
+{
+  "id": "bbff16f0-8680-460a-9ce2-945dcaf94f76",
+  "title": "我们第三季度上线搞得巴适得很，核心功能都完成了百分之八十了。",
+  "content_type": "paragraph",
+  "content_text": "我们第三季度上线搞得巴适得很，核心功能都完成了百分之八十了。\n话又说回来，第三方对接那边卡了几个颈项，搞不好要把我们时间往后头推一个星期。\n我建议再喊一个前端工程师过来，这样才搞得赢进度。\n要是顺顺当当的话，下个星期五之前我们内部演示应该就搞得归一了。",
+  "created_at": "2026-06-22T00:36:15.640650Z",
+  "language_versions": {
+    "sicuan": {
+      "tts_engine": "edge-tts",
+      "voice": "en-US-AvaMultilingualNeural",
+      "audio_url": "https://pub-c03f3674ad6c4b8ea960ee176f0d19dc.r2.dev/audio/dev-user-001/bbff16f0-8680-460a-9ce2-945dcaf94f76/bbff16f0-8680-460a-9ce2-945dcaf94f76_sicuan.wav",
+      "audio_rel_path": "/audio/20260622T003615Z___bbff16f0-8680-460a-9ce2-945dcaf94f76_sicuan.wav",
+      "sentences": [
+        {
+          "text": "我们第三季度上线搞得巴适得很，核心功能都完成了百分之八十了。",
+          "start_time": 0.0,
+          "end_time": 6.144,
+          "language": "sicuan"
+        },
+        {
+          "text": "\n",
+          "start_time": 26.016000000000002,
+          "end_time": 26.016000000000002,
+          "language": "sicuan"
+        },
+        {
+          "text": "话又说回来，第三方对接那边卡了几个颈项，搞不好要把我们时间往后头推一个星期。",
+          "start_time": 6.144,
+          "end_time": 14.16,
+          "language": "sicuan"
+        },
+        {
+          "text": "\n",
+          "start_time": 26.016000000000002,
+          "end_time": 26.016000000000002,
+          "language": "sicuan"
+        },
+        {
+          "text": "我建议再喊一个前端工程师过来，这样才搞得赢进度。",
+          "start_time": 14.16,
+          "end_time": 19.632,
+          "language": "sicuan"
+        },
+        {
+          "text": "\n",
+          "start_time": 26.016000000000002,
+          "end_time": 26.016000000000002,
+          "language": "sicuan"
+        },
+        {
+          "text": "要是顺顺当当的话，下个星期五之前我们内部演示应该就搞得归一了。",
+          "start_time": 19.632,
+          "end_time": 26.016000000000002,
+          "language": "sicuan"
+        },
+        {
+          "text": "\n",
+          "start_time": 26.016000000000002,
+          "end_time": 26.016000000000002,
+          "language": "sicuan"
+        }
+      ]
+    }
+  }
+}
