@@ -1,0 +1,113 @@
+{
+  "id": "bbc8f4a6-d91f-4e62-b784-a91962654ecd",
+  "title": "我哋喺第三季推出方面進展紮實。核心功能已經完成咗百分之八十。",
+  "content_type": "paragraph",
+  "content_text": "我哋喺第三季推出方面進展紮實。核心功能已經完成咗百分之八十。\n[We are making solid progress on the Q3 launch. The core features are already eighty percent complete.]\n不過，我哋喺第三方整合方面遇到咗少少瓶頸，可能會令我哋嘅時間表延遲一星期。\n[That said, we have hit a few bottlenecks with the third-party integration, which could push our timeline back by a week.]\n我建議我哋再搵一個前端工程師返嚟，咁先可以跟得上進度。\n[I would recommend we bring in one more frontend engineer to keep us on track.]\n如果一切順利，我哋下星期五之前應該可以準備好內部演示。\n[If everything goes smoothly, we should be ready for the internal demo by next Friday.]",
+  "created_at": "2026-06-22T00:35:23.294246Z",
+  "language_versions": {
+    "yue": {
+      "tts_engine": "edge-tts",
+      "voice": "zh-HK-WanLungNeural",
+      "audio_url": "https://pub-c03f3674ad6c4b8ea960ee176f0d19dc.r2.dev/audio/dev-user-001/bbc8f4a6-d91f-4e62-b784-a91962654ecd/bbc8f4a6-d91f-4e62-b784-a91962654ecd_yue.wav",
+      "audio_rel_path": "/audio/20260622T003523Z___bbc8f4a6-d91f-4e62-b784-a91962654ecd_yue.wav",
+      "sentences": [
+        {
+          "text": "我哋喺第三季推出方面進展紮實。核心功能已經完成咗百分之八十。",
+          "start_time": 0.0,
+          "end_time": 7.2,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 27.696,
+          "end_time": 27.696,
+          "language": "yue"
+        },
+        {
+          "text": "We are making solid progress on the Q3 launch. The core features are already eighty percent complete.",
+          "start_time": 0.0,
+          "end_time": 7.2,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 27.696,
+          "end_time": 27.696,
+          "language": "yue"
+        },
+        {
+          "text": "不過，我哋喺第三方整合方面遇到咗少少瓶頸，可能會令我哋嘅時間表延遲一星期。",
+          "start_time": 7.2,
+          "end_time": 15.168,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 27.696,
+          "end_time": 27.696,
+          "language": "yue"
+        },
+        {
+          "text": "That said, we have hit a few bottlenecks with the third-party integration, which could push our timeline back by a week.",
+          "start_time": 7.2,
+          "end_time": 15.168,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 27.696,
+          "end_time": 27.696,
+          "language": "yue"
+        },
+        {
+          "text": "我建議我哋再搵一個前端工程師返嚟，咁先可以跟得上進度。",
+          "start_time": 15.168,
+          "end_time": 21.408,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 27.696,
+          "end_time": 27.696,
+          "language": "yue"
+        },
+        {
+          "text": "I would recommend we bring in one more frontend engineer to keep us on track.",
+          "start_time": 15.168,
+          "end_time": 21.408,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 27.696,
+          "end_time": 27.696,
+          "language": "yue"
+        },
+        {
+          "text": "如果一切順利，我哋下星期五之前應該可以準備好內部演示。",
+          "start_time": 21.408,
+          "end_time": 27.696,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 27.696,
+          "end_time": 27.696,
+          "language": "yue"
+        },
+        {
+          "text": "If everything goes smoothly, we should be ready for the internal demo by next Friday.",
+          "start_time": 21.408,
+          "end_time": 27.696,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 27.696,
+          "end_time": 27.696,
+          "language": "yue"
+        }
+      ]
+    }
+  }
+}
