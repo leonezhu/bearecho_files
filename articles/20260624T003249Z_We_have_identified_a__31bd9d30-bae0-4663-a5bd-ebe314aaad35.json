@@ -1,0 +1,41 @@
+{
+  "id": "31bd9d30-bae0-4663-a5bd-ebe314aaad35",
+  "title": "We have identified a...",
+  "content_type": "paragraph",
+  "content_text": "We have identified a compatibility issue with the old MCP server authentication mechanism. The API gateway refactor will move to next Wednesday. We will roll out a partial fix by Friday to unblock the team. I will share updates daily.\n[We have identified a compatibility issue with the old MCP server authentication mechanism. The API gateway refactor will move to next Wednesday. We will roll out a partial fix by Friday to unblock the team. I will share updates daily.]",
+  "created_at": "2026-06-24T00:32:49.619811Z",
+  "language_versions": {
+    "en": {
+      "tts_engine": "edge-tts",
+      "voice": "en-US-AvaMultilingualNeural",
+      "audio_url": "https://pub-c03f3674ad6c4b8ea960ee176f0d19dc.r2.dev/audio/dev-user-001/31bd9d30-bae0-4663-a5bd-ebe314aaad35/31bd9d30-bae0-4663-a5bd-ebe314aaad35_en.wav",
+      "audio_rel_path": "/audio/20260624T003249Z_We_have_identified_a__31bd9d30-bae0-4663-a5bd-ebe314aaad35_en.wav",
+      "sentences": [
+        {
+          "text": "We have identified a compatibility issue with the old MCP server authentication mechanism. The API gateway refactor will move to next Wednesday. We will roll out a partial fix by Friday to unblock the team. I will share updates daily.",
+          "start_time": 0.0,
+          "end_time": 15.192,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 15.192,
+          "end_time": 15.192,
+          "language": "en"
+        },
+        {
+          "text": "We have identified a compatibility issue with the old MCP server authentication mechanism. The API gateway refactor will move to next Wednesday. We will roll out a partial fix by Friday to unblock the team. I will share updates daily.",
+          "start_time": 0.0,
+          "end_time": 15.192,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 15.192,
+          "end_time": 15.192,
+          "language": "en"
+        }
+      ]
+    }
+  }
+}
