@@ -1,0 +1,41 @@
+{
+  "id": "828e55d3-39e7-417c-862f-8676a702457b",
+  "title": "This Saturday mixed review....",
+  "content_type": "paragraph",
+  "content_text": "This Saturday mixed review. Kick off, start over, start up.\n[This Saturday mixed review. Kick off, start over, start up.]",
+  "created_at": "2026-06-27T00:35:01.409433Z",
+  "language_versions": {
+    "en": {
+      "tts_engine": "edge-tts",
+      "voice": "en-US-AvaMultilingualNeural",
+      "audio_url": "https://pub-c03f3674ad6c4b8ea960ee176f0d19dc.r2.dev/audio/dev-user-001/828e55d3-39e7-417c-862f-8676a702457b/828e55d3-39e7-417c-862f-8676a702457b_en.wav",
+      "audio_rel_path": "/audio/20260627T003501Z_This_Saturday_mixed_review__828e55d3-39e7-417c-862f-8676a702457b_en.wav",
+      "sentences": [
+        {
+          "text": "This Saturday mixed review. Kick off, start over, start up.",
+          "start_time": 0.0,
+          "end_time": 4.728,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 4.728,
+          "end_time": 4.728,
+          "language": "en"
+        },
+        {
+          "text": "This Saturday mixed review. Kick off, start over, start up.",
+          "start_time": 0.0,
+          "end_time": 4.728,
+          "language": "source"
+        },
+        {
+          "text": "\n",
+          "start_time": 4.728,
+          "end_time": 4.728,
+          "language": "en"
+        }
+      ]
+    }
+  }
+}
