@@ -1,0 +1,89 @@
+{
+  "id": "30f5fb80-6ae0-4aa6-907a-4b6cdfd0facd",
+  "title": "我終於騰出時間睇咗《乱世佳人》，呢套片係1939年出嘅...",
+  "content_type": "paragraph",
+  "content_text": "我終於騰出時間睇咗《乱世佳人》，呢套片係1939年出嘅，將近四個鐘長。我分咗兩次先睇完，第一晚睇咗大約一個鐘，剩低嘅就喺第二個晚上先睇晒。\n[I finally got around to watching Gone with the Wind — a film from 1939, almost four hours long. I watched it in two sittings, an hour or so the first night and the rest the next evening.]\n我早就想睇呢套戲，但因為片長太長，一直好忌諱。冇料到會睇到咁入迷。對於一部近乎九十年歷史嘅電影，佢真係經得起時間考驗——Atlanta 嘅大火場景、特藝彩色技術，還有 Vivien Leigh 嘅演技。當片尾字幕滾到嗰陣，我冇像睇完長片咁勞氣，反而覺得異常平靜。\n[I'd been meaning to see it for years, but the length always scared me off. What I didn't expect was how absorbed I'd be. For a film that's almost ninety years old, it holds up remarkably well — the burning of Atlanta, the Technicolor, Vivien Leigh's performance. By the time the credits rolled, I wasn't exhausted the way I usually feel after a long movie. Instead, it left me feeling strangely calm.]\n我搵個唔停咁諗緊點解會咁。其實，大部分電影係靠懸念逼你向前行 — 你會被吸引住，然後就會覺得好倦。但係呢部片好似潮汐咁：戰爭、飢饉、失去，每一次，Scarlett 都仲係唔肯低頭。咁樣睇返，呢個先至係令佢永恆嘅原因。佢唔完全係一個講發生咗咩事俾佢嘅故；佢主要講係佢點樣挺過一切嘅事。總之 — 我極力推薦，就算係而家都係。\n[I kept thinking about why. The thing is, most films push you forward with tension — you're gripped, then drained. This one moves like a tide: war, hunger, loss, and each time, Scarlett simply refuses to stay down. Looking back, that's what makes it timeless. It's not really a story about what happens to her; it's about the fact that she survives it. Anyway — highly recommend it, even today.]",
+  "created_at": "2026-11-02T15:58:39.453197Z",
+  "language_versions": {
+    "yue": {
+      "tts_engine": "edge-tts",
+      "voice": "zh-HK-WanLungNeural",
+      "audio_url": "/audio/dev-user-001/30f5fb80-6ae0-4aa6-907a-4b6cdfd0facd/30f5fb80-6ae0-4aa6-907a-4b6cdfd0facd_yue.wav",
+      "audio_rel_path": "/audio/20261102T155839Z__1939__30f5fb80-6ae0-4aa6-907a-4b6cdfd0facd_yue.wav",
+      "sentences": [
+        {
+          "text": "我終於騰出時間睇咗《乱世佳人》，呢套片係1939年出嘅，將近四個鐘長。我分咗兩次先睇完，第一晚睇咗大約一個鐘，剩低嘅就喺第二個晚上先睇晒。",
+          "start_time": 0.0,
+          "end_time": 14.784,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 74.52000000000001,
+          "end_time": 74.52000000000001,
+          "language": "yue"
+        },
+        {
+          "text": "I finally got around to watching Gone with the Wind — a film from 1939, almost four hours long. I watched it in two sittings, an hour or so the first night and the rest the next evening.",
+          "start_time": 0.0,
+          "end_time": 14.784,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 74.52000000000001,
+          "end_time": 74.52000000000001,
+          "language": "yue"
+        },
+        {
+          "text": "我早就想睇呢套戲，但因為片長太長，一直好忌諱。冇料到會睇到咁入迷。對於一部近乎九十年歷史嘅電影，佢真係經得起時間考驗——Atlanta 嘅大火場景、特藝彩色技術，還有 Vivien Leigh 嘅演技。當片尾字幕滾到嗰陣，我冇像睇完長片咁勞氣，反而覺得異常平靜。",
+          "start_time": 14.784,
+          "end_time": 40.008,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 74.52000000000001,
+          "end_time": 74.52000000000001,
+          "language": "yue"
+        },
+        {
+          "text": "I'd been meaning to see it for years, but the length always scared me off. What I didn't expect was how absorbed I'd be. For a film that's almost ninety years old, it holds up remarkably well — the burning of Atlanta, the Technicolor, Vivien Leigh's performance. By the time the credits rolled, I wasn't exhausted the way I usually feel after a long movie. Instead, it left me feeling strangely calm.",
+          "start_time": 14.784,
+          "end_time": 40.008,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 74.52000000000001,
+          "end_time": 74.52000000000001,
+          "language": "yue"
+        },
+        {
+          "text": "我搵個唔停咁諗緊點解會咁。其實，大部分電影係靠懸念逼你向前行 — 你會被吸引住，然後就會覺得好倦。但係呢部片好似潮汐咁：戰爭、飢饉、失去，每一次，Scarlett 都仲係唔肯低頭。咁樣睇返，呢個先至係令佢永恆嘅原因。佢唔完全係一個講發生咗咩事俾佢嘅故；佢主要講係佢點樣挺過一切嘅事。總之 — 我極力推薦，就算係而家都係。",
+          "start_time": 40.008,
+          "end_time": 74.52000000000001,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 74.52000000000001,
+          "end_time": 74.52000000000001,
+          "language": "yue"
+        },
+        {
+          "text": "I kept thinking about why. The thing is, most films push you forward with tension — you're gripped, then drained. This one moves like a tide: war, hunger, loss, and each time, Scarlett simply refuses to stay down. Looking back, that's what makes it timeless. It's not really a story about what happens to her; it's about the fact that she survives it. Anyway — highly recommend it, even today.",
+          "start_time": 40.008,
+          "end_time": 74.52000000000001,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 74.52000000000001,
+          "end_time": 74.52000000000001,
+          "language": "yue"
+        }
+      ]
+    }
+  }
+}
