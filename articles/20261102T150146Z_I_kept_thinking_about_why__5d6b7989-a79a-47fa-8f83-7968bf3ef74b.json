@@ -1,0 +1,29 @@
+{
+  "id": "5d6b7989-a79a-47fa-8f83-7968bf3ef74b",
+  "title": "I kept thinking about why....",
+  "content_type": "paragraph",
+  "content_text": "I kept thinking about why. The thing is, most films push you forward with tension — you're gripped, then drained. This one moves like a tide: war, hunger, loss, and each time, Scarlett simply refuses to stay down. Looking back, that's what makes it timeless. It's not really a story about what happens to her; it's about the fact that she survives it. Anyway — highly recommend it, even today.",
+  "created_at": "2026-11-02T15:01:46.218060Z",
+  "language_versions": {
+    "yue": {
+      "tts_engine": "edge-tts",
+      "voice": "zh-HK-WanLungNeural",
+      "audio_url": "https://pub-c03f3674ad6c4b8ea960ee176f0d19dc.r2.dev/audio/dev-user-001/5d6b7989-a79a-47fa-8f83-7968bf3ef74b/5d6b7989-a79a-47fa-8f83-7968bf3ef74b_yue.wav",
+      "audio_rel_path": "/audio/20261102T150146Z_I_kept_thinking_about_why__5d6b7989-a79a-47fa-8f83-7968bf3ef74b_yue.wav",
+      "sentences": [
+        {
+          "text": "I kept thinking about why. The thing is, most films push you forward with tension — you're gripped, then drained. This one moves like a tide: war, hunger, loss, and each time, Scarlett simply refuses to stay down. Looking back, that's what makes it timeless. It's not really a story about what happens to her; it's about the fact that she survives it. Anyway — highly recommend it, even today.",
+          "start_time": 0.0,
+          "end_time": 26.856,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 26.856,
+          "end_time": 26.856,
+          "language": "yue"
+        }
+      ]
+    }
+  }
+}
