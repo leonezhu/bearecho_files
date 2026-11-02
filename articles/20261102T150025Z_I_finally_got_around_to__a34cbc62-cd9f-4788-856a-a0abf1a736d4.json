@@ -1,0 +1,41 @@
+{
+  "id": "a34cbc62-cd9f-4788-856a-a0abf1a736d4",
+  "title": "I finally got around to...",
+  "content_type": "paragraph",
+  "content_text": "I finally got around to watching Gone with the Wind — a film from 1939, almost four hours long. I watched it in two sittings, an hour or so the first night and the rest the next evening.\nI'd been meaning to see it for years, but the length always scared me off. What I didn't expect was how absorbed I'd be. For a film that's almost ninety years old, it holds up remarkably well — the burning of Atlanta, the Technicolor, Vivien Leigh's performance. By the time the credits rolled, I wasn't exhausted the way I usually feel after a long movie. Instead, it left me feeling strangely calm.",
+  "created_at": "2026-11-02T15:00:25.174691Z",
+  "language_versions": {
+    "en": {
+      "tts_engine": "edge-tts",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "audio_url": "https://pub-c03f3674ad6c4b8ea960ee176f0d19dc.r2.dev/audio/dev-user-001/a34cbc62-cd9f-4788-856a-a0abf1a736d4/a34cbc62-cd9f-4788-856a-a0abf1a736d4_en.wav",
+      "audio_rel_path": "/audio/20261102T150025Z_I_finally_got_around_to__a34cbc62-cd9f-4788-856a-a0abf1a736d4_en.wav",
+      "sentences": [
+        {
+          "text": "I finally got around to watching Gone with the Wind — a film from 1939, almost four hours long. I watched it in two sittings, an hour or so the first night and the rest the next evening.",
+          "start_time": 0.0,
+          "end_time": 11.616,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 37.44,
+          "end_time": 37.44,
+          "language": "en"
+        },
+        {
+          "text": "I'd been meaning to see it for years, but the length always scared me off. What I didn't expect was how absorbed I'd be. For a film that's almost ninety years old, it holds up remarkably well — the burning of Atlanta, the Technicolor, Vivien Leigh's performance. By the time the credits rolled, I wasn't exhausted the way I usually feel after a long movie. Instead, it left me feeling strangely calm.",
+          "start_time": 11.616,
+          "end_time": 37.44,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 37.44,
+          "end_time": 37.44,
+          "language": "en"
+        }
+      ]
+    }
+  }
+}
