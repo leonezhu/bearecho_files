@@ -1,0 +1,41 @@
+{
+  "id": "da606f8d-02b4-4cba-8f88-892d3ae0d9eb",
+  "title": "我搵唔通自己點解會咁諗。其實，大部分電影係靠緊張感推你...",
+  "content_type": "paragraph",
+  "content_text": "我搵唔通自己點解會咁諗。其實，大部分電影係靠緊張感推你向前行——你一開始就被吸住，然後又感到好嘥。呢一部就唔係，佢行進之間就像潮水咁：戰爭、飢餓、失去，每一次都令 Scarlett 企起身，她就係偏唔肯再低頭。再回頭睇，正正就係呢啲令佢經典至永遠。成個故事唔係講佢身上發生咗啲乜，而是講佢硬淨得返嚟。總之，即使係而家，都唔係冇必要推介畀你睇。\n[I kept thinking about why. The thing is, most films push you forward with tension — you're gripped, then drained. This one moves like a tide: war, hunger, loss, and each time, Scarlett simply refuses to stay down. Looking back, that's what makes it timeless. It's not really a story about what happens to her; it's about the fact that she survives it. Anyway — highly recommend it, even today.]",
+  "created_at": "2026-11-02T16:20:31.207841Z",
+  "language_versions": {
+    "yue": {
+      "tts_engine": "edge-tts",
+      "voice": "zh-HK-WanLungNeural",
+      "audio_url": "/audio/dev-user-001/da606f8d-02b4-4cba-8f88-892d3ae0d9eb/da606f8d-02b4-4cba-8f88-892d3ae0d9eb_yue.wav",
+      "audio_rel_path": "/audio/20261102T162031Z___da606f8d-02b4-4cba-8f88-892d3ae0d9eb_yue.wav",
+      "sentences": [
+        {
+          "text": "我搵唔通自己點解會咁諗。其實，大部分電影係靠緊張感推你向前行——你一開始就被吸住，然後又感到好嘥。呢一部就唔係，佢行進之間就像潮水咁：戰爭、飢餓、失去，每一次都令 Scarlett 企起身，她就係偏唔肯再低頭。再回頭睇，正正就係呢啲令佢經典至永遠。成個故事唔係講佢身上發生咗啲乜，而是講佢硬淨得返嚟。總之，即使係而家，都唔係冇必要推介畀你睇。",
+          "start_time": 0.0,
+          "end_time": 37.032,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 37.032,
+          "end_time": 37.032,
+          "language": "yue"
+        },
+        {
+          "text": "I kept thinking about why. The thing is, most films push you forward with tension — you're gripped, then drained. This one moves like a tide: war, hunger, loss, and each time, Scarlett simply refuses to stay down. Looking back, that's what makes it timeless. It's not really a story about what happens to her; it's about the fact that she survives it. Anyway — highly recommend it, even today.",
+          "start_time": 0.0,
+          "end_time": 37.032,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 37.032,
+          "end_time": 37.032,
+          "language": "yue"
+        }
+      ]
+    }
+  }
+}
