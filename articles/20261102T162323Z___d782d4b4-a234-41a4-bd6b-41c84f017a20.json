@@ -1,0 +1,41 @@
+{
+  "id": "d782d4b4-a234-41a4-bd6b-41c84f017a20",
+  "title": "審計閘口測試。呢行係檢查生成同上傳嘅分拆。",
+  "content_type": "paragraph",
+  "content_text": "審計閘口測試。呢行係檢查生成同上傳嘅分拆。\n[Review gate test. This line checks the split of generation and upload.]",
+  "created_at": "2026-11-02T16:23:23.509489Z",
+  "language_versions": {
+    "yue": {
+      "tts_engine": "edge-tts",
+      "voice": "zh-HK-WanLungNeural",
+      "audio_url": "/audio/dev-user-001/d782d4b4-a234-41a4-bd6b-41c84f017a20/d782d4b4-a234-41a4-bd6b-41c84f017a20_yue.wav",
+      "audio_rel_path": "/audio/20261102T162323Z___d782d4b4-a234-41a4-bd6b-41c84f017a20_yue.wav",
+      "sentences": [
+        {
+          "text": "審計閘口測試。呢行係檢查生成同上傳嘅分拆。",
+          "start_time": 0.0,
+          "end_time": 5.928,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 5.928,
+          "end_time": 5.928,
+          "language": "yue"
+        },
+        {
+          "text": "Review gate test. This line checks the split of generation and upload.",
+          "start_time": 0.0,
+          "end_time": 5.928,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 5.928,
+          "end_time": 5.928,
+          "language": "yue"
+        }
+      ]
+    }
+  }
+}
