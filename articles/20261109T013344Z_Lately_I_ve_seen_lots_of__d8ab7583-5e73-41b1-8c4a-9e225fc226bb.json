@@ -1,0 +1,101 @@
+{
+  "id": "d8ab7583-5e73-41b1-8c4a-9e225fc226bb",
+  "title": "Lately I've seen lots of...",
+  "content_type": "paragraph",
+  "content_text": "Lately I've seen lots of regular Chinese people posting videos on YouTube — all of them vlog their daily life in broken English.\nHonestly, it kind of inspired me, but it also made me feel a bit ashamed that I don't have the guts to do something like that.\nYeah, that's the TTS transcription messing up my pronunciation — some words got transcribed as other words.\nLike I said \"unfluently\" but it wrote \"unfriendly\". Can you add that to the AGENTS.md so it handles it?\nDon't over-encourage me — I just want the truth and the gap.\nAdd this principle to the AGENTS.md.\nI decided to do some push-ups just now, and I did them — but I was a bit disappointed I only managed 20, even though I gave it my best effort.",
+  "created_at": "2026-11-09T01:33:44.465567Z",
+  "language_versions": {
+    "en": {
+      "tts_engine": "edge-tts",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "audio_url": "/audio/dev-user-001/d8ab7583-5e73-41b1-8c4a-9e225fc226bb/d8ab7583-5e73-41b1-8c4a-9e225fc226bb_en.wav",
+      "audio_rel_path": "/audio/20261109T013344Z_Lately_I_ve_seen_lots_of__d8ab7583-5e73-41b1-8c4a-9e225fc226bb_en.wav",
+      "sentences": [
+        {
+          "text": "Lately I've seen lots of regular Chinese people posting videos on YouTube — all of them vlog their daily life in broken English.",
+          "start_time": 0.0,
+          "end_time": 8.064,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 45.72,
+          "end_time": 45.72,
+          "language": "en"
+        },
+        {
+          "text": "Honestly, it kind of inspired me, but it also made me feel a bit ashamed that I don't have the guts to do something like that.",
+          "start_time": 8.064,
+          "end_time": 14.64,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 45.72,
+          "end_time": 45.72,
+          "language": "en"
+        },
+        {
+          "text": "Yeah, that's the TTS transcription messing up my pronunciation — some words got transcribed as other words.",
+          "start_time": 14.64,
+          "end_time": 21.432000000000002,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 45.72,
+          "end_time": 45.72,
+          "language": "en"
+        },
+        {
+          "text": "Like I said \"unfluently\" but it wrote \"unfriendly\". Can you add that to the AGENTS.md so it handles it?",
+          "start_time": 21.432000000000002,
+          "end_time": 29.208000000000002,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 45.72,
+          "end_time": 45.72,
+          "language": "en"
+        },
+        {
+          "text": "Don't over-encourage me — I just want the truth and the gap.",
+          "start_time": 29.208000000000002,
+          "end_time": 32.904,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 45.72,
+          "end_time": 45.72,
+          "language": "en"
+        },
+        {
+          "text": "Add this principle to the AGENTS.md.",
+          "start_time": 32.904,
+          "end_time": 36.192,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 45.72,
+          "end_time": 45.72,
+          "language": "en"
+        },
+        {
+          "text": "I decided to do some push-ups just now, and I did them — but I was a bit disappointed I only managed 20, even though I gave it my best effort.",
+          "start_time": 36.192,
+          "end_time": 45.72,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 45.72,
+          "end_time": 45.72,
+          "language": "en"
+        }
+      ]
+    }
+  }
+}
