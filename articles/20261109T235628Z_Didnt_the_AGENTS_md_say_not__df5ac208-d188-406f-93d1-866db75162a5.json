@@ -1,0 +1,89 @@
+{
+  "id": "df5ac208-d188-406f-93d1-866db75162a5",
+  "title": "Didnt the AGENTS.md say not...",
+  "content_type": "paragraph",
+  "content_text": "Didnt the AGENTS.md say not to ask me whether to save things to the knowledge base?\nWhy do you keep asking? If you think its worth saving, just save it.\nRemove the direct-write rule for AGENTS.md. It already has protection.\nIs there anything wrong with: first evidence that AI does not behave like humans?\nIf I were to say it, I would go with: AIs behavior is not human-like.\nWhy is that? Modern English hangs the negation on the auxiliary. Does not behave.",
+  "created_at": "2026-11-09T23:56:28.579614Z",
+  "language_versions": {
+    "en": {
+      "tts_engine": "edge-tts",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "audio_url": "/audio/dev-user-001/df5ac208-d188-406f-93d1-866db75162a5/df5ac208-d188-406f-93d1-866db75162a5_en.wav",
+      "audio_rel_path": "/audio/20261109T235628Z_Didnt_the_AGENTS_md_say_not__df5ac208-d188-406f-93d1-866db75162a5_en.wav",
+      "sentences": [
+        {
+          "text": "Didnt the AGENTS.md say not to ask me whether to save things to the knowledge base?",
+          "start_time": 0.0,
+          "end_time": 6.576,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 32.88,
+          "end_time": 32.88,
+          "language": "en"
+        },
+        {
+          "text": "Why do you keep asking? If you think its worth saving, just save it.",
+          "start_time": 6.576,
+          "end_time": 10.584,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 32.88,
+          "end_time": 32.88,
+          "language": "en"
+        },
+        {
+          "text": "Remove the direct-write rule for AGENTS.md. It already has protection.",
+          "start_time": 10.584,
+          "end_time": 15.96,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 32.88,
+          "end_time": 32.88,
+          "language": "en"
+        },
+        {
+          "text": "Is there anything wrong with: first evidence that AI does not behave like humans?",
+          "start_time": 15.96,
+          "end_time": 21.984,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 32.88,
+          "end_time": 32.88,
+          "language": "en"
+        },
+        {
+          "text": "If I were to say it, I would go with: AIs behavior is not human-like.",
+          "start_time": 21.984,
+          "end_time": 27.024,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 32.88,
+          "end_time": 32.88,
+          "language": "en"
+        },
+        {
+          "text": "Why is that? Modern English hangs the negation on the auxiliary. Does not behave.",
+          "start_time": 27.024,
+          "end_time": 32.88,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 32.88,
+          "end_time": 32.88,
+          "language": "en"
+        }
+      ]
+    }
+  }
+}
