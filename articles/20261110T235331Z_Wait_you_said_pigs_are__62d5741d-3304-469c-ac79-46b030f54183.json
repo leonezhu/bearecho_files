@@ -1,0 +1,101 @@
+{
+  "id": "62d5741d-3304-469c-ac79-46b030f54183",
+  "title": "Wait — you said pigs are...",
+  "content_type": "paragraph",
+  "content_text": "Wait — you said pigs are really smart. Doesn't that make the whole thing feel kind of cruel?\nHow do I put it... people just tend to favor dogs and cats, you know?\nAnd now that you've told me pigs are just as smart, I don't know how to describe the feeling.\nWhen I had a cat, I used to hold her up to the mirror — she never seemed to recognize herself.\nWhat other animals can actually pass the mirror test?\nIn this sentence, I always thought managed meant to be in charge of something — but here it seems to mean something else.\nDo we already have a job that covers this?",
+  "created_at": "2026-11-10T23:53:31.439033Z",
+  "language_versions": {
+    "en": {
+      "tts_engine": "edge-tts",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "audio_url": "/audio/dev-user-001/62d5741d-3304-469c-ac79-46b030f54183/62d5741d-3304-469c-ac79-46b030f54183_en.wav",
+      "audio_rel_path": "/audio/20261110T235331Z_Wait_you_said_pigs_are__62d5741d-3304-469c-ac79-46b030f54183_en.wav",
+      "sentences": [
+        {
+          "text": "Wait — you said pigs are really smart. Doesn't that make the whole thing feel kind of cruel?",
+          "start_time": 0.0,
+          "end_time": 5.424,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 31.848000000000003,
+          "end_time": 31.848000000000003,
+          "language": "en"
+        },
+        {
+          "text": "How do I put it... people just tend to favor dogs and cats, you know?",
+          "start_time": 5.424,
+          "end_time": 9.048,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 31.848000000000003,
+          "end_time": 31.848000000000003,
+          "language": "en"
+        },
+        {
+          "text": "And now that you've told me pigs are just as smart, I don't know how to describe the feeling.",
+          "start_time": 9.048,
+          "end_time": 13.655999999999999,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 31.848000000000003,
+          "end_time": 31.848000000000003,
+          "language": "en"
+        },
+        {
+          "text": "When I had a cat, I used to hold her up to the mirror — she never seemed to recognize herself.",
+          "start_time": 13.655999999999999,
+          "end_time": 19.392,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 31.848000000000003,
+          "end_time": 31.848000000000003,
+          "language": "en"
+        },
+        {
+          "text": "What other animals can actually pass the mirror test?",
+          "start_time": 19.392,
+          "end_time": 22.344,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 31.848000000000003,
+          "end_time": 31.848000000000003,
+          "language": "en"
+        },
+        {
+          "text": "In this sentence, I always thought managed meant to be in charge of something — but here it seems to mean something else.",
+          "start_time": 22.344,
+          "end_time": 29.520000000000003,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 31.848000000000003,
+          "end_time": 31.848000000000003,
+          "language": "en"
+        },
+        {
+          "text": "Do we already have a job that covers this?",
+          "start_time": 29.520000000000003,
+          "end_time": 31.848000000000003,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 31.848000000000003,
+          "end_time": 31.848000000000003,
+          "language": "en"
+        }
+      ]
+    }
+  }
+}
