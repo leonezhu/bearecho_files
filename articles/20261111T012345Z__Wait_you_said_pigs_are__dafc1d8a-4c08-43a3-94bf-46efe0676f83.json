@@ -1,0 +1,65 @@
+{
+  "id": "dafc1d8a-4c08-43a3-94bf-46efe0676f83",
+  "title": "[Wait — you said pigs are...",
+  "content_type": "paragraph",
+  "content_text": "[Wait — you said pigs are really smart.]\n等等，你话猪好聪明噉。\n[What other animals can actually pass the mirror test?]\n仲有邊啲动物真係过到镜面测试㗎？",
+  "created_at": "2026-11-11T01:23:45.800915Z",
+  "language_versions": {
+    "yue": {
+      "tts_engine": "edge-tts",
+      "voice": "zh-HK-WanLungNeural",
+      "audio_url": "/audio/dev-user-001/dafc1d8a-4c08-43a3-94bf-46efe0676f83/dafc1d8a-4c08-43a3-94bf-46efe0676f83_yue.wav",
+      "audio_rel_path": "/audio/20261111T012345Z__Wait_you_said_pigs_are__dafc1d8a-4c08-43a3-94bf-46efe0676f83_yue.wav",
+      "sentences": [
+        {
+          "text": "Wait — you said pigs are really smart.",
+          "start_time": 7.343999999999999,
+          "end_time": 7.343999999999999,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 7.343999999999999,
+          "end_time": 7.343999999999999,
+          "language": "yue"
+        },
+        {
+          "text": "等等，你话猪好聪明噉。",
+          "start_time": 0.0,
+          "end_time": 3.36,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 7.343999999999999,
+          "end_time": 7.343999999999999,
+          "language": "yue"
+        },
+        {
+          "text": "What other animals can actually pass the mirror test?",
+          "start_time": 0.0,
+          "end_time": 3.36,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 7.343999999999999,
+          "end_time": 7.343999999999999,
+          "language": "yue"
+        },
+        {
+          "text": "仲有邊啲动物真係过到镜面测试㗎？",
+          "start_time": 3.36,
+          "end_time": 7.343999999999999,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 7.343999999999999,
+          "end_time": 7.343999999999999,
+          "language": "yue"
+        }
+      ]
+    }
+  }
+}
