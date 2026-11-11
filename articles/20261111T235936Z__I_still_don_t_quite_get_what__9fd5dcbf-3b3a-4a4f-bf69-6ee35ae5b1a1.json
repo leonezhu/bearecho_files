@@ -1,0 +1,89 @@
+{
+  "id": "9fd5dcbf-3b3a-4a4f-bf69-6ee35ae5b1a1",
+  "title": "[I still don't quite get what...",
+  "content_type": "paragraph",
+  "content_text": "[I still don't quite get what WebMCP is for. And the ingest skill's output should be clearer.]\n我都仲係唔係几明 WebMCP 到底做乜嘅。仲有，ingest skill 嘅产出应该写得清楚啲。\n[What does each party in this protocol actually need to do? And how can we make sure that any agent that lands on this page understands the protocol?]\n呢个协议嘅每一方实际要做啲乜？仲有，点样先可以确保唔同嘅 agent 一打开呢个页就明个协议係乜？\n[Keep iterating on the ingest skill — it should keep improving itself based on what goes in and what comes out.]\n咁就不断迭代个 ingest skill 啦——佢应该根据入嚟啲乜同出嚟啲乜，一路自己改进先啱。",
+  "created_at": "2026-11-11T23:59:36.840406Z",
+  "language_versions": {
+    "yue": {
+      "tts_engine": "edge-tts",
+      "voice": "zh-HK-WanLungNeural",
+      "audio_url": "/audio/dev-user-001/9fd5dcbf-3b3a-4a4f-bf69-6ee35ae5b1a1/9fd5dcbf-3b3a-4a4f-bf69-6ee35ae5b1a1_yue.wav",
+      "audio_rel_path": "/audio/20261111T235936Z__I_still_don_t_quite_get_what__9fd5dcbf-3b3a-4a4f-bf69-6ee35ae5b1a1_yue.wav",
+      "sentences": [
+        {
+          "text": "I still don't quite get what WebMCP is for. And the ingest skill's output should be clearer.",
+          "start_time": 25.752000000000002,
+          "end_time": 25.752000000000002,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 25.752000000000002,
+          "end_time": 25.752000000000002,
+          "language": "yue"
+        },
+        {
+          "text": "我都仲係唔係几明 WebMCP 到底做乜嘅。仲有，ingest skill 嘅产出应该写得清楚啲。",
+          "start_time": 0.0,
+          "end_time": 8.592,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 25.752000000000002,
+          "end_time": 25.752000000000002,
+          "language": "yue"
+        },
+        {
+          "text": "What does each party in this protocol actually need to do? And how can we make sure that any agent that lands on this page understands the protocol?",
+          "start_time": 0.0,
+          "end_time": 8.592,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 25.752000000000002,
+          "end_time": 25.752000000000002,
+          "language": "yue"
+        },
+        {
+          "text": "呢个协议嘅每一方实际要做啲乜？仲有，点样先可以确保唔同嘅 agent 一打开呢个页就明个协议係乜？",
+          "start_time": 8.592,
+          "end_time": 18.264000000000003,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 25.752000000000002,
+          "end_time": 25.752000000000002,
+          "language": "yue"
+        },
+        {
+          "text": "Keep iterating on the ingest skill — it should keep improving itself based on what goes in and what comes out.",
+          "start_time": 8.592,
+          "end_time": 18.264000000000003,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 25.752000000000002,
+          "end_time": 25.752000000000002,
+          "language": "yue"
+        },
+        {
+          "text": "咁就不断迭代个 ingest skill 啦——佢应该根据入嚟啲乜同出嚟啲乜，一路自己改进先啱。",
+          "start_time": 18.264000000000003,
+          "end_time": 25.752000000000002,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 25.752000000000002,
+          "end_time": 25.752000000000002,
+          "language": "yue"
+        }
+      ]
+    }
+  }
+}
