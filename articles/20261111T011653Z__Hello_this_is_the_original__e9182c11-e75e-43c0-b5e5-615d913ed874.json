@@ -1,0 +1,65 @@
+{
+  "id": "e9182c11-e75e-43c0-b5e5-615d913ed874",
+  "title": "[Hello, this is the original...",
+  "content_type": "paragraph",
+  "content_text": "[Hello, this is the original English line.]\n你好，呢句係测试句。\n[Second line original.]\n第二句测试。",
+  "created_at": "2026-11-11T01:16:53.710178Z",
+  "language_versions": {
+    "yue": {
+      "tts_engine": "edge-tts",
+      "voice": "zh-HK-WanLungNeural",
+      "audio_url": "/audio/dev-user-001/e9182c11-e75e-43c0-b5e5-615d913ed874/e9182c11-e75e-43c0-b5e5-615d913ed874_yue.wav",
+      "audio_rel_path": "/audio/20261111T011653Z__Hello_this_is_the_original__e9182c11-e75e-43c0-b5e5-615d913ed874_yue.wav",
+      "sentences": [
+        {
+          "text": "Hello, this is the original English line.",
+          "start_time": 0.0,
+          "end_time": 3.168,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 10.992,
+          "end_time": 10.992,
+          "language": "yue"
+        },
+        {
+          "text": "你好，呢句係测试句。",
+          "start_time": 3.168,
+          "end_time": 6.432,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 10.992,
+          "end_time": 10.992,
+          "language": "yue"
+        },
+        {
+          "text": "Second line original.",
+          "start_time": 6.432,
+          "end_time": 8.808,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 10.992,
+          "end_time": 10.992,
+          "language": "yue"
+        },
+        {
+          "text": "第二句测试。",
+          "start_time": 8.808,
+          "end_time": 10.992,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 10.992,
+          "end_time": 10.992,
+          "language": "yue"
+        }
+      ]
+    }
+  }
+}
