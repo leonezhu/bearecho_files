@@ -1,0 +1,137 @@
+{
+  "id": "f600dd66-86af-4992-ad5c-6680f8a5e941",
+  "title": "[You know how the daily...",
+  "content_type": "paragraph",
+  "content_text": "[You know how the daily dialogue replay already generates audio? I want to add one more step: translate the replay text into Cantonese, and generate a separate Cantonese audio on top of that.]\n你知唔知日日嗰个对话重放本来就会出音频？我想加多一步：将个重放文本翻译做粤文，喺原本之上再另外出埋粤语音频。\n[Run it with today's material to make sure it works.]\n拎今日啲素材行一次，睇下掂唔掂。\n[The TTS API supports wrapping the original text in square brackets for a bilingual side-by-side view. The bracketed text doesn't get turned into audio — take a look, and then apply it going forward.]\n嗰个 TTS API 支援用方括号包住原文，做双语对照。包住嗰啲字唔会变做音频——你睇下，跟住之后用得。\n[What I expect from this feature is one audio file per record — not everything mixed together. See if you can fix that, and verify it.]\n我期望呢个功能係一条记录净係出一个音频，唔係全部捞埋一齐。你睇下改唔改到，改完验证一次。\n[Got it — so it was a wrong parameter on my end.]\n明白——即係我嗰边传错咗个参数。",
+  "created_at": "2026-11-11T23:59:26.832430Z",
+  "language_versions": {
+    "yue": {
+      "tts_engine": "edge-tts",
+      "voice": "zh-HK-WanLungNeural",
+      "audio_url": "/audio/dev-user-001/f600dd66-86af-4992-ad5c-6680f8a5e941/f600dd66-86af-4992-ad5c-6680f8a5e941_yue.wav",
+      "audio_rel_path": "/audio/20261111T235926Z__You_know_how_the_daily__f600dd66-86af-4992-ad5c-6680f8a5e941_yue.wav",
+      "sentences": [
+        {
+          "text": "You know how the daily dialogue replay already generates audio? I want to add one more step: translate the replay text into Cantonese, and generate a separate Cantonese audio on top of that.",
+          "start_time": 40.632000000000005,
+          "end_time": 40.632000000000005,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 40.632000000000005,
+          "end_time": 40.632000000000005,
+          "language": "yue"
+        },
+        {
+          "text": "你知唔知日日嗰个对话重放本来就会出音频？我想加多一步：将个重放文本翻译做粤文，喺原本之上再另外出埋粤语音频。",
+          "start_time": 0.0,
+          "end_time": 11.832,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 40.632000000000005,
+          "end_time": 40.632000000000005,
+          "language": "yue"
+        },
+        {
+          "text": "Run it with today's material to make sure it works.",
+          "start_time": 0.0,
+          "end_time": 11.832,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 40.632000000000005,
+          "end_time": 40.632000000000005,
+          "language": "yue"
+        },
+        {
+          "text": "拎今日啲素材行一次，睇下掂唔掂。",
+          "start_time": 11.832,
+          "end_time": 15.984000000000002,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 40.632000000000005,
+          "end_time": 40.632000000000005,
+          "language": "yue"
+        },
+        {
+          "text": "The TTS API supports wrapping the original text in square brackets for a bilingual side-by-side view. The bracketed text doesn't get turned into audio — take a look, and then apply it going forward.",
+          "start_time": 11.832,
+          "end_time": 15.984000000000002,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 40.632000000000005,
+          "end_time": 40.632000000000005,
+          "language": "yue"
+        },
+        {
+          "text": "嗰个 TTS API 支援用方括号包住原文，做双语对照。包住嗰啲字唔会变做音频——你睇下，跟住之后用得。",
+          "start_time": 15.984000000000002,
+          "end_time": 26.904000000000003,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 40.632000000000005,
+          "end_time": 40.632000000000005,
+          "language": "yue"
+        },
+        {
+          "text": "What I expect from this feature is one audio file per record — not everything mixed together. See if you can fix that, and verify it.",
+          "start_time": 15.984000000000002,
+          "end_time": 26.904000000000003,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 40.632000000000005,
+          "end_time": 40.632000000000005,
+          "language": "yue"
+        },
+        {
+          "text": "我期望呢个功能係一条记录净係出一个音频，唔係全部捞埋一齐。你睇下改唔改到，改完验证一次。",
+          "start_time": 26.904000000000003,
+          "end_time": 36.696000000000005,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 40.632000000000005,
+          "end_time": 40.632000000000005,
+          "language": "yue"
+        },
+        {
+          "text": "Got it — so it was a wrong parameter on my end.",
+          "start_time": 26.904000000000003,
+          "end_time": 36.696000000000005,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 40.632000000000005,
+          "end_time": 40.632000000000005,
+          "language": "yue"
+        },
+        {
+          "text": "明白——即係我嗰边传错咗个参数。",
+          "start_time": 36.696000000000005,
+          "end_time": 40.632000000000005,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 40.632000000000005,
+          "end_time": 40.632000000000005,
+          "language": "yue"
+        }
+      ]
+    }
+  }
+}
