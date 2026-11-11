@@ -1,0 +1,89 @@
+{
+  "id": "fd0530bc-d9e3-405b-870d-5e608b6d62d7",
+  "title": "等等，你话猪好聪明噉，噉唔係成件事都好似几残忍咁？",
+  "content_type": "paragraph",
+  "content_text": "等等，你话猪好聪明噉，噉唔係成件事都好似几残忍咁？\n点讲好呢……啲人呢，向来都係锡狗锡猫多啲啦，你明嘅？而家你话我知原来猪都一样咁醒，我真係唔知点形容嗰种感觉。\n以前我养猫嗰阵，试过抱住佢去照镜——佢好似完全认唔出镜里面嗰个就係自己。\n仲有邊啲动物真係过到镜面测试㗎？\n呢句入面，我一直以為 managed 係「管理啲乜」噉解——但係喺度佢又好似係另外一个意思噉。\n我哋喺中国学英文，每个字都係钉死咗一个解法，一撞到佢另外一个意思，即刻懵晒。我哋而家啲 job 里面，有冇已经搞掂呢个问题嘅？",
+  "created_at": "2026-11-11T01:08:40.577485Z",
+  "language_versions": {
+    "yue": {
+      "tts_engine": "edge-tts",
+      "voice": "zh-HK-WanLungNeural",
+      "audio_url": "/audio/dev-user-001/fd0530bc-d9e3-405b-870d-5e608b6d62d7/fd0530bc-d9e3-405b-870d-5e608b6d62d7_yue.wav",
+      "audio_rel_path": "/audio/20261111T010840Z___fd0530bc-d9e3-405b-870d-5e608b6d62d7_yue.wav",
+      "sentences": [
+        {
+          "text": "等等，你话猪好聪明噉，噉唔係成件事都好似几残忍咁？",
+          "start_time": 0.0,
+          "end_time": 6.168,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 49.992000000000004,
+          "end_time": 49.992000000000004,
+          "language": "yue"
+        },
+        {
+          "text": "点讲好呢……啲人呢，向来都係锡狗锡猫多啲啦，你明嘅？而家你话我知原来猪都一样咁醒，我真係唔知点形容嗰种感觉。",
+          "start_time": 6.168,
+          "end_time": 18.0,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 49.992000000000004,
+          "end_time": 49.992000000000004,
+          "language": "yue"
+        },
+        {
+          "text": "以前我养猫嗰阵，试过抱住佢去照镜——佢好似完全认唔出镜里面嗰个就係自己。",
+          "start_time": 18.0,
+          "end_time": 25.656,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 49.992000000000004,
+          "end_time": 49.992000000000004,
+          "language": "yue"
+        },
+        {
+          "text": "仲有邊啲动物真係过到镜面测试㗎？",
+          "start_time": 25.656,
+          "end_time": 29.64,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 49.992000000000004,
+          "end_time": 49.992000000000004,
+          "language": "yue"
+        },
+        {
+          "text": "呢句入面，我一直以為 managed 係「管理啲乜」噉解——但係喺度佢又好似係另外一个意思噉。",
+          "start_time": 29.64,
+          "end_time": 37.344,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 49.992000000000004,
+          "end_time": 49.992000000000004,
+          "language": "yue"
+        },
+        {
+          "text": "我哋喺中国学英文，每个字都係钉死咗一个解法，一撞到佢另外一个意思，即刻懵晒。我哋而家啲 job 里面，有冇已经搞掂呢个问题嘅？",
+          "start_time": 37.344,
+          "end_time": 49.992000000000004,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 49.992000000000004,
+          "end_time": 49.992000000000004,
+          "language": "yue"
+        }
+      ]
+    }
+  }
+}
