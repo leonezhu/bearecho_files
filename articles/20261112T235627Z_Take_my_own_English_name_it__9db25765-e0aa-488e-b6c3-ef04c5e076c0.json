@@ -1,0 +1,65 @@
+{
+  "id": "9db25765-e0aa-488e-b6c3-ef04c5e076c0",
+  "title": "Take my own English name — it...",
+  "content_type": "paragraph",
+  "content_text": "Take my own English name — it comes from Leon: The Professional, and its English title is just Leon too.\nSo you see, English movie titles tend to be minimal — usually just a person's name — while Chinese titles like to build in connections and character traits.\nThat's a really interesting pattern.\nThat reminds me — in the movie, someone says Heidi doesn't sound like a proper Christian name. What's the background there?",
+  "created_at": "2026-11-12T23:56:27.795784Z",
+  "language_versions": {
+    "en": {
+      "tts_engine": "edge-tts",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "audio_url": "/audio/dev-user-001/9db25765-e0aa-488e-b6c3-ef04c5e076c0/9db25765-e0aa-488e-b6c3-ef04c5e076c0_en.wav",
+      "audio_rel_path": "/audio/20261112T235627Z_Take_my_own_English_name_it__9db25765-e0aa-488e-b6c3-ef04c5e076c0_en.wav",
+      "sentences": [
+        {
+          "text": "Take my own English name — it comes from Leon: The Professional, and its English title is just Leon too.",
+          "start_time": 0.0,
+          "end_time": 6.816,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 25.992,
+          "end_time": 25.992,
+          "language": "en"
+        },
+        {
+          "text": "So you see, English movie titles tend to be minimal — usually just a person's name — while Chinese titles like to build in connections and character traits.",
+          "start_time": 6.816,
+          "end_time": 17.184,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 25.992,
+          "end_time": 25.992,
+          "language": "en"
+        },
+        {
+          "text": "That's a really interesting pattern.",
+          "start_time": 17.184,
+          "end_time": 18.984,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 25.992,
+          "end_time": 25.992,
+          "language": "en"
+        },
+        {
+          "text": "That reminds me — in the movie, someone says Heidi doesn't sound like a proper Christian name. What's the background there?",
+          "start_time": 18.984,
+          "end_time": 25.992,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 25.992,
+          "end_time": 25.992,
+          "language": "en"
+        }
+      ]
+    }
+  }
+}
