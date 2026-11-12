@@ -1,0 +1,65 @@
+{
+  "id": "4a76f144-d1be-4db0-b925-d5a31ef4a231",
+  "title": "I've been home these past...",
+  "content_type": "paragraph",
+  "content_text": "I've been home these past couple of days with a lot of time on my hands, and not much to do.\nSame today — I finally got around to finishing Heidi, that movie I'd never managed to finish. It really is such a warm movie.\nWhile watching it, I noticed something interesting: I love little girls, and if I ever have a daughter, I'd name her Heidi.\nI also noticed something: the English title is just Heidi, but the Chinese title is literally \"Heidi and Grandpa.\"",
+  "created_at": "2026-11-12T23:56:21.573367Z",
+  "language_versions": {
+    "en": {
+      "tts_engine": "edge-tts",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "audio_url": "/audio/dev-user-001/4a76f144-d1be-4db0-b925-d5a31ef4a231/4a76f144-d1be-4db0-b925-d5a31ef4a231_en.wav",
+      "audio_rel_path": "/audio/20261112T235621Z_I_ve_been_home_these_past__4a76f144-d1be-4db0-b925-d5a31ef4a231_en.wav",
+      "sentences": [
+        {
+          "text": "I've been home these past couple of days with a lot of time on my hands, and not much to do.",
+          "start_time": 0.0,
+          "end_time": 5.112,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 27.624000000000002,
+          "end_time": 27.624000000000002,
+          "language": "en"
+        },
+        {
+          "text": "Same today — I finally got around to finishing Heidi, that movie I'd never managed to finish. It really is such a warm movie.",
+          "start_time": 5.112,
+          "end_time": 13.128,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 27.624000000000002,
+          "end_time": 27.624000000000002,
+          "language": "en"
+        },
+        {
+          "text": "While watching it, I noticed something interesting: I love little girls, and if I ever have a daughter, I'd name her Heidi.",
+          "start_time": 13.128,
+          "end_time": 20.376,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 27.624000000000002,
+          "end_time": 27.624000000000002,
+          "language": "en"
+        },
+        {
+          "text": "I also noticed something: the English title is just Heidi, but the Chinese title is literally \"Heidi and Grandpa.\"",
+          "start_time": 20.376,
+          "end_time": 27.624000000000002,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 27.624000000000002,
+          "end_time": 27.624000000000002,
+          "language": "en"
+        }
+      ]
+    }
+  }
+}
