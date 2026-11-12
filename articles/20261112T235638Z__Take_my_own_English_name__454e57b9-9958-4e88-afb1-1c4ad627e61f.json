@@ -1,0 +1,113 @@
+{
+  "id": "454e57b9-9958-4e88-afb1-1c4ad627e61f",
+  "title": "[Take my own English name —...",
+  "content_type": "paragraph",
+  "content_text": "[Take my own English name — it comes from Leon: The Professional, and its English title is just Leon too.]\n拿我自己个英文名嚟讲：个名係嚟自《这个杀手不太冷》嘅——而套戏个英文名亦都净係得 Leon。\n[So you see, English movie titles tend to be minimal — usually just a person's name — while Chinese titles like to build in connections and character traits.]\n所以你睇下，英文片名通常好简洁，多数净係得个人名；但中文片名就钟意加啲关联入去，有特征、有联系。\n[That's a really interesting pattern.]\n呢个现象真係几有趣。\n[That reminds me — in the movie, someone says Heidi doesn't sound like a proper Christian name. What's the background there?]\n咁又令我谂返起——套戏入面话 Heidi 呢个名好似唔係个正经教名噉，个背景究竟係点？",
+  "created_at": "2026-11-12T23:56:38.294984Z",
+  "language_versions": {
+    "yue": {
+      "tts_engine": "edge-tts",
+      "voice": "zh-HK-WanLungNeural",
+      "audio_url": "/audio/dev-user-001/454e57b9-9958-4e88-afb1-1c4ad627e61f/454e57b9-9958-4e88-afb1-1c4ad627e61f_yue.wav",
+      "audio_rel_path": "/audio/20261112T235638Z__Take_my_own_English_name__454e57b9-9958-4e88-afb1-1c4ad627e61f_yue.wav",
+      "sentences": [
+        {
+          "text": "Take my own English name — it comes from Leon: The Professional, and its English title is just Leon too.",
+          "start_time": 30.456,
+          "end_time": 30.456,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 30.456,
+          "end_time": 30.456,
+          "language": "yue"
+        },
+        {
+          "text": "拿我自己个英文名嚟讲：个名係嚟自《这个杀手不太冷》嘅——而套戏个英文名亦都净係得 Leon。",
+          "start_time": 0.0,
+          "end_time": 9.096,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 30.456,
+          "end_time": 30.456,
+          "language": "yue"
+        },
+        {
+          "text": "So you see, English movie titles tend to be minimal — usually just a person's name — while Chinese titles like to build in connections and character traits.",
+          "start_time": 0.0,
+          "end_time": 9.096,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 30.456,
+          "end_time": 30.456,
+          "language": "yue"
+        },
+        {
+          "text": "所以你睇下，英文片名通常好简洁，多数净係得个人名；但中文片名就钟意加啲关联入去，有特征、有联系。",
+          "start_time": 9.096,
+          "end_time": 19.584,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 30.456,
+          "end_time": 30.456,
+          "language": "yue"
+        },
+        {
+          "text": "That's a really interesting pattern.",
+          "start_time": 9.096,
+          "end_time": 19.584,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 30.456,
+          "end_time": 30.456,
+          "language": "yue"
+        },
+        {
+          "text": "呢个现象真係几有趣。",
+          "start_time": 19.584,
+          "end_time": 22.56,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 30.456,
+          "end_time": 30.456,
+          "language": "yue"
+        },
+        {
+          "text": "That reminds me — in the movie, someone says Heidi doesn't sound like a proper Christian name. What's the background there?",
+          "start_time": 19.584,
+          "end_time": 22.56,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 30.456,
+          "end_time": 30.456,
+          "language": "yue"
+        },
+        {
+          "text": "咁又令我谂返起——套戏入面话 Heidi 呢个名好似唔係个正经教名噉，个背景究竟係点？",
+          "start_time": 22.56,
+          "end_time": 30.456,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 30.456,
+          "end_time": 30.456,
+          "language": "yue"
+        }
+      ]
+    }
+  }
+}
