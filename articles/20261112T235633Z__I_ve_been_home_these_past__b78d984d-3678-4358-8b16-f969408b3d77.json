@@ -1,0 +1,113 @@
+{
+  "id": "b78d984d-3678-4358-8b16-f969408b3d77",
+  "title": "[I've been home these past...",
+  "content_type": "paragraph",
+  "content_text": "[I've been home these past couple of days with a lot of time on my hands, and not much to do.]\n呢两日都喺屋企，好多时间但又唔知做乜好。\n[Same today — I finally got around to finishing Heidi, that movie I'd never managed to finish. It really is such a warm movie.]\n今日都係咁——终于抽返时间，将套一直未睇完嘅《海蒂同爷爷》睇完咗。套戏真係好温暖。\n[While watching it, I noticed something interesting: I love little girls, and if I ever have a daughter, I'd name her Heidi.]\n睇嘅过程度发现咗件几有趣嘅事：我好钟意小女孩，第日如果有个女，我想同佢改名叫 Heidi。\n[I also noticed something: the English title is just Heidi, but the Chinese title is literally \"Heidi and Grandpa.\"]\n仲发现咗一样嘢：套戏英文名就咁短，净係得 Heidi，但中文名就变咗《海蒂同爷爷》。",
+  "created_at": "2026-11-12T23:56:33.123481Z",
+  "language_versions": {
+    "yue": {
+      "tts_engine": "edge-tts",
+      "voice": "zh-HK-WanLungNeural",
+      "audio_url": "/audio/dev-user-001/b78d984d-3678-4358-8b16-f969408b3d77/b78d984d-3678-4358-8b16-f969408b3d77_yue.wav",
+      "audio_rel_path": "/audio/20261112T235633Z__I_ve_been_home_these_past__b78d984d-3678-4358-8b16-f969408b3d77_yue.wav",
+      "sentences": [
+        {
+          "text": "I've been home these past couple of days with a lot of time on my hands, and not much to do.",
+          "start_time": 31.752,
+          "end_time": 31.752,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 31.752,
+          "end_time": 31.752,
+          "language": "yue"
+        },
+        {
+          "text": "呢两日都喺屋企，好多时间但又唔知做乜好。",
+          "start_time": 0.0,
+          "end_time": 4.944,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 31.752,
+          "end_time": 31.752,
+          "language": "yue"
+        },
+        {
+          "text": "Same today — I finally got around to finishing Heidi, that movie I'd never managed to finish. It really is such a warm movie.",
+          "start_time": 0.0,
+          "end_time": 4.944,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 31.752,
+          "end_time": 31.752,
+          "language": "yue"
+        },
+        {
+          "text": "今日都係咁——终于抽返时间，将套一直未睇完嘅《海蒂同爷爷》睇完咗。套戏真係好温暖。",
+          "start_time": 4.944,
+          "end_time": 14.832,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 31.752,
+          "end_time": 31.752,
+          "language": "yue"
+        },
+        {
+          "text": "While watching it, I noticed something interesting: I love little girls, and if I ever have a daughter, I'd name her Heidi.",
+          "start_time": 4.944,
+          "end_time": 14.832,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 31.752,
+          "end_time": 31.752,
+          "language": "yue"
+        },
+        {
+          "text": "睇嘅过程度发现咗件几有趣嘅事：我好钟意小女孩，第日如果有个女，我想同佢改名叫 Heidi。",
+          "start_time": 14.832,
+          "end_time": 23.424,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 31.752,
+          "end_time": 31.752,
+          "language": "yue"
+        },
+        {
+          "text": "I also noticed something: the English title is just Heidi, but the Chinese title is literally \"Heidi and Grandpa.\"",
+          "start_time": 14.832,
+          "end_time": 23.424,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 31.752,
+          "end_time": 31.752,
+          "language": "yue"
+        },
+        {
+          "text": "仲发现咗一样嘢：套戏英文名就咁短，净係得 Heidi，但中文名就变咗《海蒂同爷爷》。",
+          "start_time": 23.424,
+          "end_time": 31.752,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 31.752,
+          "end_time": 31.752,
+          "language": "yue"
+        }
+      ]
+    }
+  }
+}
