@@ -1,0 +1,89 @@
+{
+  "id": "0add7905-3d5d-4fe9-9862-1025bf21147e",
+  "title": "[To be honest, I have no idea...",
+  "content_type": "paragraph",
+  "content_text": "[To be honest, I have no idea how to spend my weekend.]\n老实讲，我真係唔知个周末可以点过。\n[Right now I'm just lying around listening to this novel — I don't even know why I'm so hooked on it.]\n呢排净係瞓喺度听《雪中悍刀行》，连自己点解咁上瘾都唔知。\n[I've basically been lying around all day — not feeling great, and I don't really have the will to do anything else.]\n基本上成日都係瞓喺度，状态麻麻哋，乜嘢都冇乜心机去做。",
+  "created_at": "2026-11-14T06:52:26.464559Z",
+  "language_versions": {
+    "yue": {
+      "tts_engine": "edge-tts",
+      "voice": "zh-HK-WanLungNeural",
+      "audio_url": "/audio/dev-user-001/0add7905-3d5d-4fe9-9862-1025bf21147e/0add7905-3d5d-4fe9-9862-1025bf21147e_yue.wav",
+      "audio_rel_path": "/audio/20261114T065226Z__To_be_honest_I_have_no_idea__0add7905-3d5d-4fe9-9862-1025bf21147e_yue.wav",
+      "sentences": [
+        {
+          "text": "To be honest, I have no idea how to spend my weekend.",
+          "start_time": 16.968000000000004,
+          "end_time": 16.968000000000004,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 16.968000000000004,
+          "end_time": 16.968000000000004,
+          "language": "yue"
+        },
+        {
+          "text": "老实讲，我真係唔知个周末可以点过。",
+          "start_time": 0.0,
+          "end_time": 4.464,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 16.968000000000004,
+          "end_time": 16.968000000000004,
+          "language": "yue"
+        },
+        {
+          "text": "Right now I'm just lying around listening to this novel — I don't even know why I'm so hooked on it.",
+          "start_time": 0.0,
+          "end_time": 4.464,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 16.968000000000004,
+          "end_time": 16.968000000000004,
+          "language": "yue"
+        },
+        {
+          "text": "呢排净係瞓喺度听《雪中悍刀行》，连自己点解咁上瘾都唔知。",
+          "start_time": 4.464,
+          "end_time": 10.632000000000001,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 16.968000000000004,
+          "end_time": 16.968000000000004,
+          "language": "yue"
+        },
+        {
+          "text": "I've basically been lying around all day — not feeling great, and I don't really have the will to do anything else.",
+          "start_time": 4.464,
+          "end_time": 10.632000000000001,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 16.968000000000004,
+          "end_time": 16.968000000000004,
+          "language": "yue"
+        },
+        {
+          "text": "基本上成日都係瞓喺度，状态麻麻哋，乜嘢都冇乜心机去做。",
+          "start_time": 10.632000000000001,
+          "end_time": 16.968000000000004,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 16.968000000000004,
+          "end_time": 16.968000000000004,
+          "language": "yue"
+        }
+      ]
+    }
+  }
+}
