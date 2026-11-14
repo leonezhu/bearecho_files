@@ -1,0 +1,53 @@
+{
+  "id": "b82b5bbd-9c57-4307-a240-65839ae42756",
+  "title": "I wasn't trying to say...",
+  "content_type": "paragraph",
+  "content_text": "I wasn't trying to say anything about writing — the ASR just misheard it and I didn't correct it.\nCould you rewrite games.html based on that UI SDK note?\nPolish the interactions and styling so the page looks cleaner and less AI-generated — kill the purple.",
+  "created_at": "2026-11-14T06:52:11.847567Z",
+  "language_versions": {
+    "en": {
+      "tts_engine": "edge-tts",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "audio_url": "/audio/dev-user-001/b82b5bbd-9c57-4307-a240-65839ae42756/b82b5bbd-9c57-4307-a240-65839ae42756_en.wav",
+      "audio_rel_path": "/audio/20261114T065211Z_I_wasn_t_trying_to_say__b82b5bbd-9c57-4307-a240-65839ae42756_en.wav",
+      "sentences": [
+        {
+          "text": "I wasn't trying to say anything about writing — the ASR just misheard it and I didn't correct it.",
+          "start_time": 0.0,
+          "end_time": 5.544,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 17.592,
+          "end_time": 17.592,
+          "language": "en"
+        },
+        {
+          "text": "Could you rewrite games.html based on that UI SDK note?",
+          "start_time": 5.544,
+          "end_time": 10.152,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 17.592,
+          "end_time": 17.592,
+          "language": "en"
+        },
+        {
+          "text": "Polish the interactions and styling so the page looks cleaner and less AI-generated — kill the purple.",
+          "start_time": 10.152,
+          "end_time": 17.592,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 17.592,
+          "end_time": 17.592,
+          "language": "en"
+        }
+      ]
+    }
+  }
+}
