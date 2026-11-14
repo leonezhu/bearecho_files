@@ -1,0 +1,53 @@
+{
+  "id": "caf22474-a416-459a-9dc7-2f71cf9a5c4b",
+  "title": "To be honest, I have no idea...",
+  "content_type": "paragraph",
+  "content_text": "To be honest, I have no idea how to spend my weekend.\nRight now I'm just lying around listening to this novel — I don't even know why I'm so hooked on it.\nI've basically been lying around all day — not feeling great, and I don't really have the will to do anything else.",
+  "created_at": "2026-11-14T06:52:06.119692Z",
+  "language_versions": {
+    "en": {
+      "tts_engine": "edge-tts",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "audio_url": "/audio/dev-user-001/caf22474-a416-459a-9dc7-2f71cf9a5c4b/caf22474-a416-459a-9dc7-2f71cf9a5c4b_en.wav",
+      "audio_rel_path": "/audio/20261114T065206Z_To_be_honest_I_have_no_idea__caf22474-a416-459a-9dc7-2f71cf9a5c4b_en.wav",
+      "sentences": [
+        {
+          "text": "To be honest, I have no idea how to spend my weekend.",
+          "start_time": 0.0,
+          "end_time": 3.768,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 15.719999999999999,
+          "end_time": 15.719999999999999,
+          "language": "en"
+        },
+        {
+          "text": "Right now I'm just lying around listening to this novel — I don't even know why I'm so hooked on it.",
+          "start_time": 3.768,
+          "end_time": 9.192,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 15.719999999999999,
+          "end_time": 15.719999999999999,
+          "language": "en"
+        },
+        {
+          "text": "I've basically been lying around all day — not feeling great, and I don't really have the will to do anything else.",
+          "start_time": 9.192,
+          "end_time": 15.719999999999999,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 15.719999999999999,
+          "end_time": 15.719999999999999,
+          "language": "en"
+        }
+      ]
+    }
+  }
+}
