@@ -1,0 +1,89 @@
+{
+  "id": "59e8236f-a9de-418c-94d1-fee02d1edfb5",
+  "title": "[In mail-digest-2026-11-14...",
+  "content_type": "paragraph",
+  "content_text": "[In mail-digest-2026-11-14 there's a rating scheme — what actually decides whether something gets ingested?]\nmail-digest-2026-11-14 入面有个等级分类，到底乜嘢内容先至会被 Ingest？\n[Go over the ingest criteria and tell me if they hold up.]\n你验收下呢套 Ingest 标准合唔合格，经唔经得起审。\n[Even for article-type emails, you should judge whether they're actually worth ingesting first — hold them to the same bar as gtask ingestion.]\n就算係文章型邮件，都要先判断下有冇价值先至 Ingest 入库，同 Ingest gtasks 睇齐。",
+  "created_at": "2026-11-14T23:56:22.710398Z",
+  "language_versions": {
+    "yue": {
+      "tts_engine": "edge-tts",
+      "voice": "zh-HK-WanLungNeural",
+      "audio_url": "/audio/dev-user-001/59e8236f-a9de-418c-94d1-fee02d1edfb5/59e8236f-a9de-418c-94d1-fee02d1edfb5_yue.wav",
+      "audio_rel_path": "/audio/20261114T235622Z__In_mail-digest-2026-11-14__59e8236f-a9de-418c-94d1-fee02d1edfb5_yue.wav",
+      "sentences": [
+        {
+          "text": "In mail-digest-2026-11-14 there's a rating scheme — what actually decides whether something gets ingested?",
+          "start_time": 20.28,
+          "end_time": 20.28,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 20.28,
+          "end_time": 20.28,
+          "language": "yue"
+        },
+        {
+          "text": "mail-digest-2026-11-14 入面有个等级分类，到底乜嘢内容先至会被 Ingest？",
+          "start_time": 0.0,
+          "end_time": 7.92,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 20.28,
+          "end_time": 20.28,
+          "language": "yue"
+        },
+        {
+          "text": "Go over the ingest criteria and tell me if they hold up.",
+          "start_time": 0.0,
+          "end_time": 7.92,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 20.28,
+          "end_time": 20.28,
+          "language": "yue"
+        },
+        {
+          "text": "你验收下呢套 Ingest 标准合唔合格，经唔经得起审。",
+          "start_time": 7.92,
+          "end_time": 12.911999999999999,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 20.28,
+          "end_time": 20.28,
+          "language": "yue"
+        },
+        {
+          "text": "Even for article-type emails, you should judge whether they're actually worth ingesting first — hold them to the same bar as gtask ingestion.",
+          "start_time": 7.92,
+          "end_time": 12.911999999999999,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 20.28,
+          "end_time": 20.28,
+          "language": "yue"
+        },
+        {
+          "text": "就算係文章型邮件，都要先判断下有冇价值先至 Ingest 入库，同 Ingest gtasks 睇齐。",
+          "start_time": 12.911999999999999,
+          "end_time": 20.28,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 20.28,
+          "end_time": 20.28,
+          "language": "yue"
+        }
+      ]
+    }
+  }
+}
