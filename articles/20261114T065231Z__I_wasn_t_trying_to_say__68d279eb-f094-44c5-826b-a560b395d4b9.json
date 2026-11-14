@@ -1,0 +1,89 @@
+{
+  "id": "68d279eb-f094-44c5-826b-a560b395d4b9",
+  "title": "[I wasn't trying to say...",
+  "content_type": "paragraph",
+  "content_text": "[I wasn't trying to say anything about writing — the ASR just misheard it and I didn't correct it.]\n我唔係想讲乜嘢写作——只係 ASR 听错咗，我又冇纠正返佢。\n[Could you rewrite games.html based on that UI SDK note?]\n可唔可以用嗰篇 UI SDK 笔记，帮我重写 games.html？\n[Polish the interactions and styling so the page looks cleaner and less AI-generated — kill the purple.]\n执靓啲互动同样式，等个页面睇落更简洁优雅，冇嗰种 AI 味——紫色都要杀埋。",
+  "created_at": "2026-11-14T06:52:31.993508Z",
+  "language_versions": {
+    "yue": {
+      "tts_engine": "edge-tts",
+      "voice": "zh-HK-WanLungNeural",
+      "audio_url": "/audio/dev-user-001/68d279eb-f094-44c5-826b-a560b395d4b9/68d279eb-f094-44c5-826b-a560b395d4b9_yue.wav",
+      "audio_rel_path": "/audio/20261114T065231Z__I_wasn_t_trying_to_say__68d279eb-f094-44c5-826b-a560b395d4b9_yue.wav",
+      "sentences": [
+        {
+          "text": "I wasn't trying to say anything about writing — the ASR just misheard it and I didn't correct it.",
+          "start_time": 19.008,
+          "end_time": 19.008,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 19.008,
+          "end_time": 19.008,
+          "language": "yue"
+        },
+        {
+          "text": "我唔係想讲乜嘢写作——只係 ASR 听错咗，我又冇纠正返佢。",
+          "start_time": 0.0,
+          "end_time": 6.168,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 19.008,
+          "end_time": 19.008,
+          "language": "yue"
+        },
+        {
+          "text": "Could you rewrite games.html based on that UI SDK note?",
+          "start_time": 0.0,
+          "end_time": 6.168,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 19.008,
+          "end_time": 19.008,
+          "language": "yue"
+        },
+        {
+          "text": "可唔可以用嗰篇 UI SDK 笔记，帮我重写 games.html？",
+          "start_time": 6.168,
+          "end_time": 11.808,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 19.008,
+          "end_time": 19.008,
+          "language": "yue"
+        },
+        {
+          "text": "Polish the interactions and styling so the page looks cleaner and less AI-generated — kill the purple.",
+          "start_time": 6.168,
+          "end_time": 11.808,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 19.008,
+          "end_time": 19.008,
+          "language": "yue"
+        },
+        {
+          "text": "执靓啲互动同样式，等个页面睇落更简洁优雅，冇嗰种 AI 味——紫色都要杀埋。",
+          "start_time": 11.808,
+          "end_time": 19.008,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 19.008,
+          "end_time": 19.008,
+          "language": "yue"
+        }
+      ]
+    }
+  }
+}
