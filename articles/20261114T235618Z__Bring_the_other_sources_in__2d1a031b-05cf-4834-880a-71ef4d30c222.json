@@ -1,0 +1,113 @@
+{
+  "id": "2d1a031b-05cf-4834-880a-71ef4d30c222",
+  "title": "[Bring the other sources in...",
+  "content_type": "paragraph",
+  "content_text": "[Bring the other sources in under Garmin as the anchor — phone, Mac, WeRead, and anything else down the road.]\n其他数据源都并入埋，以佳明手环做锚——手机、Mac、微信读书，以后再有乜都照加。\n[That way you can tell what I was doing and when, and actually reconstruct my day — even listening to audiobooks while I'm at work.]\n咁样就可以知道我几点喺度做紧乜，清楚还原我成日嘅行为——就算係返工嗰阵听电子书都还原到。\n[Get as close to that as you can, and optimize the relevant skills.]\n尽量做到最贴近呢个效果，顺手将相关嘅 skill 优化埋。\n[The WeRead data should be pulled fresh each time the updated daily report job runs — don't read the stale files.]\n微信读书嘅数据，每次嗰个升级咗嘅日更 job 跑嗰阵都要拉最新嘅——唔好净係读旧文件。",
+  "created_at": "2026-11-14T23:56:18.074156Z",
+  "language_versions": {
+    "yue": {
+      "tts_engine": "edge-tts",
+      "voice": "zh-HK-WanLungNeural",
+      "audio_url": "/audio/dev-user-001/2d1a031b-05cf-4834-880a-71ef4d30c222/2d1a031b-05cf-4834-880a-71ef4d30c222_yue.wav",
+      "audio_rel_path": "/audio/20261114T235618Z__Bring_the_other_sources_in__2d1a031b-05cf-4834-880a-71ef4d30c222_yue.wav",
+      "sentences": [
+        {
+          "text": "Bring the other sources in under Garmin as the anchor — phone, Mac, WeRead, and anything else down the road.",
+          "start_time": 30.96,
+          "end_time": 30.96,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 30.96,
+          "end_time": 30.96,
+          "language": "yue"
+        },
+        {
+          "text": "其他数据源都并入埋，以佳明手环做锚——手机、Mac、微信读书，以后再有乜都照加。",
+          "start_time": 0.0,
+          "end_time": 8.184,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 30.96,
+          "end_time": 30.96,
+          "language": "yue"
+        },
+        {
+          "text": "That way you can tell what I was doing and when, and actually reconstruct my day — even listening to audiobooks while I'm at work.",
+          "start_time": 0.0,
+          "end_time": 8.184,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 30.96,
+          "end_time": 30.96,
+          "language": "yue"
+        },
+        {
+          "text": "咁样就可以知道我几点喺度做紧乜，清楚还原我成日嘅行为——就算係返工嗰阵听电子书都还原到。",
+          "start_time": 8.184,
+          "end_time": 17.112000000000002,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 30.96,
+          "end_time": 30.96,
+          "language": "yue"
+        },
+        {
+          "text": "Get as close to that as you can, and optimize the relevant skills.",
+          "start_time": 8.184,
+          "end_time": 17.112000000000002,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 30.96,
+          "end_time": 30.96,
+          "language": "yue"
+        },
+        {
+          "text": "尽量做到最贴近呢个效果，顺手将相关嘅 skill 优化埋。",
+          "start_time": 17.112000000000002,
+          "end_time": 22.824,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 30.96,
+          "end_time": 30.96,
+          "language": "yue"
+        },
+        {
+          "text": "The WeRead data should be pulled fresh each time the updated daily report job runs — don't read the stale files.",
+          "start_time": 17.112000000000002,
+          "end_time": 22.824,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 30.96,
+          "end_time": 30.96,
+          "language": "yue"
+        },
+        {
+          "text": "微信读书嘅数据，每次嗰个升级咗嘅日更 job 跑嗰阵都要拉最新嘅——唔好净係读旧文件。",
+          "start_time": 22.824,
+          "end_time": 30.96,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 30.96,
+          "end_time": 30.96,
+          "language": "yue"
+        }
+      ]
+    }
+  }
+}
