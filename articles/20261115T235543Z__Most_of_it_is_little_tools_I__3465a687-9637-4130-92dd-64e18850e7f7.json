@@ -1,0 +1,113 @@
+{
+  "id": "3465a687-9637-4130-92dd-64e18850e7f7",
+  "title": "[Most of it is little tools I...",
+  "content_type": "paragraph",
+  "content_text": "[Most of it is little tools I built for myself and endless tinkering on my notes repo — no real portfolio pieces, nothing that actually makes money.]\n大部分都係自己做嘅小工具，同埋喺 notes 嗰度翻嚟覆去咁折腾——冇乜真真正正嘅作品，更加冇搵到钱嘅嘢。\n[I even let my workout habit slip.]\n连健身嘅习惯都放低埋。\n[Going forward, I need to stick to things with certain payoffs — studying English daily, slowly building the exercise habit back.]\n以后要拣啲确定性高嘅事嚟做——日日学英文，慢慢将运动习惯捡返嚟。\n[Take more small steps toward freelancing, instead of worrying about whether it'll work first.]\n往自由职业嗰边行多几小步，唔好一开头就担心得唔得。",
+  "created_at": "2026-11-15T23:55:43.291262Z",
+  "language_versions": {
+    "yue": {
+      "tts_engine": "edge-tts",
+      "voice": "zh-HK-WanLungNeural",
+      "audio_url": "/audio/dev-user-001/3465a687-9637-4130-92dd-64e18850e7f7/3465a687-9637-4130-92dd-64e18850e7f7_yue.wav",
+      "audio_rel_path": "/audio/20261115T235543Z__Most_of_it_is_little_tools_I__3465a687-9637-4130-92dd-64e18850e7f7_yue.wav",
+      "sentences": [
+        {
+          "text": "Most of it is little tools I built for myself and endless tinkering on my notes repo — no real portfolio pieces, nothing that actually makes money.",
+          "start_time": 24.744,
+          "end_time": 24.744,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 24.744,
+          "end_time": 24.744,
+          "language": "yue"
+        },
+        {
+          "text": "大部分都係自己做嘅小工具，同埋喺 notes 嗰度翻嚟覆去咁折腾——冇乜真真正正嘅作品，更加冇搵到钱嘅嘢。",
+          "start_time": 0.0,
+          "end_time": 9.336,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 24.744,
+          "end_time": 24.744,
+          "language": "yue"
+        },
+        {
+          "text": "I even let my workout habit slip.",
+          "start_time": 0.0,
+          "end_time": 9.336,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 24.744,
+          "end_time": 24.744,
+          "language": "yue"
+        },
+        {
+          "text": "连健身嘅习惯都放低埋。",
+          "start_time": 9.336,
+          "end_time": 12.576,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 24.744,
+          "end_time": 24.744,
+          "language": "yue"
+        },
+        {
+          "text": "Going forward, I need to stick to things with certain payoffs — studying English daily, slowly building the exercise habit back.",
+          "start_time": 9.336,
+          "end_time": 12.576,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 24.744,
+          "end_time": 24.744,
+          "language": "yue"
+        },
+        {
+          "text": "以后要拣啲确定性高嘅事嚟做——日日学英文，慢慢将运动习惯捡返嚟。",
+          "start_time": 12.576,
+          "end_time": 19.224,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 24.744,
+          "end_time": 24.744,
+          "language": "yue"
+        },
+        {
+          "text": "Take more small steps toward freelancing, instead of worrying about whether it'll work first.",
+          "start_time": 12.576,
+          "end_time": 19.224,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 24.744,
+          "end_time": 24.744,
+          "language": "yue"
+        },
+        {
+          "text": "往自由职业嗰边行多几小步，唔好一开头就担心得唔得。",
+          "start_time": 19.224,
+          "end_time": 24.744,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 24.744,
+          "end_time": 24.744,
+          "language": "yue"
+        }
+      ]
+    }
+  }
+}
