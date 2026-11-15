@@ -1,0 +1,113 @@
+{
+  "id": "16e5faf1-35cc-4510-9d88-2b36ad65c0d1",
+  "title": "[I was looking at the commit...",
+  "content_type": "paragraph",
+  "content_text": "[I was looking at the commit history on my GitHub profile —]\n我睇咗下我 GitHub 主页嗰个 commit 纪录——\n[only 7 days this past year had no data.]\n过去一年得 7 日冇 data。\n[I want to turn this into a post — kind of a sigh about the year.]\n我想攞嚟发条朋友圈，感叹一下呢一年。\n[It's like vocab books — everyone gives up at 'abandon', the very first word.]\n好似背单词咁——个个都喺 abandon 嗰一页阵亡。",
+  "created_at": "2026-11-15T23:55:39.176109Z",
+  "language_versions": {
+    "yue": {
+      "tts_engine": "edge-tts",
+      "voice": "zh-HK-WanLungNeural",
+      "audio_url": "/audio/dev-user-001/16e5faf1-35cc-4510-9d88-2b36ad65c0d1/16e5faf1-35cc-4510-9d88-2b36ad65c0d1_yue.wav",
+      "audio_rel_path": "/audio/20261115T235539Z__I_was_looking_at_the_commit__16e5faf1-35cc-4510-9d88-2b36ad65c0d1_yue.wav",
+      "sentences": [
+        {
+          "text": "I was looking at the commit history on my GitHub profile —",
+          "start_time": 15.576,
+          "end_time": 15.576,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 15.576,
+          "end_time": 15.576,
+          "language": "yue"
+        },
+        {
+          "text": "我睇咗下我 GitHub 主页嗰个 commit 纪录——",
+          "start_time": 0.0,
+          "end_time": 3.696,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 15.576,
+          "end_time": 15.576,
+          "language": "yue"
+        },
+        {
+          "text": "only 7 days this past year had no data.",
+          "start_time": 0.0,
+          "end_time": 3.696,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 15.576,
+          "end_time": 15.576,
+          "language": "yue"
+        },
+        {
+          "text": "过去一年得 7 日冇 data。",
+          "start_time": 3.696,
+          "end_time": 6.504,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 15.576,
+          "end_time": 15.576,
+          "language": "yue"
+        },
+        {
+          "text": "I want to turn this into a post — kind of a sigh about the year.",
+          "start_time": 3.696,
+          "end_time": 6.504,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 15.576,
+          "end_time": 15.576,
+          "language": "yue"
+        },
+        {
+          "text": "我想攞嚟发条朋友圈，感叹一下呢一年。",
+          "start_time": 6.504,
+          "end_time": 10.824,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 15.576,
+          "end_time": 15.576,
+          "language": "yue"
+        },
+        {
+          "text": "It's like vocab books — everyone gives up at 'abandon', the very first word.",
+          "start_time": 6.504,
+          "end_time": 10.824,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 15.576,
+          "end_time": 15.576,
+          "language": "yue"
+        },
+        {
+          "text": "好似背单词咁——个个都喺 abandon 嗰一页阵亡。",
+          "start_time": 10.824,
+          "end_time": 15.576,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 15.576,
+          "end_time": 15.576,
+          "language": "yue"
+        }
+      ]
+    }
+  }
+}
