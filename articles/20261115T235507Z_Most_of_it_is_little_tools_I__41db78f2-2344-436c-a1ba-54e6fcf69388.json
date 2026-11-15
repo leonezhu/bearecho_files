@@ -1,0 +1,65 @@
+{
+  "id": "41db78f2-2344-436c-a1ba-54e6fcf69388",
+  "title": "Most of it is little tools I...",
+  "content_type": "paragraph",
+  "content_text": "Most of it is little tools I built for myself and endless tinkering on my notes repo — no real portfolio pieces, nothing that actually makes money.\nI even let my workout habit slip.\nGoing forward, I need to stick to things with certain payoffs — studying English daily, slowly building the exercise habit back.\nTake more small steps toward freelancing, instead of worrying about whether it'll work first.",
+  "created_at": "2026-11-15T23:55:07.487381Z",
+  "language_versions": {
+    "en": {
+      "tts_engine": "edge-tts",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "audio_url": "/audio/dev-user-001/41db78f2-2344-436c-a1ba-54e6fcf69388/41db78f2-2344-436c-a1ba-54e6fcf69388_en.wav",
+      "audio_rel_path": "/audio/20261115T235507Z_Most_of_it_is_little_tools_I__41db78f2-2344-436c-a1ba-54e6fcf69388_en.wav",
+      "sentences": [
+        {
+          "text": "Most of it is little tools I built for myself and endless tinkering on my notes repo — no real portfolio pieces, nothing that actually makes money.",
+          "start_time": 0.0,
+          "end_time": 10.152,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 26.976,
+          "end_time": 26.976,
+          "language": "en"
+        },
+        {
+          "text": "I even let my workout habit slip.",
+          "start_time": 10.152,
+          "end_time": 12.479999999999999,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 26.976,
+          "end_time": 26.976,
+          "language": "en"
+        },
+        {
+          "text": "Going forward, I need to stick to things with certain payoffs — studying English daily, slowly building the exercise habit back.",
+          "start_time": 12.479999999999999,
+          "end_time": 20.855999999999998,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 26.976,
+          "end_time": 26.976,
+          "language": "en"
+        },
+        {
+          "text": "Take more small steps toward freelancing, instead of worrying about whether it'll work first.",
+          "start_time": 20.855999999999998,
+          "end_time": 26.976,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 26.976,
+          "end_time": 26.976,
+          "language": "en"
+        }
+      ]
+    }
+  }
+}
