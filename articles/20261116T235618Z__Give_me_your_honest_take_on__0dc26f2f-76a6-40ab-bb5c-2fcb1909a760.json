@@ -1,0 +1,113 @@
+{
+  "id": "0dc26f2f-76a6-40ab-bb5c-2fcb1909a760",
+  "title": "[Give me your honest take on...",
+  "content_type": "paragraph",
+  "content_text": "[Give me your honest take on this idea — and if it holds up, spin up a quick web MVP.]\n你老實咁同我講下呢個 idea 有咩睇法——如果企得住，就快手整個網頁 MVP 出嚟。\n[How's it going? Where are we on this?]\n點呀？搞到邊度喇？\n[Polish the experience and make it as fun as you can.]\n盡你所能將體驗執靚啲，有趣啲。\n[Add a vision.md and an agents.md to the repo.]\n喺 repo 度加個 vision.md 同埋 agents.md。",
+  "created_at": "2026-11-16T23:56:18.370779Z",
+  "language_versions": {
+    "yue": {
+      "tts_engine": "edge-tts",
+      "voice": "zh-HK-WanLungNeural",
+      "audio_url": "/audio/dev-user-001/0dc26f2f-76a6-40ab-bb5c-2fcb1909a760/0dc26f2f-76a6-40ab-bb5c-2fcb1909a760_yue.wav",
+      "audio_rel_path": "/audio/20261116T235618Z__Give_me_your_honest_take_on__0dc26f2f-76a6-40ab-bb5c-2fcb1909a760_yue.wav",
+      "sentences": [
+        {
+          "text": "Give me your honest take on this idea — and if it holds up, spin up a quick web MVP.",
+          "start_time": 19.056,
+          "end_time": 19.056,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 19.056,
+          "end_time": 19.056,
+          "language": "yue"
+        },
+        {
+          "text": "你老實咁同我講下呢個 idea 有咩睇法——如果企得住，就快手整個網頁 MVP 出嚟。",
+          "start_time": 0.0,
+          "end_time": 7.272,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 19.056,
+          "end_time": 19.056,
+          "language": "yue"
+        },
+        {
+          "text": "How's it going? Where are we on this?",
+          "start_time": 0.0,
+          "end_time": 7.272,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 19.056,
+          "end_time": 19.056,
+          "language": "yue"
+        },
+        {
+          "text": "點呀？搞到邊度喇？",
+          "start_time": 7.272,
+          "end_time": 10.728,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 19.056,
+          "end_time": 19.056,
+          "language": "yue"
+        },
+        {
+          "text": "Polish the experience and make it as fun as you can.",
+          "start_time": 7.272,
+          "end_time": 10.728,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 19.056,
+          "end_time": 19.056,
+          "language": "yue"
+        },
+        {
+          "text": "盡你所能將體驗執靚啲，有趣啲。",
+          "start_time": 10.728,
+          "end_time": 14.544,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 19.056,
+          "end_time": 19.056,
+          "language": "yue"
+        },
+        {
+          "text": "Add a vision.md and an agents.md to the repo.",
+          "start_time": 10.728,
+          "end_time": 14.544,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 19.056,
+          "end_time": 19.056,
+          "language": "yue"
+        },
+        {
+          "text": "喺 repo 度加個 vision.md 同埋 agents.md。",
+          "start_time": 14.544,
+          "end_time": 19.056,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 19.056,
+          "end_time": 19.056,
+          "language": "yue"
+        }
+      ]
+    }
+  }
+}
