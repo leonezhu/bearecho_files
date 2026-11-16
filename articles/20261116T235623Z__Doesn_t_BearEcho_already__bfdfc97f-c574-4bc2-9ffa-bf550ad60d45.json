@@ -1,0 +1,113 @@
+{
+  "id": "bfdfc97f-c574-4bc2-9ffa-bf550ad60d45",
+  "title": "[Doesn't BearEcho already...",
+  "content_type": "paragraph",
+  "content_text": "[Doesn't BearEcho already have ready-made English content?]\nBearEcho 咪有現成嘅英文素材囉？\n[Use that as swappable base data.]\n攞嚟做可以隨時抽換嘅基礎數據囉。\n[Turn this into a design doc in a new repo, then I'll hand it off to another agent to implement.]\n將呢個諗法寫成設計稿放落新 repo，跟住我交俾第個 agent 去實做。\n[Define a generic data structure first, then just convert the BearEcho data into it — don't design around BearEcho's format.]\n先定義一個通用嘅數據結構，再將 BearEcho 啲 data 轉晒過去就得——唔好跟住佢個 format 嚟設計。",
+  "created_at": "2026-11-16T23:56:23.574149Z",
+  "language_versions": {
+    "yue": {
+      "tts_engine": "edge-tts",
+      "voice": "zh-HK-WanLungNeural",
+      "audio_url": "/audio/dev-user-001/bfdfc97f-c574-4bc2-9ffa-bf550ad60d45/bfdfc97f-c574-4bc2-9ffa-bf550ad60d45_yue.wav",
+      "audio_rel_path": "/audio/20261116T235623Z__Doesn_t_BearEcho_already__bfdfc97f-c574-4bc2-9ffa-bf550ad60d45_yue.wav",
+      "sentences": [
+        {
+          "text": "Doesn't BearEcho already have ready-made English content?",
+          "start_time": 22.152,
+          "end_time": 22.152,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 22.152,
+          "end_time": 22.152,
+          "language": "yue"
+        },
+        {
+          "text": "BearEcho 咪有現成嘅英文素材囉？",
+          "start_time": 0.0,
+          "end_time": 3.408,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 22.152,
+          "end_time": 22.152,
+          "language": "yue"
+        },
+        {
+          "text": "Use that as swappable base data.",
+          "start_time": 0.0,
+          "end_time": 3.408,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 22.152,
+          "end_time": 22.152,
+          "language": "yue"
+        },
+        {
+          "text": "攞嚟做可以隨時抽換嘅基礎數據囉。",
+          "start_time": 3.408,
+          "end_time": 7.416,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 22.152,
+          "end_time": 22.152,
+          "language": "yue"
+        },
+        {
+          "text": "Turn this into a design doc in a new repo, then I'll hand it off to another agent to implement.",
+          "start_time": 3.408,
+          "end_time": 7.416,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 22.152,
+          "end_time": 22.152,
+          "language": "yue"
+        },
+        {
+          "text": "將呢個諗法寫成設計稿放落新 repo，跟住我交俾第個 agent 去實做。",
+          "start_time": 7.416,
+          "end_time": 13.872,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 22.152,
+          "end_time": 22.152,
+          "language": "yue"
+        },
+        {
+          "text": "Define a generic data structure first, then just convert the BearEcho data into it — don't design around BearEcho's format.",
+          "start_time": 7.416,
+          "end_time": 13.872,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 22.152,
+          "end_time": 22.152,
+          "language": "yue"
+        },
+        {
+          "text": "先定義一個通用嘅數據結構，再將 BearEcho 啲 data 轉晒過去就得——唔好跟住佢個 format 嚟設計。",
+          "start_time": 13.872,
+          "end_time": 22.152,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 22.152,
+          "end_time": 22.152,
+          "language": "yue"
+        }
+      ]
+    }
+  }
+}
