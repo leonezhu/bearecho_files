@@ -1,0 +1,65 @@
+{
+  "id": "e82bf85e-b758-4023-92cd-7743c980c824",
+  "title": "Give me your honest take on...",
+  "content_type": "paragraph",
+  "content_text": "Give me your honest take on this idea — and if it holds up, spin up a quick web MVP.\nHow's it going? Where are we on this?\nPolish the experience and make it as fun as you can.\nAdd a vision.md and an agents.md to the repo.",
+  "created_at": "2026-11-16T23:55:51.274318Z",
+  "language_versions": {
+    "en": {
+      "tts_engine": "edge-tts",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "audio_url": "/audio/dev-user-001/e82bf85e-b758-4023-92cd-7743c980c824/e82bf85e-b758-4023-92cd-7743c980c824_en.wav",
+      "audio_rel_path": "/audio/20261116T235551Z_Give_me_your_honest_take_on__e82bf85e-b758-4023-92cd-7743c980c824_en.wav",
+      "sentences": [
+        {
+          "text": "Give me your honest take on this idea — and if it holds up, spin up a quick web MVP.",
+          "start_time": 0.0,
+          "end_time": 5.304,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 15.912,
+          "end_time": 15.912,
+          "language": "en"
+        },
+        {
+          "text": "How's it going? Where are we on this?",
+          "start_time": 5.304,
+          "end_time": 7.6080000000000005,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 15.912,
+          "end_time": 15.912,
+          "language": "en"
+        },
+        {
+          "text": "Polish the experience and make it as fun as you can.",
+          "start_time": 7.6080000000000005,
+          "end_time": 10.848,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 15.912,
+          "end_time": 15.912,
+          "language": "en"
+        },
+        {
+          "text": "Add a vision.md and an agents.md to the repo.",
+          "start_time": 10.848,
+          "end_time": 15.912,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 15.912,
+          "end_time": 15.912,
+          "language": "en"
+        }
+      ]
+    }
+  }
+}
