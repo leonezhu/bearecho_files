@@ -1,0 +1,209 @@
+{
+  "id": "923ad3f6-9e38-42c7-baad-02927481e4f8",
+  "title": "句入面嗰個「no...",
+  "content_type": "paragraph",
+  "content_text": "句入面嗰個「no need」，我成日都會譯做「唔使」，但正確嘅意思應該係「唔好圍住BearEcho嘅格式去設計」。\n[For \"no need\" in that sentence, I keep defaulting to \"don't need to\" — but the correct reading was \"don't design around BearEcho's format\".]\n條句精準道出咗AI代理而家嘅處境。\n[That line nails the current state of AI agents.]\n我哋有冇已經設咗個定時任務去清理垃圾資料？會唔會同嗰個筆記循環重複咗？\n[Do we already have a cron for pruning slop? Isn't that overlapping with the notes loop?]\n你知唔知，我部手機係小米14 Ultra。\n[As you know, my phone is a Xiaomi 14 Ultra.]\n我唔知部電話仲可以做啲咩嘢嚟玩下。\n[I'm wondering what else this phone can do for fun.]\n我而家已經冇再玩手機遊戲咁，而且連成個短視頻APP都拆咗，連Bilibili都唔例外。\n[I don't play mobile games anymore, and I've uninstalled all the short-video apps — even Bilibili.]\n到而家為止，我真正會用嘅其實就係微信同 X，其他嘅我就幾乎唔會碰。\n[At this point, what I actually use is WeChat and X — the rest I barely touch.]\n除此之外，你覺得手機仲好啱用嚟做乜嘢？\n[Beyond that, what else do you think a phone is good for?]",
+  "created_at": "2026-11-17T23:57:22.007566Z",
+  "language_versions": {
+    "yue": {
+      "tts_engine": "edge-tts",
+      "voice": "zh-HK-WanLungNeural",
+      "audio_url": "/audio/dev-user-001/923ad3f6-9e38-42c7-baad-02927481e4f8/923ad3f6-9e38-42c7-baad-02927481e4f8_yue.wav",
+      "audio_rel_path": "/audio/20261117T235722Z__no__923ad3f6-9e38-42c7-baad-02927481e4f8_yue.wav",
+      "sentences": [
+        {
+          "text": "句入面嗰個「no need」，我成日都會譯做「唔使」，但正確嘅意思應該係「唔好圍住BearEcho嘅格式去設計」。",
+          "start_time": 0.0,
+          "end_time": 9.048,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 49.367999999999995,
+          "end_time": 49.367999999999995,
+          "language": "yue"
+        },
+        {
+          "text": "For \"no need\" in that sentence, I keep defaulting to \"don't need to\" — but the correct reading was \"don't design around BearEcho's format\".",
+          "start_time": 0.0,
+          "end_time": 9.048,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 49.367999999999995,
+          "end_time": 49.367999999999995,
+          "language": "yue"
+        },
+        {
+          "text": "條句精準道出咗AI代理而家嘅處境。",
+          "start_time": 9.048,
+          "end_time": 13.248000000000001,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 49.367999999999995,
+          "end_time": 49.367999999999995,
+          "language": "yue"
+        },
+        {
+          "text": "That line nails the current state of AI agents.",
+          "start_time": 9.048,
+          "end_time": 13.248000000000001,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 49.367999999999995,
+          "end_time": 49.367999999999995,
+          "language": "yue"
+        },
+        {
+          "text": "我哋有冇已經設咗個定時任務去清理垃圾資料？會唔會同嗰個筆記循環重複咗？",
+          "start_time": 13.248000000000001,
+          "end_time": 21.432000000000002,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 49.367999999999995,
+          "end_time": 49.367999999999995,
+          "language": "yue"
+        },
+        {
+          "text": "Do we already have a cron for pruning slop? Isn't that overlapping with the notes loop?",
+          "start_time": 13.248000000000001,
+          "end_time": 21.432000000000002,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 49.367999999999995,
+          "end_time": 49.367999999999995,
+          "language": "yue"
+        },
+        {
+          "text": "你知唔知，我部手機係小米14 Ultra。",
+          "start_time": 21.432000000000002,
+          "end_time": 25.776000000000003,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 49.367999999999995,
+          "end_time": 49.367999999999995,
+          "language": "yue"
+        },
+        {
+          "text": "As you know, my phone is a Xiaomi 14 Ultra.",
+          "start_time": 21.432000000000002,
+          "end_time": 25.776000000000003,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 49.367999999999995,
+          "end_time": 49.367999999999995,
+          "language": "yue"
+        },
+        {
+          "text": "我唔知部電話仲可以做啲咩嘢嚟玩下。",
+          "start_time": 25.776000000000003,
+          "end_time": 29.832000000000004,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 49.367999999999995,
+          "end_time": 49.367999999999995,
+          "language": "yue"
+        },
+        {
+          "text": "I'm wondering what else this phone can do for fun.",
+          "start_time": 25.776000000000003,
+          "end_time": 29.832000000000004,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 49.367999999999995,
+          "end_time": 49.367999999999995,
+          "language": "yue"
+        },
+        {
+          "text": "我而家已經冇再玩手機遊戲咁，而且連成個短視頻APP都拆咗，連Bilibili都唔例外。",
+          "start_time": 29.832000000000004,
+          "end_time": 37.344,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 49.367999999999995,
+          "end_time": 49.367999999999995,
+          "language": "yue"
+        },
+        {
+          "text": "I don't play mobile games anymore, and I've uninstalled all the short-video apps — even Bilibili.",
+          "start_time": 29.832000000000004,
+          "end_time": 37.344,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 49.367999999999995,
+          "end_time": 49.367999999999995,
+          "language": "yue"
+        },
+        {
+          "text": "到而家為止，我真正會用嘅其實就係微信同 X，其他嘅我就幾乎唔會碰。",
+          "start_time": 37.344,
+          "end_time": 44.592,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 49.367999999999995,
+          "end_time": 49.367999999999995,
+          "language": "yue"
+        },
+        {
+          "text": "At this point, what I actually use is WeChat and X — the rest I barely touch.",
+          "start_time": 37.344,
+          "end_time": 44.592,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 49.367999999999995,
+          "end_time": 49.367999999999995,
+          "language": "yue"
+        },
+        {
+          "text": "除此之外，你覺得手機仲好啱用嚟做乜嘢？",
+          "start_time": 44.592,
+          "end_time": 49.367999999999995,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 49.367999999999995,
+          "end_time": 49.367999999999995,
+          "language": "yue"
+        },
+        {
+          "text": "Beyond that, what else do you think a phone is good for?",
+          "start_time": 44.592,
+          "end_time": 49.367999999999995,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 49.367999999999995,
+          "end_time": 49.367999999999995,
+          "language": "yue"
+        }
+      ]
+    }
+  }
+}
