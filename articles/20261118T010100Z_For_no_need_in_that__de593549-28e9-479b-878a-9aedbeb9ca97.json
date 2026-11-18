@@ -1,0 +1,209 @@
+{
+  "id": "de593549-28e9-479b-878a-9aedbeb9ca97",
+  "title": "For \"no need\" in that...",
+  "content_type": "paragraph",
+  "content_text": "For \"no need\" in that sentence, I keep defaulting to \"don't need to\" — but the correct reading was \"don't design around BearEcho's format\".\n[这句话里的「不需要」我老是习惯用中文思维往 don't need to 上靠，但其实正确读法是 don't design around BearEcho's format]\nThat line nails the current state of AI agents.\n[这句话很精辟地描述了现在 AI agent 的现状]\nDo we already have a cron for pruning slop? Isn't that overlapping with the notes loop?\n[我们是不是有重构删除 slop 的 cron，与笔记 loop 是不是重合了]\nAs you know, my phone is a Xiaomi 14 Ultra.\n[如你所知，我的手机是小米 14 Ultra]\nI'm wondering what else this phone can do for fun.\n[我想知道，手机还有什么好玩的地方]\nI don't play mobile games anymore, and I've uninstalled all the short-video apps — even Bilibili.\n[我现在不玩手机游戏了，短视频 app 也都尽量卸载了，连 B 站都卸了]\nAt this point, what I actually use is WeChat and X — the rest I barely touch.\n[到了这个地步，我真正常用的就是微信和 X，其他的基本不碰]\nBeyond that, what else do you think a phone is good for?\n[除此之外，你觉得手机还有什么有趣的地方]",
+  "created_at": "2026-11-18T01:01:00.796824Z",
+  "language_versions": {
+    "en": {
+      "tts_engine": "edge-tts",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "audio_url": "/audio/dev-user-001/de593549-28e9-479b-878a-9aedbeb9ca97/de593549-28e9-479b-878a-9aedbeb9ca97_en.wav",
+      "audio_rel_path": "/audio/20261118T010100Z_For_no_need_in_that__de593549-28e9-479b-878a-9aedbeb9ca97_en.wav",
+      "sentences": [
+        {
+          "text": "For \"no need\" in that sentence, I keep defaulting to \"don't need to\" — but the correct reading was \"don't design around BearEcho's format\".",
+          "start_time": 0.0,
+          "end_time": 8.664,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 37.992,
+          "end_time": 37.992,
+          "language": "en"
+        },
+        {
+          "text": "这句话里的「不需要」我老是习惯用中文思维往 don't need to 上靠，但其实正确读法是 don't design around BearEcho's format",
+          "start_time": 0.0,
+          "end_time": 8.664,
+          "language": "zh"
+        },
+        {
+          "text": "\n",
+          "start_time": 37.992,
+          "end_time": 37.992,
+          "language": "en"
+        },
+        {
+          "text": "That line nails the current state of AI agents.",
+          "start_time": 8.664,
+          "end_time": 12.384,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 37.992,
+          "end_time": 37.992,
+          "language": "en"
+        },
+        {
+          "text": "这句话很精辟地描述了现在 AI agent 的现状",
+          "start_time": 8.664,
+          "end_time": 12.384,
+          "language": "zh"
+        },
+        {
+          "text": "\n",
+          "start_time": 37.992,
+          "end_time": 37.992,
+          "language": "en"
+        },
+        {
+          "text": "Do we already have a cron for pruning slop? Isn't that overlapping with the notes loop?",
+          "start_time": 12.384,
+          "end_time": 16.944,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 37.992,
+          "end_time": 37.992,
+          "language": "en"
+        },
+        {
+          "text": "我们是不是有重构删除 slop 的 cron，与笔记 loop 是不是重合了",
+          "start_time": 12.384,
+          "end_time": 16.944,
+          "language": "zh"
+        },
+        {
+          "text": "\n",
+          "start_time": 37.992,
+          "end_time": 37.992,
+          "language": "en"
+        },
+        {
+          "text": "As you know, my phone is a Xiaomi 14 Ultra.",
+          "start_time": 16.944,
+          "end_time": 19.968,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 37.992,
+          "end_time": 37.992,
+          "language": "en"
+        },
+        {
+          "text": "如你所知，我的手机是小米 14 Ultra",
+          "start_time": 16.944,
+          "end_time": 19.968,
+          "language": "zh"
+        },
+        {
+          "text": "\n",
+          "start_time": 37.992,
+          "end_time": 37.992,
+          "language": "en"
+        },
+        {
+          "text": "I'm wondering what else this phone can do for fun.",
+          "start_time": 19.968,
+          "end_time": 22.752,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 37.992,
+          "end_time": 37.992,
+          "language": "en"
+        },
+        {
+          "text": "我想知道，手机还有什么好玩的地方",
+          "start_time": 19.968,
+          "end_time": 22.752,
+          "language": "zh"
+        },
+        {
+          "text": "\n",
+          "start_time": 37.992,
+          "end_time": 37.992,
+          "language": "en"
+        },
+        {
+          "text": "I don't play mobile games anymore, and I've uninstalled all the short-video apps — even Bilibili.",
+          "start_time": 22.752,
+          "end_time": 29.567999999999998,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 37.992,
+          "end_time": 37.992,
+          "language": "en"
+        },
+        {
+          "text": "我现在不玩手机游戏了，短视频 app 也都尽量卸载了，连 B 站都卸了",
+          "start_time": 22.752,
+          "end_time": 29.567999999999998,
+          "language": "zh"
+        },
+        {
+          "text": "\n",
+          "start_time": 37.992,
+          "end_time": 37.992,
+          "language": "en"
+        },
+        {
+          "text": "At this point, what I actually use is WeChat and X — the rest I barely touch.",
+          "start_time": 29.567999999999998,
+          "end_time": 35.04,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 37.992,
+          "end_time": 37.992,
+          "language": "en"
+        },
+        {
+          "text": "到了这个地步，我真正常用的就是微信和 X，其他的基本不碰",
+          "start_time": 29.567999999999998,
+          "end_time": 35.04,
+          "language": "zh"
+        },
+        {
+          "text": "\n",
+          "start_time": 37.992,
+          "end_time": 37.992,
+          "language": "en"
+        },
+        {
+          "text": "Beyond that, what else do you think a phone is good for?",
+          "start_time": 35.04,
+          "end_time": 37.992,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 37.992,
+          "end_time": 37.992,
+          "language": "en"
+        },
+        {
+          "text": "除此之外，你觉得手机还有什么有趣的地方",
+          "start_time": 35.04,
+          "end_time": 37.992,
+          "language": "zh"
+        },
+        {
+          "text": "\n",
+          "start_time": 37.992,
+          "end_time": 37.992,
+          "language": "en"
+        }
+      ]
+    }
+  }
+}
