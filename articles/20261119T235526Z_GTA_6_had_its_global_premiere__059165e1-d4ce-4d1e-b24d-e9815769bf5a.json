@@ -1,0 +1,221 @@
+{
+  "id": "059165e1-d4ce-4d1e-b24d-e9815769bf5a",
+  "title": "GTA 6 had its global premiere...",
+  "content_type": "paragraph",
+  "content_text": "GTA 6 had its global premiere at 7 p.m. last night, so I glued myself to a streamer's playthrough and pulled an all-nighter until 5 a.m.\n[昨天晚上7点GTA6全球首播，我就开始盯着主播直播游戏，一直通宵看到今天早上的5点钟。]\nMy alarm finally woke me up. I freshened up, opened my laptop — another work-from-home day instead of a day at the office.\n[刚刚才被闹钟叫醒，洗漱了一下把电脑打开。又是居家的一天，而不是办公的一天。]\nWe've still got 80% of this week's Zhipu token quota left — come up with some tasks that can burn it, and run the maintenance backlog at full scale.\n[这周智谱的token还剩80%，你可以制定一些消耗token的任务，之前慢慢治理的任务全量去做。]\nDon't wait for my sign-off — make the call yourself and go.\n[不用等我拍板，你自己判断后就去做。]\nRunning everything in one go might trip the 5-hour token cap, so we need a different strategy.\n[一次性全量跑可能会触发5个小时的token限额，需要修改策略。]\nWhat I have in mind is small batches going through the full cycle, then another pass.\n[我期望的是小批量全阶段循环执行一遍，然后再执行一遍。]\nWe're not burning tokens for the sake of burning tokens — the point is to distill a solid skill we can reuse later.\n[我们不要为了烧token而烧token，而是为了沉淀出一个很好的skill方便以后使用。]\nWhy doesn't the loop's self-review match what I expected? I figured we'd clean out a lot of redundant docs — a big-bang refactor — but the actual diff feels small.\n[为什么这个循环自检跟我预想的不太一样？我预想能清理掉很多多余的文档，有一个大规模重构，但实际改动范围感觉不是很多。]",
+  "created_at": "2026-11-19T23:55:26.057751Z",
+  "language_versions": {
+    "en": {
+      "tts_engine": "edge-tts",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "audio_url": "/audio/dev-user-001/059165e1-d4ce-4d1e-b24d-e9815769bf5a/059165e1-d4ce-4d1e-b24d-e9815769bf5a_en.wav",
+      "audio_rel_path": "/audio/20261119T235526Z_GTA_6_had_its_global_premiere__059165e1-d4ce-4d1e-b24d-e9815769bf5a_en.wav",
+      "sentences": [
+        {
+          "text": "GTA 6 had its global premiere at 7 p.m. last night, so I glued myself to a streamer's playthrough and pulled an all-nighter until 5 a.m.",
+          "start_time": 0.0,
+          "end_time": 9.408,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 57.144,
+          "end_time": 57.144,
+          "language": "en"
+        },
+        {
+          "text": "昨天晚上7点GTA6全球首播，我就开始盯着主播直播游戏，一直通宵看到今天早上的5点钟。",
+          "start_time": 0.0,
+          "end_time": 9.408,
+          "language": "zh"
+        },
+        {
+          "text": "\n",
+          "start_time": 57.144,
+          "end_time": 57.144,
+          "language": "en"
+        },
+        {
+          "text": "My alarm finally woke me up. I freshened up, opened my laptop — another work-from-home day instead of a day at the office.",
+          "start_time": 9.408,
+          "end_time": 16.919999999999998,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 57.144,
+          "end_time": 57.144,
+          "language": "en"
+        },
+        {
+          "text": "刚刚才被闹钟叫醒，洗漱了一下把电脑打开。",
+          "start_time": 9.408,
+          "end_time": 16.919999999999998,
+          "language": "zh"
+        },
+        {
+          "text": "又是居家的一天，而不是办公的一天。",
+          "start_time": 9.408,
+          "end_time": 16.919999999999998,
+          "language": "zh"
+        },
+        {
+          "text": "\n",
+          "start_time": 57.144,
+          "end_time": 57.144,
+          "language": "en"
+        },
+        {
+          "text": "We've still got 80% of this week's Zhipu token quota left — come up with some tasks that can burn it, and run the maintenance backlog at full scale.",
+          "start_time": 16.919999999999998,
+          "end_time": 25.848,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 57.144,
+          "end_time": 57.144,
+          "language": "en"
+        },
+        {
+          "text": "这周智谱的token还剩80%，你可以制定一些消耗token的任务，之前慢慢治理的任务全量去做。",
+          "start_time": 16.919999999999998,
+          "end_time": 25.848,
+          "language": "zh"
+        },
+        {
+          "text": "\n",
+          "start_time": 57.144,
+          "end_time": 57.144,
+          "language": "en"
+        },
+        {
+          "text": "Don't wait for my sign-off — make the call yourself and go.",
+          "start_time": 25.848,
+          "end_time": 29.544,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 57.144,
+          "end_time": 57.144,
+          "language": "en"
+        },
+        {
+          "text": "不用等我拍板，你自己判断后就去做。",
+          "start_time": 25.848,
+          "end_time": 29.544,
+          "language": "zh"
+        },
+        {
+          "text": "\n",
+          "start_time": 57.144,
+          "end_time": 57.144,
+          "language": "en"
+        },
+        {
+          "text": "Running everything in one go might trip the 5-hour token cap, so we need a different strategy.",
+          "start_time": 29.544,
+          "end_time": 35.592,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 57.144,
+          "end_time": 57.144,
+          "language": "en"
+        },
+        {
+          "text": "一次性全量跑可能会触发5个小时的token限额，需要修改策略。",
+          "start_time": 29.544,
+          "end_time": 35.592,
+          "language": "zh"
+        },
+        {
+          "text": "\n",
+          "start_time": 57.144,
+          "end_time": 57.144,
+          "language": "en"
+        },
+        {
+          "text": "What I have in mind is small batches going through the full cycle, then another pass.",
+          "start_time": 35.592,
+          "end_time": 40.583999999999996,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 57.144,
+          "end_time": 57.144,
+          "language": "en"
+        },
+        {
+          "text": "我期望的是小批量全阶段循环执行一遍，然后再执行一遍。",
+          "start_time": 35.592,
+          "end_time": 40.583999999999996,
+          "language": "zh"
+        },
+        {
+          "text": "\n",
+          "start_time": 57.144,
+          "end_time": 57.144,
+          "language": "en"
+        },
+        {
+          "text": "We're not burning tokens for the sake of burning tokens — the point is to distill a solid skill we can reuse later.",
+          "start_time": 40.583999999999996,
+          "end_time": 47.327999999999996,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 57.144,
+          "end_time": 57.144,
+          "language": "en"
+        },
+        {
+          "text": "我们不要为了烧token而烧token，而是为了沉淀出一个很好的skill方便以后使用。",
+          "start_time": 40.583999999999996,
+          "end_time": 47.327999999999996,
+          "language": "zh"
+        },
+        {
+          "text": "\n",
+          "start_time": 57.144,
+          "end_time": 57.144,
+          "language": "en"
+        },
+        {
+          "text": "Why doesn't the loop's self-review match what I expected? I figured we'd clean out a lot of redundant docs — a big-bang refactor — but the actual diff feels small.",
+          "start_time": 47.327999999999996,
+          "end_time": 57.144,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 57.144,
+          "end_time": 57.144,
+          "language": "en"
+        },
+        {
+          "text": "为什么这个循环自检跟我预想的不太一样？",
+          "start_time": 47.327999999999996,
+          "end_time": 57.144,
+          "language": "zh"
+        },
+        {
+          "text": "我预想能清理掉很多多余的文档，有一个大规模重构，但实际改动范围感觉不是很多。",
+          "start_time": 47.327999999999996,
+          "end_time": 57.144,
+          "language": "zh"
+        },
+        {
+          "text": "\n",
+          "start_time": 57.144,
+          "end_time": 57.144,
+          "language": "en"
+        }
+      ]
+    }
+  }
+}
