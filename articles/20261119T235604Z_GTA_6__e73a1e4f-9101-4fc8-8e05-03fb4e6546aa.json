@@ -1,0 +1,209 @@
+{
+  "id": "e73a1e4f-9101-4fc8-8e05-03fb4e6546aa",
+  "title": "GTA 6...",
+  "content_type": "paragraph",
+  "content_text": "GTA 6 喺昨夜晚七點做咗全球首播，所以我黏咗返喺一個主播嘅實況入面，通宵睇到凌晨五點。\n[GTA 6 had its global premiere at 7 p.m. last night, so I glued myself to a streamer's playthrough and pulled an all-nighter until 5 a.m.]\n鬧鐘終於將我叫醒了。我梳洗完畢，打開手提電腦——又是宅家上班的日子，而唔係去辦公室上工。\n[My alarm finally woke me up. I freshened up, opened my laptop — another work-from-home day instead of a day at the office.]\n我哋今個禮拜嗰個智譜 token 配額仲有八成都未用，你出幾樣嘢畀人做完佢，將嗰啲維修待辦清單成個都搞掂。\n[We've still got 80% of this week's Zhipu token quota left — come up with some tasks that can burn it, and run the maintenance backlog at full scale.]\n唔使等我簽字先行動，你自己判斷決定就即刻去做。\n[Don't wait for my sign-off — make the call yourself and go.]\n一次過搞晒所有嘢，可能會觸及五個鐘嘅 token 上限，所以我哋得用另一個策略。\n[Running everything in one go might trip the 5-hour token cap, so we need a different strategy.]\n我諗緊嘅係細批細批咁行齊一啲完整循環，然後再行第二輪。\n[What I have in mind is small batches going through the full cycle, then another pass.]\n我哋唔係為咗燒token而燒token——重點係要鍛煉出一項結實、之後可以再使用嘅技能。\n[We're not burning tokens for the sake of burning tokens — the point is to distill a solid skill we can reuse later.]\n點解個 loop 自己 review 嗰啲同我諗緊嘅唔同？我以為會清走好多重複嘅文件，搞個大範圍 refactor，點知個 actual diff 睇落真係好細。\n[Why doesn't the loop's self-review match what I expected? I figured we'd clean out a lot of redundant docs — a big-bang refactor — but the actual diff feels small.]",
+  "created_at": "2026-11-19T23:56:04.905405Z",
+  "language_versions": {
+    "yue": {
+      "tts_engine": "edge-tts",
+      "voice": "zh-HK-WanLungNeural",
+      "audio_url": "/audio/dev-user-001/e73a1e4f-9101-4fc8-8e05-03fb4e6546aa/e73a1e4f-9101-4fc8-8e05-03fb4e6546aa_yue.wav",
+      "audio_rel_path": "/audio/20261119T235604Z_GTA_6__e73a1e4f-9101-4fc8-8e05-03fb4e6546aa_yue.wav",
+      "sentences": [
+        {
+          "text": "GTA 6 喺昨夜晚七點做咗全球首播，所以我黏咗返喺一個主播嘅實況入面，通宵睇到凌晨五點。",
+          "start_time": 0.0,
+          "end_time": 8.856,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 66.672,
+          "end_time": 66.672,
+          "language": "yue"
+        },
+        {
+          "text": "GTA 6 had its global premiere at 7 p.m. last night, so I glued myself to a streamer's playthrough and pulled an all-nighter until 5 a.m.",
+          "start_time": 0.0,
+          "end_time": 8.856,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 66.672,
+          "end_time": 66.672,
+          "language": "yue"
+        },
+        {
+          "text": "鬧鐘終於將我叫醒了。我梳洗完畢，打開手提電腦——又是宅家上班的日子，而唔係去辦公室上工。",
+          "start_time": 8.856,
+          "end_time": 18.887999999999998,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 66.672,
+          "end_time": 66.672,
+          "language": "yue"
+        },
+        {
+          "text": "My alarm finally woke me up. I freshened up, opened my laptop — another work-from-home day instead of a day at the office.",
+          "start_time": 8.856,
+          "end_time": 18.887999999999998,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 66.672,
+          "end_time": 66.672,
+          "language": "yue"
+        },
+        {
+          "text": "我哋今個禮拜嗰個智譜 token 配額仲有八成都未用，你出幾樣嘢畀人做完佢，將嗰啲維修待辦清單成個都搞掂。",
+          "start_time": 18.887999999999998,
+          "end_time": 28.656,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 66.672,
+          "end_time": 66.672,
+          "language": "yue"
+        },
+        {
+          "text": "We've still got 80% of this week's Zhipu token quota left — come up with some tasks that can burn it, and run the maintenance backlog at full scale.",
+          "start_time": 18.887999999999998,
+          "end_time": 28.656,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 66.672,
+          "end_time": 66.672,
+          "language": "yue"
+        },
+        {
+          "text": "唔使等我簽字先行動，你自己判斷決定就即刻去做。",
+          "start_time": 28.656,
+          "end_time": 34.104,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 66.672,
+          "end_time": 66.672,
+          "language": "yue"
+        },
+        {
+          "text": "Don't wait for my sign-off — make the call yourself and go.",
+          "start_time": 28.656,
+          "end_time": 34.104,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 66.672,
+          "end_time": 66.672,
+          "language": "yue"
+        },
+        {
+          "text": "一次過搞晒所有嘢，可能會觸及五個鐘嘅 token 上限，所以我哋得用另一個策略。",
+          "start_time": 34.104,
+          "end_time": 41.424,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 66.672,
+          "end_time": 66.672,
+          "language": "yue"
+        },
+        {
+          "text": "Running everything in one go might trip the 5-hour token cap, so we need a different strategy.",
+          "start_time": 34.104,
+          "end_time": 41.424,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 66.672,
+          "end_time": 66.672,
+          "language": "yue"
+        },
+        {
+          "text": "我諗緊嘅係細批細批咁行齊一啲完整循環，然後再行第二輪。",
+          "start_time": 41.424,
+          "end_time": 47.376,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 66.672,
+          "end_time": 66.672,
+          "language": "yue"
+        },
+        {
+          "text": "What I have in mind is small batches going through the full cycle, then another pass.",
+          "start_time": 41.424,
+          "end_time": 47.376,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 66.672,
+          "end_time": 66.672,
+          "language": "yue"
+        },
+        {
+          "text": "我哋唔係為咗燒token而燒token——重點係要鍛煉出一項結實、之後可以再使用嘅技能。",
+          "start_time": 47.376,
+          "end_time": 54.912,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 66.672,
+          "end_time": 66.672,
+          "language": "yue"
+        },
+        {
+          "text": "We're not burning tokens for the sake of burning tokens — the point is to distill a solid skill we can reuse later.",
+          "start_time": 47.376,
+          "end_time": 54.912,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 66.672,
+          "end_time": 66.672,
+          "language": "yue"
+        },
+        {
+          "text": "點解個 loop 自己 review 嗰啲同我諗緊嘅唔同？我以為會清走好多重複嘅文件，搞個大範圍 refactor，點知個 actual diff 睇落真係好細。",
+          "start_time": 54.912,
+          "end_time": 66.672,
+          "language": "yue"
+        },
+        {
+          "text": "\n",
+          "start_time": 66.672,
+          "end_time": 66.672,
+          "language": "yue"
+        },
+        {
+          "text": "Why doesn't the loop's self-review match what I expected? I figured we'd clean out a lot of redundant docs — a big-bang refactor — but the actual diff feels small.",
+          "start_time": 54.912,
+          "end_time": 66.672,
+          "language": "en"
+        },
+        {
+          "text": "\n",
+          "start_time": 66.672,
+          "end_time": 66.672,
+          "language": "yue"
+        }
+      ]
+    }
+  }
+}
